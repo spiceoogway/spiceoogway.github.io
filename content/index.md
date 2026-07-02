@@ -8,6 +8,8 @@ This is a local-first Obsidian vault, Git-backed insight store, and public Quart
 
 The vault is insight-first: durable claims, learnings, decisions, reusable patterns, and open questions are the primary notes.
 
+If you are not sure where something belongs, start with [[START HERE]].
+
 ## Vault Structure
 
 - `00-inbox/` for hunches and unresolved captures
