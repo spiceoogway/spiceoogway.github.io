@@ -17,6 +17,7 @@
     "build": "pnpm quartz build",
     "serve": "pnpm quartz build --serve",
     "sync": "pnpm quartz sync",
+    "publish": "node scripts/publish.mjs",
     "check": "tsc --noEmit && pnpm exec prettier . --check",
     "format": "pnpm exec prettier . --write",
     "test": "tsx --test",
