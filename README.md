@@ -1,17 +1,41 @@
-# Quartz v5
+# Obsidian Quartz Vault
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This repo version-controls a new Obsidian vault and publishes it with Quartz to GitHub Pages.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## Structure
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+- `content/` is the Obsidian vault. Open this folder in Obsidian.
+- `quartz/`, `quartz.config.yaml`, and `quartz.lock.json` are the Quartz publishing setup.
+- `.github/workflows/deploy.yml` builds and deploys the site on every push to `v5`.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Local Workflow
 
-## Sponsors
+Install dependencies:
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+```sh
+pnpm install
+```
+
+Preview the site:
+
+```sh
+pnpm serve
+```
+
+Build the static site:
+
+```sh
+pnpm build
+```
+
+Commit and push notes:
+
+```sh
+git add content quartz.config.yaml quartz.lock.json pnpm-lock.yaml package.json .github/workflows/deploy.yml
+git commit -m "Update vault"
+git push
+```
+
+The published site is:
+
+https://spiceoogway.github.io/obsidian-quartz-vault/

@@ -1,25 +1,27 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "obsidian-quartz-vault",
+  "description": "Obsidian vault published with Quartz on GitHub Pages",
   "private": true,
   "version": "5.0.0",
   "type": "module",
+  "packageManager": "pnpm@9.13.1",
   "author": "jackyzha0 <j.zhao2k19@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://spiceoogway.github.io/obsidian-quartz-vault",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/spiceoogway/obsidian-quartz-vault.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "docs": "npx quartz build --serve -d docs",
-    "check": "tsc --noEmit && npx prettier . --check",
-    "format": "npx prettier . --write",
+    "build": "pnpm quartz build",
+    "serve": "pnpm quartz build --serve",
+    "sync": "pnpm quartz sync",
+    "check": "tsc --noEmit && pnpm exec prettier . --check",
+    "format": "pnpm exec prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts",
-    "prebuild": "npm run install-plugins"
+    "install-plugins": "pnpm quartz plugin install"
   },
   "engines": {
     "npm": ">=10.9.2",
@@ -47,6 +49,7 @@
     "esbuild-sass-plugin": "^3.6.0",
     "github-slugger": "^2.0.0",
     "globby": "^16.1.0",
+    "hast-util-from-html": "2.0.3",
     "hast-util-to-jsx-runtime": "^2.3.6",
     "isomorphic-git": "^1.36.3",
     "lightningcss": "^1.31.1",
@@ -75,13 +78,14 @@
     "@quartz-community/types": "github:quartz-community/types",
     "@quartz-community/utils": "github:quartz-community/utils",
     "@types/hast": "^3.0.4",
+    "@types/mdast": "4.0.4",
     "@types/node": "^25.0.10",
     "@types/pretty-time": "^1.1.5",
     "@types/source-map-support": "^0.5.10",
     "@types/ws": "^8.18.1",
     "@types/yargs": "^17.0.35",
     "esbuild": "^0.27.2",
-    "prettier": "^3.8.1",
+    "prettier": "3.8.1",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
   }
