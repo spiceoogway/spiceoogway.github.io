@@ -29,7 +29,7 @@ Publish notes:
 pnpm run publish -- "update notes"
 ```
 
-Auto-publish is also configured to run every 3 hours through Codex automations. It runs:
+Auto-publish is also configured to run every hour through Codex automations. It runs:
 
 ```sh
 pnpm run auto-publish
