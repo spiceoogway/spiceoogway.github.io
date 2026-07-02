@@ -29,6 +29,14 @@ Publish notes:
 pnpm run publish -- "update notes"
 ```
 
+Auto-publish is also configured to run every 3 hours through Codex automations. It runs:
+
+```sh
+pnpm run auto-publish
+```
+
+The auto-publish script exits without committing when there are no relevant local changes.
+
 The published site is:
 
 https://spiceoogway.github.io/
