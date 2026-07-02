@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: spiceoogway.github.io/obsidian-quartz-vault
+  baseUrl: spiceoogway.github.io
   ignorePatterns:
     - private
     - templates
@@ -225,7 +225,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/spiceoogway/obsidian-quartz-vault
+        GitHub: https://github.com/spiceoogway/spiceoogway.github.io
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer

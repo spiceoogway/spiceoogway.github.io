@@ -2,10 +2,10 @@
 
 This repo is Jakub's Obsidian vault and Quartz/GitHub Pages site.
 
-Vault path: `/Users/jakubjaniak/obsidian-quartz-vault/content`
+Vault path: `/Users/jakubjaniak/spiceoogway.github.io/content`
 Friendly Obsidian path: `/Users/jakubjaniak/Documents/Jakub Janiak Raw Notes`
-Public repo: `https://github.com/spiceoogway/obsidian-quartz-vault`
-Public site: `https://spiceoogway.github.io/obsidian-quartz-vault/`
+Public repo: `https://github.com/spiceoogway/spiceoogway.github.io`
+Public site: `https://spiceoogway.github.io/`
 Deploy branch: `v5`
 
 ## Core Rule

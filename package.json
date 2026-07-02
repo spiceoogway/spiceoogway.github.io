@@ -1,5 +1,5 @@
 {
-  "name": "obsidian-quartz-vault",
+  "name": "spiceoogway.github.io",
   "description": "Obsidian vault published with Quartz on GitHub Pages",
   "private": true,
   "version": "5.0.0",
@@ -7,10 +7,10 @@
   "packageManager": "pnpm@9.13.1",
   "author": "jackyzha0 <j.zhao2k19@gmail.com>",
   "license": "MIT",
-  "homepage": "https://spiceoogway.github.io/obsidian-quartz-vault",
+  "homepage": "https://spiceoogway.github.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/spiceoogway/obsidian-quartz-vault.git"
+    "url": "https://github.com/spiceoogway/spiceoogway.github.io.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",

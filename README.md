@@ -31,4 +31,4 @@ pnpm run publish -- "update notes"
 
 The published site is:
 
-https://spiceoogway.github.io/obsidian-quartz-vault/
+https://spiceoogway.github.io/
