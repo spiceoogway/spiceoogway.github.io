@@ -3,7 +3,7 @@
 This repo is Jakub's Obsidian vault and Quartz/GitHub Pages site.
 
 Vault path: `/Users/jakubjaniak/obsidian-quartz-vault/content`
-Friendly Obsidian path: `/Users/jakubjaniak/Documents/Obsidian Quartz Vault`
+Friendly Obsidian path: `/Users/jakubjaniak/Documents/Jakub Janiak Raw Notes`
 Public repo: `https://github.com/spiceoogway/obsidian-quartz-vault`
 Public site: `https://spiceoogway.github.io/obsidian-quartz-vault/`
 Deploy branch: `v5`
@@ -17,8 +17,6 @@ Do not automatically organize, classify, split, rewrite, or move notes. Only cur
 ## Where To Write
 
 - Normal notes go in `content/Notes/`.
-- Files, screenshots, PDFs, and images go in `content/attachments/`.
-- `content/START HERE.md` explains the simple workflow inside Obsidian.
 
 It is okay for notes to be messy. Do not force every note into an insight/source/project taxonomy.
 
@@ -59,6 +57,6 @@ Never store credentials, private keys, access tokens, passwords, seed phrases, r
 Ask before:
 
 - broad reorganization
-- deleting notes or attachments
+- deleting notes
 - changing publishing, branch, remote, or visibility settings
 - adding automation that captures or reorganizes notes

@@ -1,4 +1,4 @@
-# Obsidian Quartz Vault
+# Jakub Janiak Raw Notes
 
 This repo is a simple Obsidian vault published with Quartz to GitHub Pages.
 
@@ -6,7 +6,6 @@ This repo is a simple Obsidian vault published with Quartz to GitHub Pages.
 
 - `content/` is the Obsidian vault.
 - `content/Notes/` is the default place to write.
-- `content/attachments/` stores images, PDFs, screenshots, and exports.
 - `quartz/`, `quartz.config.yaml`, and `quartz.lock.json` are the publishing setup.
 - `.github/workflows/deploy.yml` builds and deploys the site on every push to `v5`.
 

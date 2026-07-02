@@ -1,18 +1,15 @@
 ---
-title: Home
+title: Jakub Janiak Raw Notes
 ---
 
-# Home
+# Jakub Janiak Raw Notes
 
-This is a local-first Obsidian vault, Git-backed insight store, and public Quartz site.
+This is a local-first Obsidian vault, Git-backed notes repo, and public Quartz site.
 
-The vault is intentionally simple.
-
-Start with [[START HERE]].
+The vault is intentionally simple: write in `Notes/`.
 
 ## Vault Structure
 
 - `Notes/` for writing
-- `attachments/` for files and media
 
 Publishing is handled with `pnpm run publish -- "<message>"`.
