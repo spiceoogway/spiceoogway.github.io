@@ -1,7 +1,12 @@
 #!/usr/bin/env node
 import { spawnSync } from "node:child_process"
 
-const message = process.argv.slice(2).join(" ").trim()
+const args = process.argv.slice(2)
+if (args[0] === "--") {
+  args.shift()
+}
+
+const message = args.join(" ").trim()
 
 if (!message) {
   console.error('Usage: pnpm run publish -- "<commit message>"')
