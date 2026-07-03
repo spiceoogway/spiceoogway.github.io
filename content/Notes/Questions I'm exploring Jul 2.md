@@ -71,4 +71,6 @@ Once you decide to train your own modal, what are the sorts of things you care a
 |Summer 2025|[SigmanticAI](https://www.ycombinator.com/companies/sigmanticai), [Halluminate](https://www.ycombinator.com/companies/halluminate), [Idler](https://www.ycombinator.com/companies/idler), [MangoDesk](https://www.ycombinator.com/companies/mangodesk), [Monte](https://www.ycombinator.com/companies/monte)|
 |Spring 2025|[The LLM Data Company](https://www.ycombinator.com/companies/the-llm-data-company), [RunRL](https://www.ycombinator.com/companies/runrl), [Aviro](https://www.ycombinator.com/companies/aviro), [Refresh](https://www.ycombinator.com/companies/refresh), [Cartpole](https://www.ycombinator.com/companies/cartpole), [Klavis AI](https://www.ycombinator.com/companies/klavis-ai), [Feyn](https://www.ycombinator.com/companies/feyn)|
 |Winter 2025|[Osmosis](https://www.ycombinator.com/companies/osmosis), [TrainLoop](https://www.ycombinator.com/companies/trainloop), [Nitrode](https://www.ycombinator.com/companies/nitrode), [AfterQuery](https://www.ycombinator.com/companies/afterquery), [Mundo AI](https://www.ycombinator.com/companies/mundo-ai), [ZeroEntropy](https://www.ycombinator.com/companies/zeroentropy), [HUD](https://www.ycombinator.com/companies/hud)|
-- Why is AI alignment 
+- How do context windows relate to this log sigmoid scaling law?
+	- https://edge-bench.org/paper.pdf 
+		- 
