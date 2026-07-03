@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Jakub Janiak Raw Notes</title>
+      <link>https://spiceoogway.github.io</link>
+      <description>Last 10 notes on Jakub Janiak Raw Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Notes</title>
+    <link>https://spiceoogway.github.io/notes/</link>
+    <guid>https://spiceoogway.github.io/notes/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 03 Jul 2026 14:59:33 GMT</pubDate>
+  </item><item>
+    <title>Tag Index</title>
+    <link>https://spiceoogway.github.io/tags/</link>
+    <guid>https://spiceoogway.github.io/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 03 Jul 2026 14:59:33 GMT</pubDate>
+  </item><item>
+    <title>Questions I&#039;m exploring Jul 2</title>
+    <link>https://spiceoogway.github.io/notes/questions-i'm-exploring-jul-2</link>
+    <guid>https://spiceoogway.github.io/notes/questions-i'm-exploring-jul-2</guid>
+    <description><![CDATA[  Will context windows really not get that large? What is driving that improvement in sample efficiency? Better training distribution, larger models, longer context lets you feed in more examples. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 14:50:46 GMT</pubDate>
+  </item><item>
+    <title>Compute and Power structural similarities</title>
+    <link>https://spiceoogway.github.io/notes/compute-and-power-structural-similarities</link>
+    <guid>https://spiceoogway.github.io/notes/compute-and-power-structural-similarities</guid>
+    <description><![CDATA[ Compute has some similarities to the power market. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 12:28:42 GMT</pubDate>
+  </item><item>
+    <title>Compute spend high level user categories</title>
+    <link>https://spiceoogway.github.io/notes/compute-spend-high-level-user-categories</link>
+    <guid>https://spiceoogway.github.io/notes/compute-spend-high-level-user-categories</guid>
+    <description><![CDATA[ Categories: Compute to pay for training Revenue centers where particular performance / $ spend is more valuable to custom train a model Compute to pay for inference Revenue centers Companies that can direct measure token spend to revenue conversion Problem: Optimizing performance and margin on token... ]]></description>
+    <pubDate>Fri, 03 Jul 2026 12:28:42 GMT</pubDate>
+  </item><item>
+    <title>Money, utility functions, and equality</title>
+    <link>https://spiceoogway.github.io/notes/money,-utility-functions,-and-equality</link>
+    <guid>https://spiceoogway.github.io/notes/money,-utility-functions,-and-equality</guid>
+    <description><![CDATA[  Wealth inequality is a function of: Homogenous utility functions and a critical underproduction of a single good Wealth equality is a function of: Heterogenous utility functions No critical underproduction of a single good Thus wealth equality would seem like a good thing. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 12:28:42 GMT</pubDate>
+  </item><item>
+    <title>Utility functions audio note</title>
+    <link>https://spiceoogway.github.io/notes/utility-functions-audio-note</link>
+    <guid>https://spiceoogway.github.io/notes/utility-functions-audio-note</guid>
+    <description><![CDATA[ musings Something that I’m trying to think through. I’ve had one finding, which is that utility functions and money are probably correlated. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 12:28:42 GMT</pubDate>
+  </item><item>
+    <title>Jakub Janiak Raw Notes</title>
+    <link>https://spiceoogway.github.io/</link>
+    <guid>https://spiceoogway.github.io/</guid>
+    <description><![CDATA[ Jakub Janiak Raw Notes These are my raw notes. Nothing really intentional here beside making my thoughts more legible to others. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 12:28:42 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
