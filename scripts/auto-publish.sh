@@ -2,6 +2,11 @@
 set -euo pipefail
 
 export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export COREPACK_ENABLE_DOWNLOAD_PROMPT=0
+
+if [[ ! -t 0 ]]; then
+  export CI="${CI:-1}"
+fi
 
 REPO="/Users/jakubjaniak/spiceoogway.github.io"
 LOCKDIR="/tmp/spiceoogway-raw-notes-auto-publish.lock"
@@ -12,6 +17,7 @@ PUBLISH_PATHS=(
   "README.md"
   ".github/workflows"
   ".gitignore"
+  ".prettierignore"
   "content"
   "package.json"
   "pnpm-lock.yaml"

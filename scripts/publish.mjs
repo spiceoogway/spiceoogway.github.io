@@ -44,6 +44,7 @@ run("git", [
   "README.md",
   ".github/workflows",
   ".gitignore",
+  ".prettierignore",
   "content",
   "package.json",
   "pnpm-lock.yaml",
