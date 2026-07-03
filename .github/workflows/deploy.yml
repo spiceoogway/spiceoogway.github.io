@@ -7,16 +7,14 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: pages
   cancel-in-progress: true
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -33,9 +31,6 @@ jobs:
         uses: pnpm/action-setup@v6
         with:
           version: 9.13.1
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v6
 
       - name: Cache pnpm store
         uses: actions/cache@v6
@@ -62,18 +57,34 @@ jobs:
       - name: Build Quartz
         run: pnpm quartz build
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v5
-        with:
-          path: public
+      - name: Deploy public directory to gh-pages
+        run: |
+          set -euo pipefail
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          deploy_dir="$(mktemp -d)"
+          cp -R public/. "$deploy_dir/"
+          touch "$deploy_dir/.nojekyll"
+
+          git fetch origin gh-pages || true
+
+          if git rev-parse --verify origin/gh-pages >/dev/null 2>&1; then
+            git switch --detach origin/gh-pages
+          else
+            git switch --orphan gh-pages
+          fi
+
+          git rm -rf . >/dev/null 2>&1 || true
+          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -R "$deploy_dir"/. .
+
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to deploy."
+            exit 0
+          fi
+
+          git commit -m "deploy: ${GITHUB_SHA}"
+          git push --force origin HEAD:gh-pages
