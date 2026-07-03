@@ -29,13 +29,13 @@ Publish notes:
 pnpm run publish -- "update notes"
 ```
 
-Auto-publish is also configured to run every hour through Codex automations. It runs:
+Auto-publish is also configured to run every hour through Codex automations. It runs the shell script directly:
 
 ```sh
-pnpm run auto-publish
+scripts/auto-publish.sh
 ```
 
-The auto-publish script exits without committing when there are no relevant local changes.
+The auto-publish script only commits changed files under `content/`, then pushes to `v5`. GitHub Actions builds and deploys the site from that push. The script exits without committing when there are no relevant local changes.
 
 The published site is:
 

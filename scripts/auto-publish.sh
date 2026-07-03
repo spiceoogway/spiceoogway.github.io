@@ -2,29 +2,12 @@
 set -euo pipefail
 
 export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin"
-export COREPACK_ENABLE_DOWNLOAD_PROMPT=0
-
-if [[ ! -t 0 ]]; then
-  export CI="${CI:-1}"
-fi
 
 REPO="/Users/jakubjaniak/spiceoogway.github.io"
 LOCKDIR="/tmp/spiceoogway-raw-notes-auto-publish.lock"
 
 PUBLISH_PATHS=(
-  "AGENTS.md"
-  "CLAUDE.md"
-  "README.md"
-  ".github/workflows"
-  ".gitignore"
-  ".prettierignore"
   "content"
-  "package.json"
-  "pnpm-lock.yaml"
-  "quartz.config.yaml"
-  "quartz.lock.json"
-  "quartz/plugins/vfile.ts"
-  "scripts"
 )
 
 cd "$REPO"
@@ -35,6 +18,11 @@ if ! mkdir "$LOCKDIR" 2>/dev/null; then
 fi
 
 trap 'rmdir "$LOCKDIR"' EXIT
+
+if [[ "$(git rev-parse --abbrev-ref HEAD)" != "v5" ]]; then
+  echo "Auto-publish must run on the v5 branch."
+  exit 1
+fi
 
 if [[ -z "$(git status --porcelain --untracked-files=all -- "${PUBLISH_PATHS[@]}")" ]]; then
   echo "No relevant changes to auto-publish."
@@ -47,4 +35,12 @@ if [[ "${DRY_RUN:-}" == "1" ]]; then
   exit 0
 fi
 
-pnpm run publish -- "auto: publish notes $(date '+%Y-%m-%d %H:%M %Z')"
+git add -A -- "${PUBLISH_PATHS[@]}"
+
+if git diff --cached --quiet; then
+  echo "No staged note changes to auto-publish."
+  exit 0
+fi
+
+git commit -m "auto: publish notes $(date '+%Y-%m-%d %H:%M %Z')"
+git push origin v5

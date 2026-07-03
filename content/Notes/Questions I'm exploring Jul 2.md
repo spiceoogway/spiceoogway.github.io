@@ -73,4 +73,4 @@ Once you decide to train your own modal, what are the sorts of things you care a
 |Winter 2025|[Osmosis](https://www.ycombinator.com/companies/osmosis), [TrainLoop](https://www.ycombinator.com/companies/trainloop), [Nitrode](https://www.ycombinator.com/companies/nitrode), [AfterQuery](https://www.ycombinator.com/companies/afterquery), [Mundo AI](https://www.ycombinator.com/companies/mundo-ai), [ZeroEntropy](https://www.ycombinator.com/companies/zeroentropy), [HUD](https://www.ycombinator.com/companies/hud)|
 - How do context windows relate to this log sigmoid scaling law?
 	- https://edge-bench.org/paper.pdf 
-		- 
+- **What's poetiq, ricursive, unconventional, neocognition, zyphra up to?**

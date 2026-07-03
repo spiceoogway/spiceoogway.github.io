@@ -44,7 +44,7 @@ pnpm run publish -- "<message>"
 
 The publish script checks formatting/types, builds Quartz, stages intended vault/project files, commits, and pushes to `v5`. GitHub Pages deploys after push.
 
-Auto-publish runs every hour via Codex automations. It should run `pnpm run auto-publish`, which exits quietly when there are no relevant local changes.
+Auto-publish runs every hour via Codex automations. It should run `scripts/auto-publish.sh` directly, not through pnpm. The script only commits changed files under `content/`, then pushes to `v5`; GitHub Actions owns build/deploy. It exits quietly when there are no relevant local changes.
 
 Do not use npm for package management commands.
 
