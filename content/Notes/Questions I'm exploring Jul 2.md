@@ -74,3 +74,5 @@ Once you decide to train your own modal, what are the sorts of things you care a
 - How do context windows relate to this log sigmoid scaling law?
 	- https://edge-bench.org/paper.pdf 
 - **What's poetiq, ricursive, unconventional, neocognition, zyphra up to?**
+- Who has the most sophisticated approach to AI alignment?
+	- Anthropic's control alignment at the nation state level seems like a ***schelling point solution***
