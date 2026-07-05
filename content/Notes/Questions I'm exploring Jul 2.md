@@ -60,6 +60,7 @@ Once you decide to train your own modal, what are the sorts of things you care a
 
 **Jul-3rd questions**
 - Does Thinking Machines have training only revenue?
+	- I think it's ~5% production inference, primarily because their deployment docs push to host on Hugging Face & they deprecate old models.
 - What product / model currently has the most frequent continuous retraining cycles?
 - Review list of potential YC companies engaging in LLM training. Identify patterns.
 
@@ -73,6 +74,10 @@ Once you decide to train your own modal, what are the sorts of things you care a
 |Winter 2025|[Osmosis](https://www.ycombinator.com/companies/osmosis), [TrainLoop](https://www.ycombinator.com/companies/trainloop), [Nitrode](https://www.ycombinator.com/companies/nitrode), [AfterQuery](https://www.ycombinator.com/companies/afterquery), [Mundo AI](https://www.ycombinator.com/companies/mundo-ai), [ZeroEntropy](https://www.ycombinator.com/companies/zeroentropy), [HUD](https://www.ycombinator.com/companies/hud)|
 - How do context windows relate to this log sigmoid scaling law?
 	- https://edge-bench.org/paper.pdf 
+	- Seems to reduce learning rate but raises score ceiling
+		- Models are able to track state by writing to files
 - **What's poetiq, ricursive, unconventional, neocognition, zyphra up to?**
+	- Poetiq -> seems like harness engineering. 
+	- Ricursive -> AI for chip design
 - Who has the most sophisticated approach to AI alignment?
 	- Anthropic's control alignment at the nation state level seems like a ***schelling point solution***
