@@ -4,20 +4,12 @@ set -euo pipefail
 export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 
 REPO="/Users/jakubjaniak/spiceoogway.github.io"
-LOCKDIR="/tmp/spiceoogway-raw-notes-auto-publish.lock"
 
 PUBLISH_PATHS=(
   "content"
 )
 
 cd "$REPO"
-
-if ! mkdir "$LOCKDIR" 2>/dev/null; then
-  echo "Auto-publish already running; exiting."
-  exit 0
-fi
-
-trap 'rmdir "$LOCKDIR"' EXIT
 
 if [[ "$(git rev-parse --abbrev-ref HEAD)" != "v5" ]]; then
   echo "Auto-publish must run on the v5 branch."
