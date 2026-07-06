@@ -10,19 +10,25 @@
     <link>https://spiceoogway.github.io/notes/</link>
     <guid>https://spiceoogway.github.io/notes/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 05 Jul 2026 19:10:36 GMT</pubDate>
+    <pubDate>Mon, 06 Jul 2026 23:43:08 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://spiceoogway.github.io/tags/</link>
     <guid>https://spiceoogway.github.io/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 05 Jul 2026 19:10:36 GMT</pubDate>
+    <pubDate>Mon, 06 Jul 2026 23:43:08 GMT</pubDate>
+  </item><item>
+    <title>AI Alignment Schools of Thought</title>
+    <link>https://spiceoogway.github.io/notes/ai-alignment-schools-of-thought</link>
+    <guid>https://spiceoogway.github.io/notes/ai-alignment-schools-of-thought</guid>
+    <description><![CDATA[ It seems to be that there are two major schools of thought for AI alignment work: AI as a tool AI as a self but having completely internalized human values Fundamentally, LLMs are predictors and they will inevitably have some kind of self-prediction. ]]></description>
+    <pubDate>Mon, 06 Jul 2026 23:42:44 GMT</pubDate>
   </item><item>
     <title>Questions I&#039;m exploring Jul 2</title>
     <link>https://spiceoogway.github.io/notes/questions-i'm-exploring-jul-2</link>
     <guid>https://spiceoogway.github.io/notes/questions-i'm-exploring-jul-2</guid>
     <description><![CDATA[  Will context windows really not get that large? What is driving that improvement in sample efficiency? Better training distribution, larger models, longer context lets you feed in more examples. ]]></description>
-    <pubDate>Sun, 05 Jul 2026 19:10:11 GMT</pubDate>
+    <pubDate>Mon, 06 Jul 2026 23:42:44 GMT</pubDate>
   </item><item>
     <title>Schelling Points and Garrabrant Induction</title>
     <link>https://spiceoogway.github.io/notes/schelling-points-and-garrabrant-induction</link>
