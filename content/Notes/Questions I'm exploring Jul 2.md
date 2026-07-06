@@ -64,14 +64,19 @@ Once you decide to train your own modal, what are the sorts of things you care a
 - What product / model currently has the most frequent continuous retraining cycles?
 - Review list of potential YC companies engaging in LLM training. Identify patterns.
 
-|Cohort|Teams|
-|---|---|
-|Spring 2026|[PerfectBit](https://www.ycombinator.com/companies/perfectbit-inc), [Zibra Labs](https://www.ycombinator.com/companies/zibra-labs), [Hub](https://www.ycombinator.com/companies/hub)|
-|Winter 2026|[Rubric AI](https://www.ycombinator.com/companies/rubric-ai), [Cascade](https://www.ycombinator.com/companies/cascade), [Polymath](https://www.ycombinator.com/companies/polymath), [Cumulus Labs](https://www.ycombinator.com/companies/cumulus-labs), [Synthetic Sciences](https://www.ycombinator.com/companies/synthetic-sciences)|
-|Fall 2025|[Sciloop](https://www.ycombinator.com/companies/sciloop), [hillclimb](https://www.ycombinator.com/companies/hillclimb), [Zalos](https://www.ycombinator.com/companies/zalos), [SF Tensor](https://www.ycombinator.com/companies/sf-tensor)|
-|Summer 2025|[SigmanticAI](https://www.ycombinator.com/companies/sigmanticai), [Halluminate](https://www.ycombinator.com/companies/halluminate), [Idler](https://www.ycombinator.com/companies/idler), [MangoDesk](https://www.ycombinator.com/companies/mangodesk), [Monte](https://www.ycombinator.com/companies/monte)|
-|Spring 2025|[The LLM Data Company](https://www.ycombinator.com/companies/the-llm-data-company), [RunRL](https://www.ycombinator.com/companies/runrl), [Aviro](https://www.ycombinator.com/companies/aviro), [Refresh](https://www.ycombinator.com/companies/refresh), [Cartpole](https://www.ycombinator.com/companies/cartpole), [Klavis AI](https://www.ycombinator.com/companies/klavis-ai), [Feyn](https://www.ycombinator.com/companies/feyn)|
-|Winter 2025|[Osmosis](https://www.ycombinator.com/companies/osmosis), [TrainLoop](https://www.ycombinator.com/companies/trainloop), [Nitrode](https://www.ycombinator.com/companies/nitrode), [AfterQuery](https://www.ycombinator.com/companies/afterquery), [Mundo AI](https://www.ycombinator.com/companies/mundo-ai), [ZeroEntropy](https://www.ycombinator.com/companies/zeroentropy), [HUD](https://www.ycombinator.com/companies/hud)|
+| Cohort      | Teams                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Spring 2026 | [PerfectBit](https://www.ycombinator.com/companies/perfectbit-inc), [Zibra Labs](https://www.ycombinator.com/companies/zibra-labs), [Hub](https://www.ycombinator.com/companies/hub)                                                                                                                                                                                                                                                   |
+| Winter 2026 | [Rubric AI](https://www.ycombinator.com/companies/rubric-ai), [Cascade](https://www.ycombinator.com/companies/cascade), [Polymath](https://www.ycombinator.com/companies/polymath), [Cumulus Labs](https://www.ycombinator.com/companies/cumulus-labs), [Synthetic Sciences](https://www.ycombinator.com/companies/synthetic-sciences)                                                                                                 |
+| Fall 2025   | [Sciloop](https://www.ycombinator.com/companies/sciloop), [hillclimb](https://www.ycombinator.com/companies/hillclimb), [Zalos](https://www.ycombinator.com/companies/zalos), [SF Tensor](https://www.ycombinator.com/companies/sf-tensor)                                                                                                                                                                                             |
+| Summer 2025 | [SigmanticAI](https://www.ycombinator.com/companies/sigmanticai), [Halluminate](https://www.ycombinator.com/companies/halluminate), [Idler](https://www.ycombinator.com/companies/idler), [MangoDesk](https://www.ycombinator.com/companies/mangodesk), [Monte](https://www.ycombinator.com/companies/monte)                                                                                                                           |
+| Spring 2025 | [The LLM Data Company](https://www.ycombinator.com/companies/the-llm-data-company), [RunRL](https://www.ycombinator.com/companies/runrl), [Aviro](https://www.ycombinator.com/companies/aviro), [Refresh](https://www.ycombinator.com/companies/refresh), [Cartpole](https://www.ycombinator.com/companies/cartpole), [Klavis AI](https://www.ycombinator.com/companies/klavis-ai), [Feyn](https://www.ycombinator.com/companies/feyn) |
+| Winter 2025 | [Osmosis](https://www.ycombinator.com/companies/osmosis), [TrainLoop](https://www.ycombinator.com/companies/trainloop), [Nitrode](https://www.ycombinator.com/companies/nitrode), [AfterQuery](https://www.ycombinator.com/companies/afterquery), [Mundo AI](https://www.ycombinator.com/companies/mundo-ai), [ZeroEntropy](https://www.ycombinator.com/companies/zeroentropy), [HUD](https://www.ycombinator.com/companies/hud)       |
+- Companies
+	- PerfectBit - data company on high quality real world data
+	- Zibra - distributed training clusters
+	- Hub - real world data
+	- 
 - How do context windows relate to this log sigmoid scaling law?
 	- https://edge-bench.org/paper.pdf 
 	- Seems to reduce learning rate but raises score ceiling
@@ -79,5 +84,21 @@ Once you decide to train your own modal, what are the sorts of things you care a
 - **What's poetiq, ricursive, unconventional, neocognition, zyphra up to?**
 	- Poetiq -> seems like harness engineering. 
 	- Ricursive -> AI for chip design
+	- 
 - Who has the most sophisticated approach to AI alignment?
 	- Anthropic's control alignment at the nation state level seems like a ***schelling point solution***
+	- Anca Dragan
+
+Reading:
+https://www.lesswrong.com/posts/dmHbogCFbSp95J3Lz/i-think-alignment-work-is-more-promising-than-control-work
+
+https://www.lesswrong.com/posts/gYGzeDymjZza5NNbH/a-case-for-llms-as-self-predictors
+- Mentored by Richard Ngo -> really strong mental model for LLMs as pure predictors. no reward or utility function. 
+	- misalignment during eval awareness is just a prediction with high likelihood ("I'm in an eval" -> "An LLM misaligned in an eval is high likelihood")
+
+https://www.lesswrong.com/posts/MNRZL69FWkjNABd3T/conversation-among-cade-metz-michael-vassar-jessica-taylor
+- "**MV**: I was speculating that the beta on doomerism is greater than the alpha on correct prediction."
+	- referring to the rising social status of EY over kurzweil despite kurzweil's correct predictions
+- this whole post is retarded, don't read
+
+
