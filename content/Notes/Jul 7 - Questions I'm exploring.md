@@ -1,0 +1,3 @@
+- What is the relationship between interaction models and next action prediction?
+- Is there an economic incentive to be pulled out of the loop (turned into a value consumer) versus remaining in the loop (turned into a value producer)?
+- 
