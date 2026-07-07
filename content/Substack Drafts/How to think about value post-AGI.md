@@ -8,6 +8,6 @@ Core pieces:
 
 tldr; 
 - there is a natural force to pull you (and humans) out of the loop (changing people's reward functions) -> reward hacking optimizer
-- there seems to be an equal counterbalancing force -> ???
-	- examples include (violence as a result of inequality, humanism/egalitarianism, the solution to moloch and humans apparent ability to cooperate)
+- there seems to be an equal counterbalancing force -> legitimacy
+	- legitimacy is a schelling point strategy granted to entities that are non-exploitative against utility functions
 - remaining in the loop via the use of technology will make you immensely wealthy. keeping humans in the loop will make society immensely wealthy.
