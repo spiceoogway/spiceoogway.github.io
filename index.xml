@@ -10,13 +10,37 @@
     <link>https://spiceoogway.github.io/notes/</link>
     <guid>https://spiceoogway.github.io/notes/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 07 Jul 2026 13:29:18 GMT</pubDate>
+    <pubDate>Tue, 07 Jul 2026 16:43:13 GMT</pubDate>
+  </item><item>
+    <title>Substack Drafts</title>
+    <link>https://spiceoogway.github.io/substack-drafts/</link>
+    <guid>https://spiceoogway.github.io/substack-drafts/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 07 Jul 2026 16:43:13 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://spiceoogway.github.io/tags/</link>
     <guid>https://spiceoogway.github.io/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 07 Jul 2026 13:29:18 GMT</pubDate>
+    <pubDate>Tue, 07 Jul 2026 16:43:13 GMT</pubDate>
+  </item><item>
+    <title>Jul 2 - Questions I&#039;m exploring</title>
+    <link>https://spiceoogway.github.io/notes/jul-2---questions-i'm-exploring</link>
+    <guid>https://spiceoogway.github.io/notes/jul-2---questions-i'm-exploring</guid>
+    <description><![CDATA[  Will context windows really not get that large? What is driving that improvement in sample efficiency? Better training distribution, larger models, longer context lets you feed in more examples. ]]></description>
+    <pubDate>Tue, 07 Jul 2026 16:42:47 GMT</pubDate>
+  </item><item>
+    <title>Jul 7 - Questions I&#039;m exploring</title>
+    <link>https://spiceoogway.github.io/notes/jul-7---questions-i'm-exploring</link>
+    <guid>https://spiceoogway.github.io/notes/jul-7---questions-i'm-exploring</guid>
+    <description><![CDATA[  What is the relationship between interaction models and next action prediction? Is there an economic incentive to be pulled out of the loop (turned into a value consumer) versus remaining in the loop (turned into a value producer)? . ]]></description>
+    <pubDate>Tue, 07 Jul 2026 16:42:47 GMT</pubDate>
+  </item><item>
+    <title>How to think about value post-AGI</title>
+    <link>https://spiceoogway.github.io/substack-drafts/how-to-think-about-value-post-agi</link>
+    <guid>https://spiceoogway.github.io/substack-drafts/how-to-think-about-value-post-agi</guid>
+    <description><![CDATA[ Core pieces: Money is a subjective construct that allows us to trade between utility functions? You can reward hack money and other people’s utility functions? Web of belief, cognitive security, increased leverage What is value uncertainty and how does it relate to AI alignment? What does this have ... ]]></description>
+    <pubDate>Tue, 07 Jul 2026 16:42:47 GMT</pubDate>
   </item><item>
     <title>Untitled</title>
     <link>https://spiceoogway.github.io/notes/untitled</link>
@@ -30,12 +54,6 @@
     <description><![CDATA[ It seems to be that there are two major schools of thought for AI alignment work: AI as a tool AI as a self but having completely internalized human values Fundamentally, LLMs are predictors and they will inevitably have some kind of self-prediction. ]]></description>
     <pubDate>Tue, 07 Jul 2026 02:06:47 GMT</pubDate>
   </item><item>
-    <title>Questions I&#039;m exploring Jul 2</title>
-    <link>https://spiceoogway.github.io/notes/questions-i'm-exploring-jul-2</link>
-    <guid>https://spiceoogway.github.io/notes/questions-i'm-exploring-jul-2</guid>
-    <description><![CDATA[  Will context windows really not get that large? What is driving that improvement in sample efficiency? Better training distribution, larger models, longer context lets you feed in more examples. ]]></description>
-    <pubDate>Mon, 06 Jul 2026 23:42:44 GMT</pubDate>
-  </item><item>
     <title>Schelling Points and Garrabrant Induction</title>
     <link>https://spiceoogway.github.io/notes/schelling-points-and-garrabrant-induction</link>
     <guid>https://spiceoogway.github.io/notes/schelling-points-and-garrabrant-induction</guid>
@@ -46,24 +64,6 @@
     <link>https://spiceoogway.github.io/notes/compute-and-power-structural-similarities</link>
     <guid>https://spiceoogway.github.io/notes/compute-and-power-structural-similarities</guid>
     <description><![CDATA[ Compute has some similarities to the power market. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 12:28:42 GMT</pubDate>
-  </item><item>
-    <title>Compute spend high level user categories</title>
-    <link>https://spiceoogway.github.io/notes/compute-spend-high-level-user-categories</link>
-    <guid>https://spiceoogway.github.io/notes/compute-spend-high-level-user-categories</guid>
-    <description><![CDATA[ Categories: Compute to pay for training Revenue centers where particular performance / $ spend is more valuable to custom train a model Compute to pay for inference Revenue centers Companies that can direct measure token spend to revenue conversion Problem: Optimizing performance and margin on token... ]]></description>
-    <pubDate>Fri, 03 Jul 2026 12:28:42 GMT</pubDate>
-  </item><item>
-    <title>Money, utility functions, and equality</title>
-    <link>https://spiceoogway.github.io/notes/money,-utility-functions,-and-equality</link>
-    <guid>https://spiceoogway.github.io/notes/money,-utility-functions,-and-equality</guid>
-    <description><![CDATA[  Wealth inequality is a function of: Homogenous utility functions and a critical underproduction of a single good Wealth equality is a function of: Heterogenous utility functions No critical underproduction of a single good Thus wealth equality would seem like a good thing. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 12:28:42 GMT</pubDate>
-  </item><item>
-    <title>Utility functions audio note</title>
-    <link>https://spiceoogway.github.io/notes/utility-functions-audio-note</link>
-    <guid>https://spiceoogway.github.io/notes/utility-functions-audio-note</guid>
-    <description><![CDATA[ musings Something that I’m trying to think through. I’ve had one finding, which is that utility functions and money are probably correlated. ]]></description>
     <pubDate>Fri, 03 Jul 2026 12:28:42 GMT</pubDate>
   </item>
     </channel>
