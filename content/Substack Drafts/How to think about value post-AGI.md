@@ -6,4 +6,4 @@ Core pieces:
 - What is value uncertainty and how does it relate to AI alignment?
 - What does this have to do with staying in the loop, safety, and succession?
 
-tldr; there is a natural force to pull you (and humans) out of the loop, kee
+tldr; there is a natural force to pull you (and humans) out of the loop (changing people's reward functions), there 
