@@ -47,3 +47,6 @@ Much more content on this here
 The ethical incentive problem with the first approach.
 - How do we deal with an extension of the mind that may in itself be conscious?
 	- Eg. if my exocortex has phenomenal experience, but my neocortex has a different experience, how do they integrate?
+
+to note
+- we ought to act with welfare towards all and everything regardless of our certainty on its “moral status” (the phrase itself is confused)
