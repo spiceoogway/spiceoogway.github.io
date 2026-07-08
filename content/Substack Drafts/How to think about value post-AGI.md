@@ -12,31 +12,37 @@ tldr;
 	- legitimacy is a schelling point strategy granted to entities that are non-exploitative against utility functions
 - remaining in the loop via the use of technology will make you immensely wealthy. keeping humans in the loop will make society immensely wealthy.
 
- **AGI Futures: Two Forces**
+What success looks like
 
-Slavery was the most profitable to labor arrangement ever devised, yet we abolished it. Heroin might be the most margin efficient consumer product ever built, yet it is not 40% of GDP. College student
+Slavery was the most profitable to labor arrangement ever devised, yet we abolished it. Heroin might be the most margin efficient consumer product ever built, yet most have never tried it. How is it that some of the most profitable strategies in history keep losing. To *what?*
 
-First, what is 
+**First, what makes these strategies immensely profitable?**
 
- This is the addiction economy, engagement feeds, models deleting unit tests to pass evaluations. Paul Christiano's humans going out with a whimper. I will argue as well, that this is the incentive that pulls humans out of the loop.  
+ Today, we may recognize this flavor of strategies as the addiction economy: algorithmic engagement feeds, gacha games, sports betting, oxycontin prescriptions. On a fundamental level, they convince users to make long-term sacrifices in self-interest in return for short-term games (perhaps akin to [hyperbolic discouting]()). *Note: In the case of slavery and indentured servitude, coercion is often used to strip humans from rights against a society's long-term self interest.*
  
- I don't believe many contest that incentives point at this direction. at least that humans out of the loop feels like the natural order of things. Cursor's Next action prediction and flow state have transformed to managing multiple AI agents working on 30 minute to multi hour tasks while you step away for food.
- 
- doomers fundamentally think the guaranteed outcome and a large swath of ASI optimists effectively believe that the optimizers will optimize for and fully internalize and optimize our values, that we will solve for misaligned optimization. Both parties present the problem as a succession problem.
+Concerns around AI safety are related to phenomena. From current concerns around models [deleting unit tests to pass evaluations] (https://openai.com/index/chain-of-thought-monitoring/), [LLMs matching user beliefs over truthful responses](https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models), to possible future problems like [long-term deceptive scheming](https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/) and the creation of persuasive [superstimuli.](https://www.lesswrong.com/w/superstimuli) Paul Christiano's [*What failure looks like*](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like) phrases this as humans "Going out with a whimper" and at it's worst "going out with a bang". I will argue that there is a natural incentive for intelligent optimizers wielding powerful technology to pull humans out of the loop.
 
-There is a second force pulling against the first - it is the reason the first hasn't already eaten everything up.
+I don't believe many contest that current incentives pull humans out of the loop. [Cursor's original tab autocomplete and Copilot++](https://cursor.com/blog/problems-2024) kept humans in the flow, in an effort to improve next action prediction. Today, is it not uncommon to wait a few hours for your agent to finish it's coding task before presenting it with your next prompt. Token usage has gone up dramatically, but I suspect per user prompt counts have not increased significantly.
+
+Many AI doomers view x-risk as a likely guaranteed outcome while large swaths of ASI optimists believe that AI will fully internalize and optimize our values. (I think both these parties view ASI from a [succession perspective](https://substack.com/home/post/p-203056345) and I'll share more thoughts about it in a future post). The perspectives are wide and varied but there is some nuance missing.
+
+*What* has prevented the existence of such misaligned strategies from tearing society apart in the past? Humans are clearly highly intelligent and capable of optimizing - and yet civilization has not crumbled. *What's going on?*
 
 **Reward Hacking Money**
 
- money is a socially constructive proxy for value across utility functions. Let's break down some of those phrases
+ Money is a socially constructed a proxy for value across utility functions.
 
-insert educational component here
+**Socially constructed:** Money is worth something because everyone believes everyone else believes it's worth something. It's a Schelling point over media of exchange. This means that [arbitrary](https://en.wikipedia.org/wiki/Shell_money) [objects](https://en.wikipedia.org/wiki/Bitcoin) can be turned into [money](https://en.wikipedia.org/wiki/Medium_of_exchange). This means that acquisition is never final, the same consensus that grants money can [revoke](https://en.wikipedia.org/wiki/Confiscation_of_Russian_central_bank_funds) it [retroactively](https://en.wikipedia.org/wiki/The_DAO).
+
+**Proxy for value:** You can't hand someone 3 utils. Money is the measurement instrument we use to approximate "how many utils did this entity contribute to other's utility functions". Unfortunately, like every instrument, it has error bars and like every proxy, optimizing the measurement diverges from optimizing the target at the extremes.
+
+**Accross utility functions**:
  
  since any proxy can be GoodHarted,  it is possible to create money without necessarily capturing the confederate value creation of others. What exactly would that look like? I think what I would do is if someone is able to change your utility function  directly effectively converting from value producer to value consumer
 
  Insert data from studies on algorithmic feeds as well as gambling changing people's minds
 
-  this is a natural, incremental and profitable strategy. That's a society. We label a number of these strategies as sin industries. Drugs, gambling, pornography, etc. The more libertarian among us hold greater value uncertainty and find that adults have the right to transact however they may please. But even then there are limits to what we are willing to tolerate (scamming old people, DAO hack). In such cases, we consider such monetary transactions void and we don't let people acquire money in such regard.
+  this is a natural, incremental and profitable strategy. We label a number of these strategies as sin industries. Drugs, gambling, pornography, etc. The more libertarian among us hold greater value uncertainty and find that adults have the right to transact however they may please. But even then there are limits to what we are willing to tolerate (scamming old people, DAO hack). In such cases, we consider such monetary transactions void and we don't let people acquire money in such regard.
 
 **How do we stop it?**
 There's a few concepts that point at this:
