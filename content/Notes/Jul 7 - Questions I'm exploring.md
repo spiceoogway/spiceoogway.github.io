@@ -1,5 +1,6 @@
 - What is the relationship between interaction models and next action prediction?
+	- Bandwidth and frequency of input hypothesis
 - Is there an economic incentive to be pulled out of the loop (turned into a value consumer) versus remaining in the loop (turned into a value producer)?
 	- See new essay. There is a strong economic incentive, but it's deeply "producer" / enterprise-like behavior
 - What is the state of continual retraining?
-	- 
+- 

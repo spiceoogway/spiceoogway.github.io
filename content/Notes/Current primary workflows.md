@@ -1,0 +1,5 @@
+- Reading / consuming content
+- Taking notes
+- Financial and tax related workflow tasks
+- Debugging codex issues
+- Managing to-do list
