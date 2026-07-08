@@ -32,47 +32,59 @@ Here's a few concepts that point at this:
 - [Legitimacy](https://vitalik.eth.limo/general/2021/03/23/legitimacy.html) - Vitalik calls it the scarcest resources and defines it as a high order Schelling coordination. Legitimacy can be considered the running balance based off the audit.
 - [Elua from Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 - [Inexploitability in Garrabrant Induction](https://intelligence.org/files/LogicalInduction.pdf) - No efficiently computable trader can extract unbounded money out of the market. Arbitrages gets traded until the market converges toward inexploitability.
+- (I"D LIKE TO INCLUDE MORE EXAMPLES)
 
 There are a few parameters that seem to help us fight such forces:
-- Exploitation is a virus/parasite-like strategy. Your hosts ultimately die. That said, in the interim they survive
-
-There are a few parameters which help us fight such forces:
-1) Exploitation is a virus/parasite-like strategy under selective pressure. Your hosts ultimately die. Granted that such systems, not for nothing, happen to persist even today
-2) Exploitation is locally verifiable by agents against their experience
-	1) Studies about regrets about gambling, drugs, sin industries (i'm willing to have my mind changed btw). but overall the message is that people don't want to engage in repeat transaction
-	2) Enough agents form non-exploitation boundaries via a Schelling boundary
-3) Coalition reprice exploiters. They create mechanisms and institutions that punish exploitation
-	1) Property rights, humanism, abolishment of slavery, rule of law, revolution, prison, legitimacy, legitimate chain rollbacks in the case of the DAO hack
-		1) This is effectively the creation of vaccines and extermination of Polio
-			1) Long term exploitation gets you wiped
-	2) Enough people get hurt by exploitation that eventually it is +EV to cooperate again
+- Exploitation is a virus/parasite-like strategy. Your hosts ultimately die. That said, in the interim they survive. Humanity not only strengthens it's immune system but is also capable of building targeted vaccines. 
+	- True wealth ends up being wealth that survives **the audit*** (and a subsequent introduction of a vaccine).
+- Exploitation is locally verifiable by self-aware against their experiences.
+	- (INSERT STUDIY ABOUT REGRETS RELATED TO CERTAIN GOODS/SERVICES) gambling drugs, sin industries
+	- Exploited agents form non-exploitation boundaries via Schelling boundaries since it's cheap for every agent to verify if they were exploited. This also seems related to Chesterton's fence in some sense.
+- Coalition reprice exploiters. They create mechanisms and institutions that punish exploitation
+	1. Property rights, humanism, abolishment of slavery, rule of law, revolution, prison, legitimacy, legitimate chain rollbacks in the case of the DAO hack
+	    1. This is effectively the creation of vaccines and extermination of Polio
+	        1. Long term exploitation gets you wiped
+	2. Enough people get hurt by exploitation that eventually it is +EV to cooperate again
 
 "Moral progress" can be viewed as a changelog of patched exploits. In Richard Ngo's web of belief system, this is effectively the setting of certain goals to exteremly low P values across society. (some issues that arise from this are things like preference falsification) and mechanisms that try to formalize this behavior inevitably have their own problems as they get reward hacked ("democratic backsliding", "buying votes", etc.) but it just means we need to improve our mechanisms.
 
 **The fuel for it all: value uncertainty**
 
-Not only do we have uncertainty about what other entities value, we have uncertainty about our own values. (insert some work from Robin Hanson on cultures changing values and whether we would want to have the values of our ancestors)
+Okay we can all agree reward hacking is bad. Let's just skip to the end (have Anthropic build an ASI that solves this problem for us). Why can't we just do that?
 
-Insert mistakes in history and the fact that values change to begin with. Not only does this happen through history but this happens in our lifetimes.
+Punting the problem to ASI doesn't resolve the core driver of the problem. Values are uncertain.
 
-Until now value has come from humans. It's in your best interest, whether you know it consciously or not, to be extremely deep in the loop. Pulling yourself out of the loop is the result of an optimizer exploiting you and then tossing you aside. Your feedback is not valuable anymore. 
+Not only do we have uncertainty about what other entities value, we have uncertainty about our own values. Robin Hanson has been pointing at [cultural drift](https://www.overcomingbias.com/p/on-value-drifthtml) for years.
 
-In some sense this is what HyperSoren is pointing at and it's a very hayekian take (insert Hayek's revenge)
+Insert mistakes in history and the fact that values change to begin with. 
+- slavery
+- witch trials
+- lobotomies
+- cigarettes
+This happen through history and in our lifetimes. It is likely that you have rolled back values you were certain of 10 years ago. It seems as though mistakes are a core component of improvements in wealth, and it's unclear whether you can simulate or automate mistake having.
 
-You cannot do this by refusing to engage with technology, instead you must go into the deep end. The optimizer is getting better, your feedback needs to become more valuable else the optimizer will push for someone else's utility function.
+Thus far all "important" value judgements have come from humans. Why does this continue to be the case? At a minimum, you will know what you value better than an AI does. As abundance grows, scarcity shift to the things you value that autonomous systems are the most uncertain about.
+
+[Hypersoren Hayekian revenge](https://hypersoren.xyz/posts/hayeks-revenge/)
+
+Whether you know it consciously or not, it is in your best interest for you to have an extremely high bandwidth fast feedback loop with intelligent systems. This is necessary for your values to get levered and reflected in the world. Their competitive existence in the world then makes it more valuable to continue getting your feedback.
+
+Pulling yourself out of the loop is the result of another optimizer exploiting you for value judgements and then tossing you aside (akin to a virus). Your feedback is not valuable anymore in such a case and the virus can move on to another host.
+
+You can only do this by engaging deeply with technology. 
 
 Examples:
 - Figma <> Anthropic scandal
 - Open Source and Palantir push
 
 **Problem:** 
-- It's non-obvious that the two forces actually balance each other out.
+- It's non-obvious that the two forces actually balance each other out. They have historically but it's possible that someone gains a sufficiently large strategic advantage to completely dominate (x/s-risk).
 	- Entities and people that are broadly aware of this will push the keep themselves in the loop. They are effectively attempting to prevent themselves from being value consumers.
 		- See Gwern guardian angels and his insistence on influencing the Shoggoth
 		- See pro-China open source response from American enterprises
 		- See sovereign AI push
 		- See tech employees using whispr, multi agent setups, laptops open at all times / doing weird sleep cycles and vying to work at labs (which are very deep in the loop)
-- Societies have response mechanisms to stopping hard exploitation, violent revolutions are among them. This is what will happen if we do not make it easier to put local verifiable humans into the loop to monitor whether they are being exploited.
+- Societies have response mechanisms to stopping hard exploitation, violent revolutions are among them. This is my default expectation if we do not make it easier to put local verifiable humans into the loop to monitor whether they are being exploited.
 	- See job unemployment fears as a prime motivator around AI. Unhappiness about data centers.
 
 The Thesis:
