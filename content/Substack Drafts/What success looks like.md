@@ -1,19 +1,3 @@
-
-Core pieces:
-- Money is a subjective construct that allows us to trade between utility functions?
-- You can reward hack money and other people's utility functions?
-- Web of belief, cognitive security, increased leverage (how might this have much to do with garrabrant induction, schelling points, etc)
-- What is value uncertainty and how does it relate to AI alignment?
-- What does this have to do with staying in the loop, safety, and succession?
-
-tldr; 
-- there is a natural force to pull you (and humans) out of the loop (changing people's reward functions) -> reward hacking optimizer
-- there seems to be an equal counterbalancing force -> legitimacy
-	- legitimacy is a schelling point strategy granted to entities that are non-exploitative against utility functions
-- remaining in the loop via the use of technology will make you immensely wealthy. keeping humans in the loop will make society immensely wealthy.
-
-What success looks like
-
 Slavery was the most profitable to labor arrangement ever devised, yet we abolished it. Heroin might be the most margin efficient consumer product ever built, yet most have never tried it. How is it that some of the most profitable strategies in history keep losing. To *what?*
 
 **First, what makes these strategies immensely profitable?**
@@ -36,19 +20,21 @@ Many AI doomers view x-risk as a likely guaranteed outcome while large swaths of
 
 **Proxy for value:** You can't hand someone 3 utils. Money is the measurement instrument we use to approximate "how many utils did this entity contribute to other's utility functions". Unfortunately, like every instrument, it has error bars and like every proxy, optimizing the measurement diverges from optimizing the target at the extremes.
 
-**Accross utility functions**:
- 
- since any proxy can be GoodHarted,  it is possible to create money without necessarily capturing the confederate value creation of others. What exactly would that look like? I think what I would do is if someone is able to change your utility function  directly effectively converting from value producer to value consumer
+**Across utility functions**: interpersonal utility comparison is impossible without a price system (my want of an ice cream and your want of a faster GPU don't share units). [Hayek's Use of Knowledge in Society](https://www.econlib.org/library/Essays/hykKnw.html) points towards the ability for a price system to aggregate dispersed tacit local knowledge that no central node could ever collect.
 
- Insert data from studies on algorithmic feeds as well as gambling changing people's minds
-
-  this is a natural, incremental and profitable strategy. We label a number of these strategies as sin industries. Drugs, gambling, pornography, etc. The more libertarian among us hold greater value uncertainty and find that adults have the right to transact however they may please. But even then there are limits to what we are willing to tolerate (scamming old people, DAO hack). In such cases, we consider such monetary transactions void and we don't let people acquire money in such regard.
+But any proxy can be [Goodharted](https://en.wikipedia.org/wiki/Goodhart%27s_law), and it's possible to accumulate money without commensurate value creation. It could involve changing someone's utility function directly. Some strategies on how to best do that could include [algorithmic](https://www.aeaweb.org/articles?id=10.1257/aer.20190658) [social media ](https://www.wsj.com/articles/the-facebook-files-11631713039)[feeds](https://www.nber.org/papers/w31771) , [gambling](https://press.princeton.edu/books/paperback/9780691160887/addiction-by-design), pornography, drugs, etc. As a society, we label industries that engage in the more questionable behaviors are *sin industries*. The libertarian among us hold greater uncertainty about value exchange in interpersonal transactions - but even then, we have limits to what is tolerated (such as scamming old people or hacking smart contracts). In cases where the Goodhart is deemed egregious, such monetary transactions are considered "illegal".
 
 **How do we stop it?**
-There's a few concepts that point at this:
-- Elua from Meditations on Moloch
-- Legitimacy
-- Garrabrant's inexploitability criterion
+
+I will refer to the stopping force as ***the audit***. Society is running a continuous distributed re-adjudication process of whether value was created or extracted and reprices you accordingly.
+
+Here's a few concepts that point at this:
+- [Legitimacy](https://vitalik.eth.limo/general/2021/03/23/legitimacy.html) - Vitalik calls it the scarcest resources and defines it as a high order Schelling coordination. Legitimacy can be considered the running balance based off the audit.
+- [Elua from Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+- [Inexploitability in Garrabrant Induction](https://intelligence.org/files/LogicalInduction.pdf) - No efficiently computable trader can extract unbounded money out of the market. Arbitrages gets traded until the market converges toward inexploitability.
+
+There are a few parameters that seem to help us fight such forces:
+- Exploitation is a virus/parasite-like strategy. Your hosts ultimately die. That said, in the interim they survive
 
 There are a few parameters which help us fight such forces:
 1) Exploitation is a virus/parasite-like strategy under selective pressure. Your hosts ultimately die. Granted that such systems, not for nothing, happen to persist even today
