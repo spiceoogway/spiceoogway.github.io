@@ -10,25 +10,49 @@
     <link>https://spiceoogway.github.io/notes/</link>
     <guid>https://spiceoogway.github.io/notes/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 08 Jul 2026 20:54:06 GMT</pubDate>
+    <pubDate>Wed, 08 Jul 2026 21:55:53 GMT</pubDate>
+  </item><item>
+    <title>Personal</title>
+    <link>https://spiceoogway.github.io/personal/</link>
+    <guid>https://spiceoogway.github.io/personal/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 08 Jul 2026 21:55:53 GMT</pubDate>
   </item><item>
     <title>Substack Drafts</title>
     <link>https://spiceoogway.github.io/substack-drafts/</link>
     <guid>https://spiceoogway.github.io/substack-drafts/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 08 Jul 2026 20:54:06 GMT</pubDate>
+    <pubDate>Wed, 08 Jul 2026 21:55:53 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://spiceoogway.github.io/tags/</link>
     <guid>https://spiceoogway.github.io/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 08 Jul 2026 20:54:06 GMT</pubDate>
+    <pubDate>Wed, 08 Jul 2026 21:55:53 GMT</pubDate>
+  </item><item>
+    <title>Current primary workflows</title>
+    <link>https://spiceoogway.github.io/notes/current-primary-workflows</link>
+    <guid>https://spiceoogway.github.io/notes/current-primary-workflows</guid>
+    <description><![CDATA[  Reading / consuming content Taking notes Financial and tax related workflow tasks Debugging codex issues Managing to-do list . ]]></description>
+    <pubDate>Wed, 08 Jul 2026 21:55:26 GMT</pubDate>
   </item><item>
     <title>Jul 7 - Questions I&#039;m exploring</title>
     <link>https://spiceoogway.github.io/notes/jul-7---questions-i'm-exploring</link>
     <guid>https://spiceoogway.github.io/notes/jul-7---questions-i'm-exploring</guid>
-    <description><![CDATA[  What is the relationship between interaction models and next action prediction? Is there an economic incentive to be pulled out of the loop (turned into a value consumer) versus remaining in the loop (turned into a value producer)? See new essay. ]]></description>
-    <pubDate>Wed, 08 Jul 2026 20:53:35 GMT</pubDate>
+    <description><![CDATA[  What is the relationship between interaction models and next action prediction? Bandwidth and frequency of input hypothesis Is there an economic incentive to be pulled out of the loop (turned into a value consumer) versus remaining in the loop (turned into a value producer)? See new essay. ]]></description>
+    <pubDate>Wed, 08 Jul 2026 21:55:26 GMT</pubDate>
+  </item><item>
+    <title>Live To-do</title>
+    <link>https://spiceoogway.github.io/personal/live-to-do</link>
+    <guid>https://spiceoogway.github.io/personal/live-to-do</guid>
+    <description><![CDATA[ Main To-dos: 60% Main Continue working on Substack post 20% Parallel Workstream Team taxes Create a more specific LBH for outreach 20% Automation Have Codex take my raw tasks and formalize them somewhere Critical and Do Now: Waiting File the rest of the tax return once accepted - Thurs Figure out co... ]]></description>
+    <pubDate>Wed, 08 Jul 2026 21:55:26 GMT</pubDate>
+  </item><item>
+    <title>Jakub Janiak Raw Notes</title>
+    <link>https://spiceoogway.github.io/</link>
+    <guid>https://spiceoogway.github.io/</guid>
+    <description><![CDATA[ Jakub Janiak Raw Notes These are my raw notes. Nothing really intentional here beside making my thoughts more legible to others. ]]></description>
+    <pubDate>Wed, 08 Jul 2026 21:55:26 GMT</pubDate>
   </item><item>
     <title>What success looks like</title>
     <link>https://spiceoogway.github.io/substack-drafts/what-success-looks-like</link>
@@ -41,30 +65,6 @@
     <guid>https://spiceoogway.github.io/notes/bandwidth-improvements</guid>
     <description><![CDATA[  parallel agents / routing faster turns (faster inference, relevant model matching) voice ai (wispr, aleph neuro) bcis . ]]></description>
     <pubDate>Wed, 08 Jul 2026 14:49:47 GMT</pubDate>
-  </item><item>
-    <title>Jul 2 - Questions I&#039;m exploring</title>
-    <link>https://spiceoogway.github.io/notes/jul-2---questions-i'm-exploring</link>
-    <guid>https://spiceoogway.github.io/notes/jul-2---questions-i'm-exploring</guid>
-    <description><![CDATA[  Will context windows really not get that large? What is driving that improvement in sample efficiency? Better training distribution, larger models, longer context lets you feed in more examples. ]]></description>
-    <pubDate>Tue, 07 Jul 2026 16:42:47 GMT</pubDate>
-  </item><item>
-    <title>AI Alignment Schools of Thought</title>
-    <link>https://spiceoogway.github.io/notes/ai-alignment-schools-of-thought</link>
-    <guid>https://spiceoogway.github.io/notes/ai-alignment-schools-of-thought</guid>
-    <description><![CDATA[ It seems to be that there are two major schools of thought for AI alignment work: AI as a tool AI as a self but having completely internalized human values Fundamentally, LLMs are predictors and they will inevitably have some kind of self-prediction. ]]></description>
-    <pubDate>Tue, 07 Jul 2026 02:06:47 GMT</pubDate>
-  </item><item>
-    <title>Schelling Points and Garrabrant Induction</title>
-    <link>https://spiceoogway.github.io/notes/schelling-points-and-garrabrant-induction</link>
-    <guid>https://spiceoogway.github.io/notes/schelling-points-and-garrabrant-induction</guid>
-    <description><![CDATA[ Richard Ngo has recently been pointing at an interesting problem. ]]></description>
-    <pubDate>Sat, 04 Jul 2026 21:19:40 GMT</pubDate>
-  </item><item>
-    <title>Compute and Power structural similarities</title>
-    <link>https://spiceoogway.github.io/notes/compute-and-power-structural-similarities</link>
-    <guid>https://spiceoogway.github.io/notes/compute-and-power-structural-similarities</guid>
-    <description><![CDATA[ Compute has some similarities to the power market. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 12:28:42 GMT</pubDate>
   </item>
     </channel>
   </rss>
