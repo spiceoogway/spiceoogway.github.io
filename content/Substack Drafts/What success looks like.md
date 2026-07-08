@@ -26,44 +26,39 @@ But any proxy can be [Goodharted](https://en.wikipedia.org/wiki/Goodhart%27s_law
 
 **How do we stop it?**
 
-I will refer to the stopping force as ***the audit***. Society is running a continuous distributed re-adjudication process of whether value was created or extracted and reprices you accordingly.
+First an example. During the summer of 2016, an attacker drained ~$60M in ETH from [The DAO](https://en.wikipedia.org/wiki/The_DAO). Smart contracts executed exactly as written and despite the "code is law" ideology among crypto-natives, the Ethereum community coordinated a hard fork that moved the funds to a recovery contract. The attacker's money was voted out of existence without the use of any courts, regulators, or formal governance process. 
 
-Here's a few concepts that point at this:
+I will refer to the stopping force as ***the audit***. Similar to the Ethereum community in 2016, society runs a continuous distributed re-adjudication process of whether value was created or extracted and reprices holdings accordingly.
+
+Here are a few concepts that point at this:
 - [Legitimacy](https://vitalik.eth.limo/general/2021/03/23/legitimacy.html) - Vitalik calls it the scarcest resources and defines it as a high order Schelling coordination. Legitimacy can be considered the running balance based off the audit.
 - [Elua from Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 - [Inexploitability in Garrabrant Induction](https://intelligence.org/files/LogicalInduction.pdf) - No efficiently computable trader can extract unbounded money out of the market. Arbitrages gets traded until the market converges toward inexploitability.
-- (I"D LIKE TO INCLUDE MORE EXAMPLES)
+- ... and many more ([Ostrom's commons](https://en.wikipedia.org/wiki/Elinor_Ostrom), [reverse dominance hierarchy](https://en.wikipedia.org/wiki/Christopher_Boehm), [altruistic punishment](https://www.nature.com/articles/415137a), [Hindenburg](https://en.wikipedia.org/wiki/Hindenburg_Research))
 
-There are a few parameters that seem to help us fight such forces:
-- Exploitation is a virus/parasite-like strategy. Your hosts ultimately die. That said, in the interim they survive. Humanity not only strengthens it's immune system but is also capable of building targeted vaccines. 
-	- True wealth ends up being wealth that survives **the audit*** (and a subsequent introduction of a vaccine).
-- Exploitation is locally verifiable by self-aware against their experiences.
-	- (INSERT STUDIY ABOUT REGRETS RELATED TO CERTAIN GOODS/SERVICES) gambling drugs, sin industries
-	- Exploited agents form non-exploitation boundaries via Schelling boundaries since it's cheap for every agent to verify if they were exploited. This also seems related to Chesterton's fence in some sense.
-- Coalition reprice exploiters. They create mechanisms and institutions that punish exploitation
-	1. Property rights, humanism, abolishment of slavery, rule of law, revolution, prison, legitimacy, legitimate chain rollbacks in the case of the DAO hack
-	    1. This is effectively the creation of vaccines and extermination of Polio
-	        1. Long term exploitation gets you wiped
-	2. Enough people get hurt by exploitation that eventually it is +EV to cooperate again
+A few properties make **the audit** work:
+1. Exploitation is parasitic/virus-like and kills hosts.
+	- Wireheading humans turns them into value consumers, not value producers. Meanwhile host population begin to develop immunity and manifacture vaccines. 
+2. Agents can easily check whether whey were exploited.
+	- They then can form non-exploitation boundaries via Schelling boundaries. This also seems related to [Chesterton's fence.](https://fs.blog/chestertons-fence/)
+3. Coalitions can reprice exploiters with monetary and non-monetary mechanisms.
+	- Anti-exploitations coalitions pushed for property rights, abolishment of slavery, the rule of law, chain rollbacks, the proliferation of humanism, and in the most extreme cases, violent revolution
+	- It is by these mechanisms that local verifications are turned into one collective repricing.
+	- When playing infinite games, exploitation gets you wiped in the long run (polio was exterminated). Eventually enough people get hurt such that cooperation becomes +EV.
 
-"Moral progress" can be viewed as a changelog of patched exploits. In Richard Ngo's web of belief system, this is effectively the setting of certain goals to exteremly low P values across society. (some issues that arise from this are things like preference falsification) and mechanisms that try to formalize this behavior inevitably have their own problems as they get reward hacked ("democratic backsliding", "buying votes", etc.) but it just means we need to improve our mechanisms.
+"Moral progress" can the be read as a changelog of patched exploits. In [Richard Ngo's web of belief system](https://www.mindthefuture.info/p/agents-as-webs-of-beliefs), this is society setting certain goals and actions to extremely low P values via incentives. The changelog process has it's own bugs - like [preference falsification](https://en.wikipedia.org/wiki/Preference_falsification) and every formalization of it eventually gets [reward hacked](https://www.carnegiecouncil.org/explore-engage/key-terms/democratic-backsliding) in turn - but this is an argument for better mechanisms, not against mechanisms in general.
 
 **The fuel for it all: value uncertainty**
 
-Okay we can all agree reward hacking is bad. Let's just skip to the end (have Anthropic build an ASI that solves this problem for us). Why can't we just do that?
+This process looks like it can be formalized. So why not have Anthropic build an ASI that runs the audit for us? What's wrong with *that* strategy?
 
-Punting the problem to ASI doesn't resolve the core driver of the problem. Values are uncertain.
+The core driver of the problem is **value uncertainty***.
 
-Not only do we have uncertainty about what other entities value, we have uncertainty about our own values. Robin Hanson has been pointing at [cultural drift](https://www.overcomingbias.com/p/on-value-drifthtml) for years.
+We are uncertainty about what other agents *value* and we are uncertain about our own values. Additionally, our values [drift](https://www.overcomingbias.com/p/on-value-drifthtml). History is littered with values we'd disagree with today. These include values we would not call a tragedy - those that led to slavery, witch trials, Nobel Prizes awarded for lobotomies, doctors prescribing cigarettes, etc. We also change values in our lifetimes as we accumulate more experiences. Mistakes and error correction seem like a core component in improving value judgement. Which means **the audit*** requires humans making mistakes, regretting and updating. 
 
-Insert mistakes in history and the fact that values change to begin with. 
-- slavery
-- witch trials
-- lobotomies
-- cigarettes
-This happen through history and in our lifetimes. It is likely that you have rolled back values you were certain of 10 years ago. It seems as though mistakes are a core component of improvements in wealth, and it's unclear whether you can simulate or automate mistake having.
+Until you can perfectly simulate you making a mistake, the ASI will be faced with the equivalence of the socialist calculation 
 
-Thus far all "important" value judgements have come from humans. Why does this continue to be the case? At a minimum, you will know what you value better than an AI does. As abundance grows, scarcity shift to the things you value that autonomous systems are the most uncertain about.
+Thus far, all "important" value judgements have come from humans. Why does this continue to be the case? At a minimum, I think that you have subjective interiority that gives you an edge in knowing what you value. As abundance grows, scarcity may shift to the things you value that autonomous systems are the most uncertain about.
 
 [Hypersoren Hayekian revenge](https://hypersoren.xyz/posts/hayeks-revenge/)
 

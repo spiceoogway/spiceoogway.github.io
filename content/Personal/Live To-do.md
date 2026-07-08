@@ -4,9 +4,9 @@ Main To-dos:
 - Continue working on Substack post
 20% Parallel Workstream
 - Team taxes
-- Create a more specific LBH for outreach
+- Create a more specific Load Bearing Hypothesis for outreach
 20% Automation
-- Have Codex take my raw tasks and formalize them somewhere
+- Construct finance / admin dashboard
 
 Critical and Do Now:
 - Waiting
@@ -20,11 +20,10 @@ Critical and Do Now:
     - Bump Alex re: Space Interconnect - Friday
     - Bump Daniel re: Israeli drone stuff - Friday
     - Go to Sunday Fire Temple. Feel out the travel.
-    - Semi Analysis call - Next Monday
+    - Semi Analysis call, prep notes - Next Monday
     - NJ Pin / withholding stuff - Next Monday
         - Phone call to NJ
     - Bloomberg Registration - Partial dispute (sep 20th)
-- Lunch
 - Meditate
 - Dinner
 - Substack Post
@@ -62,7 +61,7 @@ Do later but not critical:
 - Team pay bumps
 - Cross post to precursor labs
 - send mom 2k back
-- Figure our spcx distribution
+- Figure our spacex distribution
 - Update linkedin for GEO / SEO purposes
 - Update substack
 - Claude / Codex in slack
