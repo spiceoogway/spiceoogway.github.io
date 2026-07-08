@@ -56,31 +56,25 @@ The core driver of the problem is **value uncertainty***.
 
 We are uncertainty about what other agents *value* and we are uncertain about our own values. Additionally, our values [drift](https://www.overcomingbias.com/p/on-value-drifthtml). History is littered with values we'd disagree with today. These include values we would not call a tragedy - those that led to slavery, witch trials, Nobel Prizes awarded for lobotomies, doctors prescribing cigarettes, etc. We also change values in our lifetimes as we accumulate more experiences. Mistakes and error correction seem like a core component in improving value judgement. Which means **the audit*** requires humans making mistakes, regretting and updating. 
 
-Until you can perfectly simulate you making a mistake, the ASI will be faced with the equivalence of the socialist calculation 
+Until you can perfectly simulate you making a mistake, the ASI will be faced with the equivalence of the [socialist calculation problem](https://www.econlib.org/library/Essays/hykKnw.html). The ASI will have greater uncertainty than you will about what you believe, what matters to you, and what you care about. I suspect that as abundance grows, scarcity shifts to the thing you and other humans value, that ASI is most uncertain about. Assuming we run the audit correctly, those goods/services will primarily be what money is used to buy.
 
-Thus far, all "important" value judgements have come from humans. Why does this continue to be the case? At a minimum, I think that you have subjective interiority that gives you an edge in knowing what you value. As abundance grows, scarcity may shift to the things you value that autonomous systems are the most uncertain about.
+[Soren's Hayek's Revenge](https://hypersoren.xyz/posts/hayeks-revenge/) makes a similar argument but primarily focused on the scarcity in physics (latency, cost, energy). My extension is to claim that the most local, most tacit, least centralizable knowledge of all is what you actually want. It is of a particular time and place. 
 
-[Hypersoren Hayekian revenge](https://hypersoren.xyz/posts/hayeks-revenge/)
+Thus, it is in your best interest to run an extremely high-bandwidth, fast feedback loop with intelligent systems. This is what gets your values levered and projected into the world. Their competitive presence is what keeps your next round of feedback valuable. Pulling yourself out of the loop is what it looks like when another optimizer has finished extracting your value judgements and tossed you aside. 
 
-Whether you know it consciously or not, it is in your best interest for you to have an extremely high bandwidth fast feedback loop with intelligent systems. This is necessary for your values to get levered and reflected in the world. Their competitive existence in the world then makes it more valuable to continue getting your feedback.
+You can watch this playing out now between enterprises:
+- Figma and Anthropic were collaborating in February 2026. By April, [Anthropic's CPO resigned from Figma's Board and Claude designed shipped three days later.](https://www.upstartsmedia.com/p/scoop-how-a-board-departure-and-product)
+- There is a broad push for open-weights among industry *despite* the relevant AI safety risks associated with open source AI. 
+	- Implicitly, this is industry telling closed sourced labs, "You are ignoring my values and I don't trust you not to exploit"
+		- I think the charitable view here is that industry is not aware of AI risks and don't know that Anthropic/OAI is actually not looking to exploit. If so, th
+	- Dylan Patel leaked Thinking Machines multi hundred mil ARR, Prime Intellect raised at a $1b val, NVDA open source models, Alex Karp TBPN Crashout, MSFT open platform letter
 
-Pulling yourself out of the loop is the result of another optimizer exploiting you for value judgements and then tossing you aside (akin to a virus). Your feedback is not valuable anymore in such a case and the virus can move on to another host.
+**One remaining problem:** It's non-obvious that the two forces actually balance each other out. They have historically but it's possible that someone gains a sufficiently large strategic advantage to completely dominate (x/s-risk). This could happen if detection latency is slow, coordination cost is too high, or the exploited becomes dependent on the exploiter. 
 
-You can only do this by engaging deeply with technology. 
+**So what's the good outcome?**
 
-Examples:
-- Figma <> Anthropic scandal
-- Open Source and Palantir push
+People that are broadly aware of this will push the keep themselves in the loop. They are effectively attempting to prevent themselves from being value consumers: [Gwern's guardian angel](https://gwern.net/guardian-angel), [wispr](https://wisprflow.ai/), [BCI's](https://wisprflow.ai/), [interaction models](https://thinkingmachines.ai/blog/interaction-models/), [open](https://www.primeintellect.ai/) [intelligence](https://www.appliedcompute.com/) [stacks](https://thinkingmachines.ai/).
 
-**Problem:** 
-- It's non-obvious that the two forces actually balance each other out. They have historically but it's possible that someone gains a sufficiently large strategic advantage to completely dominate (x/s-risk).
-	- Entities and people that are broadly aware of this will push the keep themselves in the loop. They are effectively attempting to prevent themselves from being value consumers.
-		- See Gwern guardian angels and his insistence on influencing the Shoggoth
-		- See pro-China open source response from American enterprises
-		- See sovereign AI push
-		- See tech employees using whispr, multi agent setups, laptops open at all times / doing weird sleep cycles and vying to work at labs (which are very deep in the loop)
-- Societies have response mechanisms to stopping hard exploitation, violent revolutions are among them. This is my default expectation if we do not make it easier to put local verifiable humans into the loop to monitor whether they are being exploited.
-	- See job unemployment fears as a prime motivator around AI. Unhappiness about data centers.
+Bringing down the friction to create tight, high bandwidth feedback loops between humans and intelligent systems is not only a moral imperative to avoid the worst of societies response mechanisms to exploitation (violent unrest) but also the path to unimaginable wealth creation. 
 
-The Thesis:
-- Staying in a very tight feedback loop with AI systems will make you extremely wealthy. Institutions that stay in the loop will be extremely wealthy. Countries that do this will become extremely wealthy. The only way to stay there is to create, adopt, invest in the tech and evaluate.
+Building, investing, and using tools to increase this bandwidth for yourself, for your company, for your institutions, and your country is likely to not only be important, but deeply rewarding in the long run.
