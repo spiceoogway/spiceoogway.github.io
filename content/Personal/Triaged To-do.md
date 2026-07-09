@@ -6,16 +6,16 @@ Last triaged: 2026-07-08
 
 ## Operating Allocation
 
-- 60% Main: Continue working on the Substack post. #area/writing #status/today
+- 60% Main: Start porting over the Substack post. #area/writing #status/today
 - 20% Parallel Workstream: Team taxes; create a more specific Load Bearing Hypothesis for outreach. #area/tax #area/outreach #status/next
 - 20% Automation: Construct finance / admin dashboard. #area/automation #area/finance #area/admin #status/next
 
 ## Today
 
-- [ ] Continue working on Substack post. #area/writing #status/today
+- [ ] Start porting over the Substack post. #area/writing #status/today
+- [ ] Work on team taxes. #area/tax #status/today
 - [ ] Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
 - [ ] Meditate. #area/personal #status/today
-- [ ] Lunch. #area/personal #status/today
 - [ ] Dinner. #area/personal #status/today
 
 ## Waiting / Date-Bound
