@@ -1,7 +1,7 @@
 Main To-dos:
 
 60% Main
-- Continue working on Substack post
+- Start porting over substack post
 20% Parallel Workstream
 - Team taxes
 - Create a more specific Load Bearing Hypothesis for outreach
