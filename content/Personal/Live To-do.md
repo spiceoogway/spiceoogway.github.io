@@ -10,7 +10,6 @@ Main To-dos:
 Critical and Do Now:
 - Waiting
 	- Make final edits to my substack post after team review - Thurs
-    - California Registered Agent email - Thursday
     - File the rest of the tax return once accepted - Friday
     - Bump Alex re: Space Interconnect - Friday
     - Bump Daniel re: Israeli drone stuff - Friday
