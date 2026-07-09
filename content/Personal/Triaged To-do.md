@@ -7,14 +7,16 @@ Last triaged: 2026-07-09
 ## Operating Allocation
 
 - 60% Main: Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
-- 20% Parallel Workstream: Team taxes. #area/tax #status/next
+- 20% Parallel Workstream: Go home early to work on team taxes. #area/tax #status/next
 - 20% Automation: Add Readwise to Obsidian. #area/automation #status/next
 
 ## Today
 
-- [ ] Work on team taxes. #area/tax #status/today
+- [ ] Go home early to work on team taxes. #area/tax #status/today
 - [ ] Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
 - [ ] Add Readwise to Obsidian. #area/automation #status/today
+- [ ] Breakfast. #area/personal #status/today
+- [ ] Lunch. #area/personal #status/today
 - [ ] Meditate. #area/personal #status/today
 - [ ] Dinner. #area/personal #status/today
 

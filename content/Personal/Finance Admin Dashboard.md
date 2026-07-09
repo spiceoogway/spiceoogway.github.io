@@ -6,7 +6,7 @@ Last refreshed: 2026-07-09
 
 ## Due Soon
 
-- [ ] Work on team taxes. #area/tax #status/today
+- [ ] Go home early to work on team taxes. #area/tax #status/today
 - [ ] File the rest of the tax return once accepted. #area/tax #status/waiting due:: 2026-07-09
 - [ ] Figure out corporate capital allocation. #area/finance #status/waiting due:: 2026-07-09
 - [ ] Process California Registered Agent email. #area/admin #status/waiting due:: 2026-07-09

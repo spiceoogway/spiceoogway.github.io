@@ -5,30 +5,27 @@ Main To-dos:
 20% Parallel Workstream
 - Go home early to work on team taxes
 20% Automation
-- Add readwise to Obsidian
+- Add website tracking to Obsidian
 
 Critical and Do Now:
 - Waiting
 	- Make final edits to my substack post after team review - Thurs
-    - File the rest of the tax return once accepted - Thurs
-    - Figure out corporate capital allocation - Thurs
-        - Waiting Get on-chain USDC off-chain -> Send address to Niyant
-            - Including wallet 1, embedded, insurance
-        - Waiting Update allocation to be Outside of $225k -> on the longer dated investment horizon - Monday
     - California Registered Agent email - Thursday
-    - Monitor carta chargeback - Friday
+    - File the rest of the tax return once accepted - Friday
     - Bump Alex re: Space Interconnect - Friday
     - Bump Daniel re: Israeli drone stuff - Friday
     - Go to Sunday Fire Temple. Feel out the travel.
-    - Semi Analysis call, prep notes - Next Monday
+    - Semi Analysis call, prep notes - Sat / Sun
+    - Figure out corporate capital allocation - Monday
+	- Wait for bank account to link up with Coinbase Prime
+	- Waiting Update allocation to be Outside of $225k -> on the longer dated investment horizon - Monday
     - NJ Pin / withholding stuff - Next Monday
         - Phone call to NJ
     - Bloomberg Registration - Partial dispute (sep 20th)
-- Bfast
+- Create a more specific LBH for outreach
 - Lunch
 - Meditate
 - Dinner
-- Create a more specific LBH for outreach
 
 Do Now but not critical:
 
