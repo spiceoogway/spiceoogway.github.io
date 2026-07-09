@@ -7,12 +7,14 @@ Last refreshed: 2026-07-09
 ## Due Soon
 
 - [ ] Go home early to work on team taxes. #area/tax #status/today
+- [ ] Wait for Niyant to handle insurance send. #area/admin #status/waiting due:: 2026-07-10
 - [ ] File the rest of the tax return once accepted. #area/tax #status/waiting due:: 2026-07-10
 - [ ] Figure out corporate capital allocation. #area/finance #status/waiting due:: 2026-07-13
 - [ ] Prepare for NJ PIN / withholding phone call. #area/tax #area/admin #context/call #status/next due:: 2026-07-13
 
 ## Waiting On
 
+- [ ] Niyant to handle insurance send. #area/admin #status/waiting due:: 2026-07-10
 - [ ] Tax return acceptance before filing the rest of the return. #area/tax #status/waiting due:: 2026-07-10
 - [ ] Bank account link-up with Coinbase Prime. #area/finance #status/waiting
 - [ ] Longer-dated investment horizon allocation update outside the $225k bucket. #area/finance #status/waiting due:: 2026-07-13
@@ -60,7 +62,7 @@ Last refreshed: 2026-07-09
 - [ ] Team pay bumps. #area/ops #status/someday
 - [ ] Send mom 2k back. #area/personal #area/finance #status/someday
 - [ ] Scope out real estate and office situation. #area/ops #status/later
-- [ ] Buy or configure new laptop. #area/admin #status/someday
+- [ ] Buy or configure new laptop. #area/admin #status/later
 - [ ] Move off Arc. #area/admin #status/someday
 
 ## Draft Messages

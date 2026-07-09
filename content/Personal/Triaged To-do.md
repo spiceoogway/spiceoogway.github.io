@@ -15,13 +15,14 @@ Last triaged: 2026-07-09
 - [ ] Go home early to work on team taxes. #area/tax #status/today
 - [ ] Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
 - [ ] Add website tracking to Obsidian. #area/automation #status/today
+- [ ] Give Dylan more takes. #area/outreach #status/today
 - [ ] Lunch. #area/personal #status/today
 - [ ] Meditate. #area/personal #status/today
 - [ ] Dinner. #area/personal #status/today
 
 ## Waiting / Date-Bound
 
-- [ ] Make final edits to Substack post after team review. #area/writing #status/waiting due:: 2026-07-09
+- [ ] Wait for Niyant to handle insurance send. #area/admin #status/waiting due:: 2026-07-10
 - [ ] File the rest of the tax return once accepted. #area/tax #status/waiting due:: 2026-07-10
 - [ ] Bump Alex re: Space Interconnect. #area/outreach #status/waiting due:: 2026-07-10
 - [ ] Bump Daniel re: Israeli drone stuff. #area/outreach #status/waiting due:: 2026-07-10
@@ -55,6 +56,7 @@ Last triaged: 2026-07-09
 - [ ] Resolve NYS registration problems: what needs to be opened and what needs to be closed. #area/tax #area/admin #status/waiting
   - [ ] Wait on Dylan's living situation before resolving NYS registration. #area/admin #status/waiting
 - [ ] Switch Codex credit card. #area/codex #area/admin #status/later
+- [ ] Buy or configure new laptop. #area/admin #status/later
 - [ ] Ring shopping. #area/personal #status/later
 - [ ] Scope out real estate and office situation. #area/ops #status/later
 
@@ -73,7 +75,6 @@ Last triaged: 2026-07-09
 - [ ] Set up password manager for Codex. #area/codex #area/admin #status/someday
 - [ ] Review Linear. #area/admin #status/someday
 - [ ] Review Rippling. #area/admin #status/someday
-- [ ] Buy or configure new laptop. #area/admin #status/someday
 - [ ] Allow MCP to be installed mid-flight. #area/codex #area/automation #status/someday
 - [ ] Investigate why memory is getting slammed. #area/codex #status/someday
 - [ ] Clean up Substack. #area/writing #status/someday
