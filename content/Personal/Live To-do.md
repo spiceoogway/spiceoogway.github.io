@@ -21,7 +21,7 @@ Critical and Do Now:
     - NJ Pin / withholding stuff - Next Monday
         - Phone call to NJ
     - Bloomberg Registration - Partial dispute (sep 20th)
-- Create a more specific LBH for outreach
+- Give Dylan more takes
 - Lunch
 - Meditate
 - Dinner
