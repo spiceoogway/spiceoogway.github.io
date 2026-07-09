@@ -6,20 +6,21 @@ Last triaged: 2026-07-08
 
 ## Operating Allocation
 
-- 60% Main: Start porting over the Substack post. #area/writing #status/today
-- 20% Parallel Workstream: Team taxes; create a more specific Load Bearing Hypothesis for outreach. #area/tax #area/outreach #status/next
-- 20% Automation: Construct finance / admin dashboard. #area/automation #area/finance #area/admin #status/next
+- 60% Main: Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
+- 20% Parallel Workstream: Team taxes. #area/tax #status/next
+- 20% Automation: Add Readwise to Obsidian. #area/automation #status/next
 
 ## Today
 
-- [ ] Start porting over the Substack post. #area/writing #status/today
 - [ ] Work on team taxes. #area/tax #status/today
 - [ ] Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
+- [ ] Add Readwise to Obsidian. #area/automation #status/today
 - [ ] Meditate. #area/personal #status/today
 - [ ] Dinner. #area/personal #status/today
 
 ## Waiting / Date-Bound
 
+- [ ] Make final edits to Substack post after team review. #area/writing #status/waiting due:: 2026-07-09
 - [ ] File the rest of the tax return once accepted. #area/tax #status/waiting due:: 2026-07-09
 - [ ] Figure out corporate capital allocation. #area/finance #status/waiting due:: 2026-07-09
   - [ ] Get on-chain USDC off-chain, then send address to Niyant. #area/finance #status/waiting due:: 2026-07-09

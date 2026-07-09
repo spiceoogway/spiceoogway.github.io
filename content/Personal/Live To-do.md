@@ -1,15 +1,15 @@
 Main To-dos:
 
 60% Main
-- Start porting over substack post
+- Create a more specific LBH for outreach
 20% Parallel Workstream
 - Team taxes
-- Create a more specific Load Bearing Hypothesis for outreach
 20% Automation
-- Construct finance / admin dashboard
+- Add readwise to Obsidian
 
 Critical and Do Now:
 - Waiting
+	- Make final edits to my substack post after team review - Thurs
     - File the rest of the tax return once accepted - Thurs
     - Figure out corporate capital allocation - Thurs
         - Waiting Get on-chain USDC off-chain -> Send address to Niyant
@@ -26,7 +26,6 @@ Critical and Do Now:
     - Bloomberg Registration - Partial dispute (sep 20th)
 - Meditate
 - Dinner
-- Substack Post
 - Create a more specific LBH for outreach
 
 Do Now but not critical:
