@@ -3,7 +3,7 @@ Main To-dos:
 60% Main
 - Create a more specific LBH for outreach
 20% Parallel Workstream
-- Team taxes
+- Go home early to work on team taxes
 20% Automation
 - Add readwise to Obsidian
 
@@ -24,6 +24,8 @@ Critical and Do Now:
     - NJ Pin / withholding stuff - Next Monday
         - Phone call to NJ
     - Bloomberg Registration - Partial dispute (sep 20th)
+- Bfast
+- Lunch
 - Meditate
 - Dinner
 - Create a more specific LBH for outreach
@@ -37,6 +39,7 @@ Do later but critical:
 - Need to be home at desktop
     - Work on filing company taxes
     - California Form 100
+- new laptop
 - Figure out T bill ladder strategy
 - Discuss selling team tokens
 - California EDD credit refund
@@ -70,7 +73,7 @@ Do later but not critical:
 - password manager for codex
 - Review Linear
 - Review Rippling
-- new laptop
+- 
 - Allow mcp to be installed mid-flight
 - Why is my memory getting slammed
 - Clean up substack
