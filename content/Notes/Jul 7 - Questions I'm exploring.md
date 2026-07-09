@@ -6,6 +6,4 @@
 - Why doesn't wispr provide me with a custom model?
 - What's the latest on OpenAI's new voice model?
 	- Pretty interesting that they can use GPT 5.5 under the hood. It makes me wonder how soon the core mode of interaction with Codex or your computer will simply just be an interaction model.
-
-to do:
-- Create a formal LBH for tomororw
+- What kind of enterprise sales does Niyant want me to do?
