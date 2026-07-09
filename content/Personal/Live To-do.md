@@ -21,10 +21,9 @@ Critical and Do Now:
     - NJ Pin / withholding stuff - Next Monday
         - Phone call to NJ
     - Bloomberg Registration - Partial dispute (sep 20th)
-- Give Dylan more takes
-- Lunch
-- Meditate
 - Dinner
+- Reply to Daniel
+- Meditate
 
 Do Now but not critical:
 

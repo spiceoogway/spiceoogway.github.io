@@ -15,8 +15,7 @@ Last triaged: 2026-07-09
 - [ ] Go home early to work on team taxes. #area/tax #status/today
 - [ ] Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
 - [ ] Add website tracking to Obsidian. #area/automation #status/today
-- [ ] Give Dylan more takes. #area/outreach #status/today
-- [ ] Lunch. #area/personal #status/today
+- [ ] Reply to Daniel. #area/outreach #status/today
 - [ ] Meditate. #area/personal #status/today
 - [ ] Dinner. #area/personal #status/today
 
