@@ -5,7 +5,7 @@ Main To-dos:
 20% Parallel Workstream
 - Go home early to work on team taxes
 20% Automation
-- Boot up screen pipe - WIP
+- Fix screen pipe
 - Set up linux machine on my computer
 
 Critical and Do Now:
@@ -20,7 +20,6 @@ Critical and Do Now:
     - Bump Daniel re: Israeli drone stuff - Wednesday
     - Bloomberg Registration - Partial dispute (sep 20th)
 - Call Daniel re: fire island
-- 1:30 call Zile
 - Meditate
 - Lunch
 - Dinner

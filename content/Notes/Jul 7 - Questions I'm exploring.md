@@ -11,12 +11,12 @@
 	- Turns out this was dumb. I think that continual learning on personalized data is effectively the highest problem scale one can be at. I have not seen this performed.
 - What is the state of continual training?
 
-Compute market research:
-- Does he have a 
-
 People / teams aligned to my vision:
 - Thinking Machines Labs
-- Engram
+- Engram Labs
+- Humans&
+- Arcee AI
+- Tinygrad
 - Workshop labs
 	- Luke drago
 	- Rudolf Laine
