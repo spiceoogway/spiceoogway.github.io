@@ -12,8 +12,7 @@ Critical and Do Now:
 - Waiting
     - Go to Sunday Fire Temple. Feel out the travel.
     - Semi Analysis call, prep notes - Sat / Sun
-	- Move semianalysis sub to a different account
-		- Alex, Niyant, Dylan
+	- Alex to recieve semianalysis post updates - Monday
 	- Bump Alex re: Space Interconnect - Monday
 	- Update allocation to be Outside of $225k -> on the longer dated investment horizon - Monday
     - Call NY State re: Trustin again - Monday
@@ -23,7 +22,7 @@ Critical and Do Now:
     - Bloomberg Registration - Partial dispute (sep 20th)
 - Meditate
 - Dinner
-- Make determination about fire island
+- Make determination about fire island - probably note
 - House chores
 	- Laundry
 	- Bathroom

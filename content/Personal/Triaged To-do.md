@@ -6,29 +6,33 @@ Last triaged: 2026-07-10
 
 ## Operating Allocation
 
-- 60% Main: Create proper workflow. #area/ops #status/today
-- 20% Parallel Workstream: Go home early to work on team taxes. #area/tax #status/next
-- 20% Automation: Fix Screenpipe and set up Linux machine on my computer. #area/automation #area/ops #status/today
+- 60% Main: Team taxes. #area/tax #status/today
+- 20% Parallel Workstream: Karpathy's Neural Networks: Zero to Hero series, plus quick blog post on compute dynamics and model distribution. #area/reading #area/writing #status/next
+- 20% Automation: Set up Linux machine on my computer. #area/automation #area/ops #status/today
 
 ## Today
 
-- [ ] Go home early to work on team taxes. #area/tax #status/today
-- [ ] Clarify and sketch the proper workflow. #area/ops #status/today
-- [ ] Fix Screenpipe. #area/automation #status/today
-- [ ] Start setting up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
-- [ ] Call Daniel re: Fire Island. #area/personal #context/call #status/today
+- [ ] Work on team taxes. #area/tax #status/today
 - [ ] Meditate. #area/personal #status/today
-- [ ] Lunch. #area/personal #status/today
 - [ ] Dinner. #area/personal #status/today
+- [ ] Decide what to do about Fire Island. #area/personal #status/today
+- [ ] Do house chores. #area/personal #status/today
+  - [ ] Laundry. #area/personal #status/today
+  - [ ] Bathroom. #area/personal #status/today
+  - [ ] Sheets. #area/personal #status/today
+  - [ ] Curtain. #area/personal #status/today
+- [ ] Start setting up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
+- [ ] Rip through Karpathy's Neural Networks: Zero to Hero series. #area/reading #status/next
+- [ ] Work on quick blog post tying compute dynamics to per-person models. #area/writing #status/next
 
 ## Waiting / Date-Bound
 
-- [ ] Bump Alex re: Space Interconnect. #area/outreach #status/waiting due:: 2026-07-10
 - [ ] Go to Sunday Fire Temple and feel out the travel. #area/personal #status/waiting due:: 2026-07-12
-- [ ] Prep notes for Semi Analysis call. #area/reading #status/waiting due:: 2026-07-12
+- [ ] Prep notes for SemiAnalysis call. #area/reading #status/waiting due:: 2026-07-12
+- [ ] Bump Alex re: Space Interconnect. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
 - [ ] Call NY State re: Trustin again. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-13
-- [ ] Call NJ about PIN / withholding stuff. #area/tax #context/call #status/waiting due:: 2026-07-14
+- [ ] Call NJ about PIN / withholding stuff. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-14
 - [ ] Bump Daniel re: Israeli drone stuff. #area/outreach #status/waiting due:: 2026-07-15
 - [ ] Follow up on Bloomberg Registration partial dispute. #area/admin #status/waiting due:: 2026-09-20
 
@@ -36,13 +40,13 @@ Last triaged: 2026-07-10
 
 - [ ] Work on filing company taxes. #area/tax #context/desktop #status/next
 - [ ] Complete California Form 100 work. #area/tax #context/desktop #status/next
+- [ ] Set up Linux machine as my desktop. #area/ops #area/automation #context/desktop #status/later
 
 ## Critical Later
 
-- [ ] Set up Linux machine as my desktop. #area/ops #context/desktop #status/later
 - [ ] Figure out T-bill ladder strategy. #area/finance #status/later
 - [ ] Discuss selling team tokens. #area/finance #status/later
-- [ ] Handle California EDD credit refund. #area/tax #status/later
+- [ ] Handle California EDD credit refund. #area/tax #area/admin #status/later
 - [ ] Fix MSFT Excel. #area/admin #context/desktop #status/later
 - [ ] Deploy funds again. #area/finance #status/later
 - [ ] Process Rippling reimbursements. #area/finance #area/admin #status/later
@@ -52,15 +56,17 @@ Last triaged: 2026-07-10
 - [ ] Coordinate docs with Dylan, Niyant, and Alex for FFII. #area/admin #status/later
   - [ ] Circulate DocuSign. #area/admin #status/later
 - [ ] Move SemiAnalysis subscription to a different account. #area/admin #status/later
+  - [ ] Confirm account target with Alex, Niyant, and Dylan. #area/admin #status/later
 - [ ] Resolve NYS registration problems: what needs to be opened and what needs to be closed. #area/tax #area/admin #status/waiting
   - [ ] Wait on Dylan's living situation before resolving NYS registration. #area/admin #status/waiting
 - [ ] Switch Codex credit card. #area/codex #area/admin #status/later
-- [ ] Buy or configure new laptop. #area/admin #status/later
-- [ ] Ring shopping. #area/personal #status/later
+- [ ] Ring shopping next steps. #area/personal #status/later
 - [ ] Scope out real estate and office situation. #area/ops #status/later
 
 ## Backlog
 
+- [ ] Fix Screenpipe. #area/automation #status/someday
+- [ ] Make personal website. #area/codex #status/someday
 - [ ] Team pay bumps. #area/ops #status/someday
 - [ ] Cross-post to Precursor Labs. #area/writing #status/someday
 - [ ] Send mom 2k back. #area/personal #area/finance #status/someday
@@ -74,6 +80,7 @@ Last triaged: 2026-07-10
 - [ ] Set up password manager for Codex. #area/codex #area/admin #status/someday
 - [ ] Review Linear. #area/admin #status/someday
 - [ ] Review Rippling. #area/admin #status/someday
+- [ ] Buy or configure new laptop. #area/admin #status/someday
 - [ ] Allow MCP to be installed mid-flight. #area/codex #area/automation #status/someday
 - [ ] Investigate why memory is getting slammed. #area/codex #status/someday
 - [ ] Clean up Substack. #area/writing #status/someday
@@ -83,5 +90,4 @@ Last triaged: 2026-07-10
 ## Needs Clarification
 
 - [ ] Confirm whether SemiAnalysis call prep is due Saturday 2026-07-11 or Sunday 2026-07-12. #area/reading #status/waiting
-- [ ] Clarify what "Create proper workflow" refers to. #area/ops #status/today
 - [ ] Clarify what "Figure out SpaceX distribution" means: tax, cap table, security distribution, or something else. #area/finance #status/someday
