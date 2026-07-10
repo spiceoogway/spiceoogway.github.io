@@ -22,7 +22,6 @@ Critical and Do Now:
         - Phone call to NJ
     - Bloomberg Registration - Partial dispute (sep 20th)
 - Dinner
-- Reply to Daniel
 - Meditate
 
 Do Now but not critical:
@@ -35,6 +34,9 @@ Do later but critical:
     - Work on filing company taxes
     - California Form 100
 - new laptop
+	- Fix memory
+	- Fix storage
+	- Plan out what's necessary 
 - Figure out T bill ladder strategy
 - Discuss selling team tokens
 - California EDD credit refund
