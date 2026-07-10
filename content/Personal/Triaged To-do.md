@@ -6,14 +6,14 @@ Last triaged: 2026-07-10
 
 ## Operating Allocation
 
-- 60% Main: Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
+- 60% Main: Create proper workflow. #area/ops #status/today
 - 20% Parallel Workstream: Go home early to work on team taxes. #area/tax #status/next
 - 20% Automation: Fix Screenpipe and set up Linux machine on my computer. #area/automation #area/ops #status/today
 
 ## Today
 
 - [ ] Go home early to work on team taxes. #area/tax #status/today
-- [ ] Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
+- [ ] Clarify and sketch the proper workflow. #area/ops #status/today
 - [ ] Fix Screenpipe. #area/automation #status/today
 - [ ] Start setting up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
 - [ ] Call Daniel re: Fire Island. #area/personal #context/call #status/today
@@ -83,4 +83,5 @@ Last triaged: 2026-07-10
 ## Needs Clarification
 
 - [ ] Confirm whether SemiAnalysis call prep is due Saturday 2026-07-11 or Sunday 2026-07-12. #area/reading #status/waiting
+- [ ] Clarify what "Create proper workflow" refers to. #area/ops #status/today
 - [ ] Clarify what "Figure out SpaceX distribution" means: tax, cap table, security distribution, or something else. #area/finance #status/someday
