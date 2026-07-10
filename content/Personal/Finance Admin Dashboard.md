@@ -50,6 +50,7 @@ Last refreshed: 2026-07-10
 
 ## Accounts / Subscriptions / Tools
 
+- [ ] Set up Linux machine as my desktop. #area/ops #context/desktop #status/later
 - [ ] Fix MSFT Excel. #area/admin #context/desktop #status/later
 - [ ] Move SemiAnalysis subscription to a different account. #area/admin #status/later
 - [ ] Switch Codex credit card. #area/codex #area/admin #status/later

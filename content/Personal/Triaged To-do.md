@@ -15,7 +15,6 @@ Last triaged: 2026-07-10
 - [ ] Go home early to work on team taxes. #area/tax #status/today
 - [ ] Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
 - [ ] Add website tracking to Obsidian. #area/automation #status/today
-- [ ] Reply to Daniel. #area/outreach #status/today
 - [ ] Meditate. #area/personal #status/today
 - [ ] Dinner. #area/personal #status/today
 
@@ -40,6 +39,7 @@ Last triaged: 2026-07-10
 
 ## Critical Later
 
+- [ ] Set up Linux machine as my desktop. #area/ops #context/desktop #status/later
 - [ ] Figure out T-bill ladder strategy. #area/finance #status/later
 - [ ] Discuss selling team tokens. #area/finance #status/later
 - [ ] Handle California EDD credit refund. #area/tax #status/later
@@ -82,4 +82,5 @@ Last triaged: 2026-07-10
 
 ## Needs Clarification
 
+- [ ] Confirm whether SemiAnalysis call prep is due Saturday 2026-07-11 or Sunday 2026-07-12. #area/reading #status/waiting
 - [ ] Clarify what "Figure out SpaceX distribution" means: tax, cap table, security distribution, or something else. #area/finance #status/someday
