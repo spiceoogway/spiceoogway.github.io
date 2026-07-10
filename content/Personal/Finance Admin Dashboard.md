@@ -8,22 +8,21 @@ Last refreshed: 2026-07-10
 
 - [ ] Go home early to work on team taxes. #area/tax #status/today
 - [ ] Wait for Niyant to handle insurance send. #area/admin #status/waiting due:: 2026-07-10
-- [ ] File the rest of the tax return once accepted. #area/tax #status/waiting due:: 2026-07-10
 - [ ] Figure out corporate capital allocation. #area/finance #status/waiting due:: 2026-07-13
-- [ ] Prepare for NJ PIN / withholding phone call. #area/tax #area/admin #context/call #status/next due:: 2026-07-13
+- [ ] Call NY State re: Trustin again. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-13
+- [ ] Prepare for NJ PIN / withholding phone call. #area/tax #area/admin #context/call #status/next due:: 2026-07-14
 
 ## Waiting On
 
 - [ ] Niyant to handle insurance send. #area/admin #status/waiting due:: 2026-07-10
-- [ ] Tax return acceptance before filing the rest of the return. #area/tax #status/waiting due:: 2026-07-10
-- [ ] Bank account link-up with Coinbase Prime. #area/finance #status/waiting
 - [ ] Longer-dated investment horizon allocation update outside the $225k bucket. #area/finance #status/waiting due:: 2026-07-13
 - [ ] Dylan's living situation before deciding which NYS registrations need to be opened or closed. #area/tax #area/admin #status/waiting
 - [ ] Bloomberg Registration partial dispute follow-up window. #area/admin #status/waiting due:: 2026-09-20
 
 ## Calls To Make
 
-- [ ] Call NJ about PIN / withholding stuff. #area/tax #area/admin #context/call #status/next due:: 2026-07-13
+- [ ] Call NY State re: Trustin again. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-13
+- [ ] Call NJ about PIN / withholding stuff. #area/tax #area/admin #context/call #status/next due:: 2026-07-14
 
 ## Documents / Forms
 
@@ -39,7 +38,6 @@ Last refreshed: 2026-07-10
 ## Treasury / Capital Allocation
 
 - [ ] Figure out corporate capital allocation. #area/finance #status/waiting due:: 2026-07-13
-- [ ] Wait for bank account to link up with Coinbase Prime. #area/finance #status/waiting
 - [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
 - [ ] Figure out T-bill ladder strategy. #area/finance #status/later
 - [ ] Discuss selling team tokens. #area/finance #status/later
@@ -50,10 +48,12 @@ Last refreshed: 2026-07-10
 
 ## Accounts / Subscriptions / Tools
 
-- [ ] Set up Linux machine as my desktop. #area/ops #context/desktop #status/later
+- [ ] Boot up Screenpipe. #area/automation #area/ops #status/today
+- [ ] Set up Linux machine as my desktop. #area/ops #area/automation #context/desktop #status/later
 - [ ] Fix MSFT Excel. #area/admin #context/desktop #status/later
 - [ ] Move SemiAnalysis subscription to a different account. #area/admin #status/later
 - [ ] Switch Codex credit card. #area/codex #area/admin #status/later
+- [ ] Debug Ramp MCP. #area/codex #area/admin #status/someday
 - [ ] Review Linear. #area/admin #status/someday
 - [ ] Review Rippling. #area/admin #status/someday
 - [ ] Set up password manager for Codex. #area/codex #area/admin #status/someday
@@ -68,16 +68,10 @@ Last refreshed: 2026-07-10
 
 ## Draft Messages
 
-### Coinbase Prime / Bank Link
-
-```text
-Hi, I am checking whether the bank account link-up with Coinbase Prime is complete or if anything else is needed from me.
-```
-
 ### Accountant / Tax Preparer: Return + CA Form 100
 
 ```text
-Quick check: once the current return is accepted, what exactly remains for me to file or provide? I also want to make sure California Form 100 and any related CA/NJ items are covered.
+Quick check: I am working on the company taxes and want to make sure California Form 100 and any related CA/NJ items are covered. What do you need from me next?
 ```
 
 ### Dylan: NYS Registration Dependency
@@ -95,5 +89,5 @@ Hi, I am following up on the Bloomberg Registration partial dispute. Can you con
 ## Open Questions
 
 - [ ] What does "Figure out corporate capital allocation" need to produce: decision memo, transfer, investment policy, or approval from someone?
-- [ ] Who owns the tax return acceptance signal?
+- [ ] What is the specific Trustin issue to raise with NY State?
 - [ ] What does "Figure out SpaceX distribution" mean: tax, cap table, token/security distribution, or something else?

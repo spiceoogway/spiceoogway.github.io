@@ -5,12 +5,11 @@ Main To-dos:
 20% Parallel Workstream
 - Go home early to work on team taxes
 20% Automation
-- Boot up screen pipe
+- Boot up screen pipe - WIP
 - Set up linux machine on my computer
 
 Critical and Do Now:
 - Waiting
-	- Niyant to handle insurance send - Friday
     - Bump Alex re: Space Interconnect - Friday
     - Go to Sunday Fire Temple. Feel out the travel.
     - Semi Analysis call, prep notes - Sat / Sun
@@ -21,7 +20,7 @@ Critical and Do Now:
     - Bump Daniel re: Israeli drone stuff - Wednesday
     - Bloomberg Registration - Partial dispute (sep 20th)
 - Call Daniel re: fire island
-- Bfast
+- 1:30 call Zile
 - Meditate
 - Lunch
 - Dinner
@@ -35,8 +34,9 @@ Do later but critical:
 - Need to be home at desktop
     - Work on filing company taxes
     - California Form 100
+- Move semianalysis sub to a different account
 - Set up linux machine as my desktop
-- Figure out T bill ladder strategy
+- Waiting - Figure out T bill ladder strategy
 - Discuss selling team tokens
 - California EDD credit refund
 - Fix MSFT excel
@@ -47,11 +47,10 @@ Do later but critical:
 - Get an entity setup for FF II Growth
 - Docs w/ Dylan, Niyant, Alex for FFII
     - Circ docusign
-- Move semianalysis sub to a different account
 - NYS registration problems (what needs to be opened, what needs to be closed)
     - Waiting on Dylan’s living situation
 - Codex credit card switch
-- Ring shopping
+- Ring shopping next steps
 - Scope out real estate + office situation
 
 Do later but not critical:

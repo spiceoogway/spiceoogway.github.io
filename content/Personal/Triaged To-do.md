@@ -8,28 +8,31 @@ Last triaged: 2026-07-10
 
 - 60% Main: Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
 - 20% Parallel Workstream: Go home early to work on team taxes. #area/tax #status/next
-- 20% Automation: Add website tracking to Obsidian. #area/automation #status/next
+- 20% Automation: Boot up Screenpipe and set up Linux machine on my computer. #area/automation #area/ops #status/today
 
 ## Today
 
 - [ ] Go home early to work on team taxes. #area/tax #status/today
 - [ ] Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
-- [ ] Add website tracking to Obsidian. #area/automation #status/today
+- [ ] Boot up Screenpipe. #area/automation #status/today
+- [ ] Start setting up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
+- [ ] Call Daniel re: Fire Island. #area/personal #context/call #status/today
+- [ ] Breakfast. #area/personal #status/today
 - [ ] Meditate. #area/personal #status/today
+- [ ] Lunch. #area/personal #status/today
 - [ ] Dinner. #area/personal #status/today
 
 ## Waiting / Date-Bound
 
 - [ ] Wait for Niyant to handle insurance send. #area/admin #status/waiting due:: 2026-07-10
-- [ ] File the rest of the tax return once accepted. #area/tax #status/waiting due:: 2026-07-10
 - [ ] Bump Alex re: Space Interconnect. #area/outreach #status/waiting due:: 2026-07-10
-- [ ] Bump Daniel re: Israeli drone stuff. #area/outreach #status/waiting due:: 2026-07-10
 - [ ] Go to Sunday Fire Temple and feel out the travel. #area/personal #status/waiting due:: 2026-07-12
 - [ ] Prep notes for Semi Analysis call. #area/reading #status/waiting due:: 2026-07-12
 - [ ] Figure out corporate capital allocation. #area/finance #status/waiting due:: 2026-07-13
   - [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
-- [ ] Wait for bank account to link up with Coinbase Prime. #area/finance #status/waiting
-- [ ] Call NJ about PIN / withholding stuff. #area/tax #context/call #status/waiting due:: 2026-07-13
+- [ ] Call NY State re: Trustin again. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-13
+- [ ] Call NJ about PIN / withholding stuff. #area/tax #context/call #status/waiting due:: 2026-07-14
+- [ ] Bump Daniel re: Israeli drone stuff. #area/outreach #status/waiting due:: 2026-07-15
 - [ ] Follow up on Bloomberg Registration partial dispute. #area/admin #status/waiting due:: 2026-09-20
 
 ## Desktop Required
