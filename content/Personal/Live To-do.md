@@ -5,24 +5,26 @@ Main To-dos:
 20% Parallel Workstream
 - Go home early to work on team taxes
 20% Automation
-- Add website tracking to Obsidian
+- Boot up screen pipe
+- Set up linux machine on my computer
 
 Critical and Do Now:
 - Waiting
 	- Niyant to handle insurance send - Friday
-    - File the rest of the tax return once accepted - Friday
     - Bump Alex re: Space Interconnect - Friday
-    - Bump Daniel re: Israeli drone stuff - Friday
     - Go to Sunday Fire Temple. Feel out the travel.
     - Semi Analysis call, prep notes - Sat / Sun
-    - Figure out corporate capital allocation - Monday
-	- Wait for bank account to link up with Coinbase Prime
-	- Waiting Update allocation to be Outside of $225k -> on the longer dated investment horizon - Monday
-    - NJ Pin / withholding stuff - Next Monday
+	- Update allocation to be Outside of $225k -> on the longer dated investment horizon - Monday
+    - Call NY State re: Trustin again - Monday
+    - NJ Pin / withholding stuff - Next Tuesday
         - Phone call to NJ
+    - Bump Daniel re: Israeli drone stuff - Wednesday
     - Bloomberg Registration - Partial dispute (sep 20th)
-- Dinner
+- Call Daniel re: fire island
+- Bfast
 - Meditate
+- Lunch
+- Dinner
 
 Do Now but not critical:
 
