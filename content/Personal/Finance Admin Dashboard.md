@@ -7,14 +7,12 @@ Last refreshed: 2026-07-10
 ## Due Soon
 
 - [ ] Go home early to work on team taxes. #area/tax #status/today
-- [ ] Wait for Niyant to handle insurance send. #area/admin #status/waiting due:: 2026-07-10
-- [ ] Figure out corporate capital allocation. #area/finance #status/waiting due:: 2026-07-13
+- [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
 - [ ] Call NY State re: Trustin again. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-13
 - [ ] Prepare for NJ PIN / withholding phone call. #area/tax #area/admin #context/call #status/next due:: 2026-07-14
 
 ## Waiting On
 
-- [ ] Niyant to handle insurance send. #area/admin #status/waiting due:: 2026-07-10
 - [ ] Longer-dated investment horizon allocation update outside the $225k bucket. #area/finance #status/waiting due:: 2026-07-13
 - [ ] Dylan's living situation before deciding which NYS registrations need to be opened or closed. #area/tax #area/admin #status/waiting
 - [ ] Bloomberg Registration partial dispute follow-up window. #area/admin #status/waiting due:: 2026-09-20
@@ -37,7 +35,6 @@ Last refreshed: 2026-07-10
 
 ## Treasury / Capital Allocation
 
-- [ ] Figure out corporate capital allocation. #area/finance #status/waiting due:: 2026-07-13
 - [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
 - [ ] Figure out T-bill ladder strategy. #area/finance #status/later
 - [ ] Discuss selling team tokens. #area/finance #status/later
@@ -88,6 +85,5 @@ Hi, I am following up on the Bloomberg Registration partial dispute. Can you con
 
 ## Open Questions
 
-- [ ] What does "Figure out corporate capital allocation" need to produce: decision memo, transfer, investment policy, or approval from someone?
 - [ ] What is the specific Trustin issue to raise with NY State?
 - [ ] What does "Figure out SpaceX distribution" mean: tax, cap table, token/security distribution, or something else?
