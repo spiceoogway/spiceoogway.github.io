@@ -33,10 +33,7 @@ Do later but critical:
 - Need to be home at desktop
     - Work on filing company taxes
     - California Form 100
-- new laptop
-	- Fix memory
-	- Fix storage
-	- Plan out what's necessary 
+- Set up linux machine as my desktop
 - Figure out T bill ladder strategy
 - Discuss selling team tokens
 - California EDD credit refund
@@ -70,7 +67,7 @@ Do later but not critical:
 - password manager for codex
 - Review Linear
 - Review Rippling
-- 
+- new laptop
 - Allow mcp to be installed mid-flight
 - Why is my memory getting slammed
 - Clean up substack
