@@ -1,7 +1,7 @@
 Main To-dos:
 
 60% Main
-- Create a more specific LBH for outreach
+- Create proper workflow
 20% Parallel Workstream
 - Go home early to work on team taxes
 20% Automation
@@ -21,7 +21,7 @@ Critical and Do Now:
     - Bloomberg Registration - Partial dispute (sep 20th)
 - Call Daniel re: fire island
 - Meditate
-- Lunch
+- **Lunch**
 - Dinner
 
 Do Now but not critical:

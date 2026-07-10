@@ -8,16 +8,15 @@ Last triaged: 2026-07-10
 
 - 60% Main: Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
 - 20% Parallel Workstream: Go home early to work on team taxes. #area/tax #status/next
-- 20% Automation: Boot up Screenpipe and set up Linux machine on my computer. #area/automation #area/ops #status/today
+- 20% Automation: Fix Screenpipe and set up Linux machine on my computer. #area/automation #area/ops #status/today
 
 ## Today
 
 - [ ] Go home early to work on team taxes. #area/tax #status/today
 - [ ] Create a more specific Load Bearing Hypothesis for outreach. #area/outreach #status/today
-- [ ] Boot up Screenpipe. #area/automation #status/today
+- [ ] Fix Screenpipe. #area/automation #status/today
 - [ ] Start setting up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
 - [ ] Call Daniel re: Fire Island. #area/personal #context/call #status/today
-- [ ] Take 1:30 call with Zile. #area/personal #context/call #status/today
 - [ ] Meditate. #area/personal #status/today
 - [ ] Lunch. #area/personal #status/today
 - [ ] Dinner. #area/personal #status/today

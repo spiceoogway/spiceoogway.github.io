@@ -45,7 +45,7 @@ Last refreshed: 2026-07-10
 
 ## Accounts / Subscriptions / Tools
 
-- [ ] Boot up Screenpipe. #area/automation #area/ops #status/today
+- [ ] Fix Screenpipe. #area/automation #area/ops #status/today
 - [ ] Set up Linux machine as my desktop. #area/ops #area/automation #context/desktop #status/later
 - [ ] Fix MSFT Excel. #area/admin #context/desktop #status/later
 - [ ] Move SemiAnalysis subscription to a different account. #area/admin #status/later

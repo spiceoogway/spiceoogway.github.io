@@ -10,6 +10,8 @@
 - Come up with a plan to climb the problem scale -> namely get a personalized super intelligence
 	- Turns out this was dumb. I think that continual learning on personalized data is effectively the highest problem scale one can be at. I have not seen this performed.
 - What is the state of continual training?
+	- https://arxiv.org/pdf/2512.23675
+- 
 
 People / teams aligned to my vision:
 - Thinking Machines Labs
@@ -21,8 +23,13 @@ People / teams aligned to my vision:
 	- Luke drago
 	- Rudolf Laine
 - Gwern
+- https://unsloth.ai/
 - AppliedCompute
 - Prime Intellect
+- Venice
+- Answer.AI
+- Softmax
+- Imbue
 - weirdly, Vitalik
 
 - do you have a perspective on the market growth for this long tail of compute
