@@ -21,9 +21,6 @@ Critical and Do Now:
     - Bump Daniel re: Israeli drone stuff - Wednesday
     - Bloomberg Registration - Partial dispute (sep 20th)
 - Meditate
-- Dinner
-- Make determination about fire island - probably note
-- Laundry
 - Need to be home at desktop
     - Work on filing company taxes
     - California Form 100
