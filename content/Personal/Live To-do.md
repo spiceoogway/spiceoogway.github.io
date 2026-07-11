@@ -20,10 +20,12 @@ Critical and Do Now:
         - Phone call to NJ
     - Bump Daniel re: Israeli drone stuff - Wednesday
     - Bloomberg Registration - Partial dispute (sep 20th)
-- Meditate
-- Need to be home at desktop
-    - Work on filing company taxes
-    - California Form 100
+- Lunch
+- Dinner
+- Walk
+- Figure out travel to bk for tomorrow
+- Work on filing company taxes
+- California Form 100
 
 Do Now but not critical:
 
