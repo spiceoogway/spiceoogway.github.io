@@ -2,7 +2,8 @@
 - everything I encounter is my life
 - the future, present, and past are all here right now
 - the flow of a river slips through your fingers. the hand of thought opens
-- 
+
+- “Some people dream of having a swimming pool at home, while those who have one hardly ever use it. Those who have lost a loved one feel a profound sense of loss, while others often complain about their living relatives. Those without a partner long for one, while those who have one often don't appreciate it. The hungry would give anything for a meal, while the satiated complain about the taste of their food. Those without a car dream of owning one, while those who have a car are always looking for a better one.”
 
 anti-ea:
 - right action is to wake the sentient beings of the universe. ea is misplaced compassion
