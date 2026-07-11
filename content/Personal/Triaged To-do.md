@@ -21,7 +21,7 @@ Last triaged: 2026-07-11
 ## Waiting / Date-Bound
 
 - [ ] Go to Sunday Fire Temple and feel out the travel. #area/personal #status/waiting due:: 2026-07-12
-- [ ] Prep notes for SemiAnalysis call. #area/reading #status/waiting due:: 2026-07-12
+- [ ] Prep notes for SemiAnalysis call. #area/reading #status/waiting due:: 2026-07-11
 - [ ] Send Alex SemiAnalysis post updates. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Bump Alex re: Space Interconnect. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
@@ -81,5 +81,5 @@ Last triaged: 2026-07-11
 
 ## Needs Clarification
 
-- [ ] Confirm whether SemiAnalysis call prep is due Saturday 2026-07-11 or Sunday 2026-07-12. #area/reading #status/waiting
+- [ ] Confirm whether SemiAnalysis call prep should be completed Saturday 2026-07-11 or Sunday 2026-07-12. #area/reading #status/waiting
 - [ ] Clarify what "Figure out SpaceX distribution" means: tax, cap table, security distribution, or something else. #area/finance #status/someday
