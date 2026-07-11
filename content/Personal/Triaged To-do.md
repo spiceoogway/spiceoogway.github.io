@@ -29,6 +29,7 @@ Last triaged: 2026-07-10
 
 - [ ] Go to Sunday Fire Temple and feel out the travel. #area/personal #status/waiting due:: 2026-07-12
 - [ ] Prep notes for SemiAnalysis call. #area/reading #status/waiting due:: 2026-07-12
+- [ ] Send Alex SemiAnalysis post updates. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Bump Alex re: Space Interconnect. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
 - [ ] Call NY State re: Trustin again. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-13
@@ -55,8 +56,6 @@ Last triaged: 2026-07-10
 - [ ] Get an entity set up for FF II Growth. #area/finance #area/admin #status/later
 - [ ] Coordinate docs with Dylan, Niyant, and Alex for FFII. #area/admin #status/later
   - [ ] Circulate DocuSign. #area/admin #status/later
-- [ ] Move SemiAnalysis subscription to a different account. #area/admin #status/later
-  - [ ] Confirm account target with Alex, Niyant, and Dylan. #area/admin #status/later
 - [ ] Resolve NYS registration problems: what needs to be opened and what needs to be closed. #area/tax #area/admin #status/waiting
   - [ ] Wait on Dylan's living situation before resolving NYS registration. #area/admin #status/waiting
 - [ ] Switch Codex credit card. #area/codex #area/admin #status/later

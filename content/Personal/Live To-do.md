@@ -23,11 +23,7 @@ Critical and Do Now:
 - Meditate
 - Dinner
 - Make determination about fire island - probably note
-- House chores
-	- Laundry
-	- Bathroom
-	- Sheets
-	- Curtain
+- Laundry
 - Need to be home at desktop
     - Work on filing company taxes
     - California Form 100

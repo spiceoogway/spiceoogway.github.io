@@ -49,8 +49,6 @@ Last refreshed: 2026-07-10
 
 - [ ] Set up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
 - [ ] Fix MSFT Excel. #area/admin #context/desktop #status/later
-- [ ] Move SemiAnalysis subscription to a different account. #area/admin #status/later
-  - [ ] Confirm account target with Alex, Niyant, and Dylan. #area/admin #status/later
 - [ ] Switch Codex credit card. #area/codex #area/admin #status/later
 - [ ] Set up Claude / Codex in Slack. #area/codex #area/automation #status/someday
 - [ ] Debug Ramp MCP. #area/codex #area/admin #status/someday
