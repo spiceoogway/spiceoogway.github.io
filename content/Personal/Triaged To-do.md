@@ -2,7 +2,7 @@
 
 Source: [[Live To-do]]
 Rules: [[Task Triage Rules]]
-Last triaged: 2026-07-10
+Last triaged: 2026-07-11
 
 ## Operating Allocation
 
@@ -14,13 +14,6 @@ Last triaged: 2026-07-10
 
 - [ ] Work on team taxes. #area/tax #status/today
 - [ ] Meditate. #area/personal #status/today
-- [ ] Dinner. #area/personal #status/today
-- [ ] Decide what to do about Fire Island. #area/personal #status/today
-- [ ] Do house chores. #area/personal #status/today
-  - [ ] Laundry. #area/personal #status/today
-  - [ ] Bathroom. #area/personal #status/today
-  - [ ] Sheets. #area/personal #status/today
-  - [ ] Curtain. #area/personal #status/today
 - [ ] Start setting up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
 - [ ] Rip through Karpathy's Neural Networks: Zero to Hero series. #area/reading #status/next
 - [ ] Work on quick blog post tying compute dynamics to per-person models. #area/writing #status/next
