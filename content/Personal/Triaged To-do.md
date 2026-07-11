@@ -7,7 +7,7 @@ Last triaged: 2026-07-11
 ## Operating Allocation
 
 - 60% Main: Team taxes. #area/tax #status/today
-- 20% Parallel Workstream: Karpathy's Neural Networks: Zero to Hero series, plus quick blog post on compute dynamics and model distribution. #area/reading #area/writing #status/next
+- 20% Parallel Workstream: Karpathy's Neural Networks: Zero to Hero series, plus startup quick blog post on compute dynamics and model distribution. #area/reading #area/writing #status/next
 - 20% Automation: Set up Linux machine on my computer. #area/automation #area/ops #status/today
 
 ## Today
@@ -16,12 +16,12 @@ Last triaged: 2026-07-11
 - [ ] Meditate. #area/personal #status/today
 - [ ] Start setting up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
 - [ ] Rip through Karpathy's Neural Networks: Zero to Hero series. #area/reading #status/next
-- [ ] Work on quick blog post tying compute dynamics to per-person models. #area/writing #status/next
+- [ ] Work on startup quick blog post tying compute dynamics to model distribution. #area/writing #status/next
 
 ## Waiting / Date-Bound
 
 - [ ] Go to Sunday Fire Temple and feel out the travel. #area/personal #status/waiting due:: 2026-07-12
-- [ ] Prep notes for SemiAnalysis call. #area/reading #status/waiting due:: 2026-07-11
+- [ ] Prep notes for SemiAnalysis call in the Sat/Sun window. #area/reading #status/waiting due:: 2026-07-11
 - [ ] Send Alex SemiAnalysis post updates. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Bump Alex re: Space Interconnect. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
