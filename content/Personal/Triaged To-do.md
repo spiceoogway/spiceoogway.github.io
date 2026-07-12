@@ -13,9 +13,6 @@ Last triaged: 2026-07-12
 ## Today
 
 - [ ] Work on team taxes. #area/tax #status/today
-- [ ] Lunch. #area/personal #status/today
-- [ ] Dinner. #area/personal #status/today
-- [ ] Walk. #area/personal #status/today
 - [ ] Figure out travel to BK for tomorrow. #area/personal #status/today due:: 2026-07-13
 - [ ] Start setting up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
 - [ ] Rip through Karpathy's Neural Networks: Zero to Hero series. #area/reading #status/next
