@@ -19,7 +19,6 @@ Critical and Do Now:
         - Phone call to NJ
     - Bump Daniel re: Israeli drone stuff - Wednesday
     - Bloomberg Registration - Partial dispute (sep 20th)
-- Figure out travel to bk for tomorrow
 - Work on filing company taxes
 - California Form 100
 - obsidian cloud sync issue
@@ -31,7 +30,7 @@ Do Now but not critical:
 
 Do later but critical:
 
-- 
+- corc docusign w/ Dylan, Niyant, Alex for FFII
 - Set up linux machine as my desktop
 - Waiting - Figure out T bill ladder strategy
 - Discuss selling team tokens
@@ -42,8 +41,6 @@ Do later but critical:
 - Make sure NJ is on the right address
 - Sell personal ETH
 - Get an entity setup for FF II Growth
-- Docs w/ Dylan, Niyant, Alex for FFII
-    - Circ docusign
 - NYS registration problems (what needs to be opened, what needs to be closed)
     - Waiting on Dylan’s living situation
 - Codex credit card switch

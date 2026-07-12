@@ -13,7 +13,6 @@ Last triaged: 2026-07-12
 ## Today
 
 - [ ] Work on team taxes. #area/tax #status/today
-- [ ] Figure out travel to BK for tomorrow. #area/personal #status/today due:: 2026-07-13
 - [ ] Resolve Obsidian cloud sync issue. #area/admin #context/desktop #status/today
 - [ ] Start setting up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
 - [ ] Rip through Karpathy's Neural Networks: Zero to Hero series. #area/reading #status/next
@@ -21,7 +20,6 @@ Last triaged: 2026-07-12
 
 ## Waiting / Date-Bound
 
-- [ ] Go to Sunday Fire Temple and feel out the travel. #area/personal #status/waiting due:: 2026-07-12
 - [ ] Prep notes for SemiAnalysis call in the Sat/Sun window. #area/reading #status/waiting due:: 2026-07-12
 - [ ] Send Alex SemiAnalysis post updates. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Bump Alex re: Space Interconnect. #area/outreach #status/waiting due:: 2026-07-13
