@@ -10,7 +10,6 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
-    - Go to Sunday Fire Temple. Feel out the travel.
     - Semi Analysis call, prep notes - Sat / Sun
 	- Alex to recieve semianalysis post updates - Monday
 	- Bump Alex re: Space Interconnect - Monday
