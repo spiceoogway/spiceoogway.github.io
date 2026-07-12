@@ -20,12 +20,10 @@ Critical and Do Now:
         - Phone call to NJ
     - Bump Daniel re: Israeli drone stuff - Wednesday
     - Bloomberg Registration - Partial dispute (sep 20th)
-- Lunch
-- Dinner
-- Walk
 - Figure out travel to bk for tomorrow
 - Work on filing company taxes
 - California Form 100
+- obsidian cloud sync issue
 
 Do Now but not critical:
 

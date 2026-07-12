@@ -2,7 +2,7 @@
 
 Source: [[Live To-do]]
 Rules: [[Task Triage Rules]]
-Last triaged: 2026-07-11
+Last triaged: 2026-07-12
 
 ## Operating Allocation
 
@@ -16,7 +16,7 @@ Last triaged: 2026-07-11
 - [ ] Lunch. #area/personal #status/today
 - [ ] Dinner. #area/personal #status/today
 - [ ] Walk. #area/personal #status/today
-- [ ] Figure out travel to BK for tomorrow. #area/personal #status/today due:: 2026-07-12
+- [ ] Figure out travel to BK for tomorrow. #area/personal #status/today due:: 2026-07-13
 - [ ] Start setting up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
 - [ ] Rip through Karpathy's Neural Networks: Zero to Hero series. #area/reading #status/next
 - [ ] Work on startup quick blog post tying compute dynamics to model distribution. #area/writing #status/next
@@ -24,7 +24,7 @@ Last triaged: 2026-07-11
 ## Waiting / Date-Bound
 
 - [ ] Go to Sunday Fire Temple and feel out the travel. #area/personal #status/waiting due:: 2026-07-12
-- [ ] Prep notes for SemiAnalysis call in the Sat/Sun window. #area/reading #status/waiting due:: 2026-07-11
+- [ ] Prep notes for SemiAnalysis call in the Sat/Sun window. #area/reading #status/waiting due:: 2026-07-12
 - [ ] Send Alex SemiAnalysis post updates. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Bump Alex re: Space Interconnect. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
@@ -84,5 +84,4 @@ Last triaged: 2026-07-11
 
 ## Needs Clarification
 
-- [ ] Confirm whether SemiAnalysis call prep should be completed Saturday 2026-07-11 or Sunday 2026-07-12. #area/reading #status/waiting
 - [ ] Clarify what "Figure out SpaceX distribution" means: tax, cap table, security distribution, or something else. #area/finance #status/someday
