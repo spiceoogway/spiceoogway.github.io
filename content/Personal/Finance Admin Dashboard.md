@@ -47,6 +47,7 @@ Last refreshed: 2026-07-12
 
 ## Accounts / Subscriptions / Tools
 
+- [ ] Resolve Obsidian cloud sync issue. #area/admin #context/desktop #status/today
 - [ ] Set up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
 - [ ] Fix MSFT Excel. #area/admin #context/desktop #status/later
 - [ ] Switch Codex credit card. #area/codex #area/admin #status/later

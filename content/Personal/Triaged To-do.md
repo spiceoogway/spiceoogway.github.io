@@ -14,6 +14,7 @@ Last triaged: 2026-07-12
 
 - [ ] Work on team taxes. #area/tax #status/today
 - [ ] Figure out travel to BK for tomorrow. #area/personal #status/today due:: 2026-07-13
+- [ ] Resolve Obsidian cloud sync issue. #area/admin #context/desktop #status/today
 - [ ] Start setting up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
 - [ ] Rip through Karpathy's Neural Networks: Zero to Hero series. #area/reading #status/next
 - [ ] Work on startup quick blog post tying compute dynamics to model distribution. #area/writing #status/next
