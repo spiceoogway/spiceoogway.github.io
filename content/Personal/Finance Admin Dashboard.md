@@ -7,13 +7,14 @@ Last refreshed: 2026-07-13
 ## Due Soon
 
 - [ ] Work on team taxes. #area/tax #status/today
-- [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
+- [ ] Set up QuickBooks MCP on laptop. #area/tax #area/admin #area/codex #context/desktop #status/today
 - [ ] Call NY State re: Trustin again. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-13
+- [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-15
 - [ ] Call NJ about PIN / withholding stuff. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-21
 
 ## Waiting On
 
-- [ ] Longer-dated investment horizon allocation update outside the $225k bucket. #area/finance #status/waiting due:: 2026-07-13
+- [ ] Longer-dated investment horizon allocation update outside the $225k bucket. #area/finance #status/waiting due:: 2026-07-15
 - [ ] Dylan's living situation before deciding which NYS registrations need to be opened or closed. #area/tax #area/admin #status/waiting
 - [ ] Bloomberg Registration partial dispute follow-up window. #area/admin #status/waiting due:: 2026-09-20
 
@@ -24,7 +25,8 @@ Last refreshed: 2026-07-13
 
 ## Documents / Forms
 
-- [ ] Work on filing company taxes from desktop. #area/tax #context/desktop #status/next
+- [ ] Work on filing company taxes. #area/tax #status/today
+- [ ] Set up QuickBooks MCP on laptop. #area/tax #area/admin #area/codex #context/desktop #status/today
 - [ ] Complete California Form 100 work. #area/tax #context/desktop #status/next
 - [ ] Handle California EDD credit refund. #area/tax #area/admin #status/later
 - [ ] Process Rippling reimbursements. #area/finance #area/admin #status/later
@@ -36,7 +38,7 @@ Last refreshed: 2026-07-13
 
 ## Treasury / Capital Allocation
 
-- [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
+- [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-15
 - [ ] Figure out T-bill ladder strategy. #area/finance #status/later
 - [ ] Discuss selling team tokens. #area/finance #status/later
 - [ ] Deploy funds again. #area/finance #status/later
@@ -47,8 +49,9 @@ Last refreshed: 2026-07-13
 
 ## Accounts / Subscriptions / Tools
 
-- [ ] Resolve Obsidian cloud sync issue. #area/admin #context/desktop #status/today
+- [ ] Resolve Obsidian cloud sync issue. #area/admin #context/desktop #status/later
 - [ ] Set up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
+- [ ] Set up QuickBooks MCP on laptop. #area/tax #area/admin #area/codex #context/desktop #status/today
 - [ ] Fix MSFT Excel. #area/admin #context/desktop #status/later
 - [ ] Switch Codex credit card. #area/codex #area/admin #status/later
 - [ ] Set up Claude / Codex in Slack. #area/codex #area/automation #status/someday

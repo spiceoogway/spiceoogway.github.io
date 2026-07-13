@@ -6,33 +6,33 @@ Last triaged: 2026-07-13
 
 ## Operating Allocation
 
-- 60% Main: Team taxes. #area/tax #status/today
-- 20% Parallel Workstream: Karpathy's Neural Networks: Zero to Hero series, plus startup quick blog post on compute dynamics and model distribution. #area/reading #area/writing #status/next
+- 60% Main: Karpathy's Neural Networks: Zero to Hero series. #area/reading #status/today
+- 20% Parallel Workstream: Team taxes, plus startup quick blog post on compute dynamics and model distribution. #area/tax #area/writing #status/today
 - 20% Automation: Set up Linux machine on my computer. #area/automation #area/ops #status/today
 
 ## Today
 
+- [ ] Rip through Karpathy's Neural Networks: Zero to Hero series. #area/reading #status/today
 - [ ] Work on team taxes. #area/tax #status/today
-- [ ] Resolve Obsidian cloud sync issue. #area/admin #context/desktop #status/today
+- [ ] Set up QuickBooks MCP on laptop. #area/tax #area/admin #area/codex #context/desktop #status/today
 - [ ] Start setting up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
-- [ ] Rip through Karpathy's Neural Networks: Zero to Hero series. #area/reading #status/next
 - [ ] Work on startup quick blog post tying compute dynamics to model distribution. #area/writing #status/next
 
 ## Waiting / Date-Bound
 
-- [ ] Prep notes for SemiAnalysis call in the Sat/Sun window. #area/reading #status/waiting due:: 2026-07-18
 - [ ] Send Alex SemiAnalysis post updates. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Bump Alex re: Space Interconnect. #area/outreach #status/waiting due:: 2026-07-13
-- [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
 - [ ] Call NY State re: Trustin again. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-13
 - [ ] Call NJ about PIN / withholding stuff. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-21
+- [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-15
 - [ ] Bump Daniel re: Israeli drone stuff. #area/outreach #status/waiting due:: 2026-07-15
 - [ ] Follow up on Bloomberg Registration partial dispute. #area/admin #status/waiting due:: 2026-09-20
 
 ## Desktop Required
 
-- [ ] Work on filing company taxes. #area/tax #context/desktop #status/next
+- [ ] Fix JupyterLab integration. #area/codex #area/admin #context/desktop #status/next
 - [ ] Complete California Form 100 work. #area/tax #context/desktop #status/next
+- [ ] Resolve Obsidian cloud sync issue. #area/admin #context/desktop #status/later
 - [ ] Set up Linux machine as my desktop. #area/ops #area/automation #context/desktop #status/later
 
 ## Critical Later
