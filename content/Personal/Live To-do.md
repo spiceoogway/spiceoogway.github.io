@@ -10,20 +10,19 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting 
-	- Alex to recieve semianalysis post updates - Monday
-	- Bump Alex re: Space Interconnect - Monday
-    - Call NY State re: Trustin again - Monday
-    - NJ Pin / withholding stuff - Next Tuesday
-        - Phone call to NJ
-	  	- Update allocation to be Outside of $225k -> on the longer dated investment horizon - Wednesday
+    - Call NY State re: Trustin again - Tuesday
+    - docusign w/ Dylan, Niyant, Alex for FFII - Tuesday
+	- Update allocation to be Outside of $225k -> on the longer dated investment horizon - Wednesday
     - Bump Daniel re: Israeli drone stuff - Wednesday
+    - NJ Pin / withholding stuff - Next Thursday
+        - Phone call to NJ
     - Bloomberg Registration - Partial dispute (sep 20th)
 - File company taxes
 	- Clean up the books so that they can be filed into turbotax
 	  Plug figure into turbotax
 	- California Form 100
 - Rip through Karpathy's Neural Networks zero to hero series (0/10)
-- corc docusign w/ Dylan, Niyant, Alex for FFII
+- Schedule a call with Phil re: compute finance
 
 Do Now but not critical:
 
@@ -31,26 +30,25 @@ Do Now but not critical:
 
 Do later but critical:
 
-- 
-- Set up linux machine as my desktop
 - obsidian cloud sync issue
 - Figure out T bill ladder strategy
-- Discuss selling team tokens
+- Scope out real estate + office situation
+- Sell team tokens
 - California EDD credit refund
+- Ring shopping next steps
 - Fix MSFT excel
 - Deploy funds again
 - Rippling reimbursements
-- Make sure NJ is on the right address
+- Codex credit card switch
 - Sell personal ETH
 - Get an entity setup for FF II Growth
 - NYS registration problems (what needs to be opened, what needs to be closed)
     - Waiting on Dylan’s living situation
-- Codex credit card switch
-- Ring shopping next steps
-- Scope out real estate + office situation
+- Make sure NJ is on the right address
 
 Do later but not critical:
 
+- Set up linux machine as my desktop
 - Fix screen pipe
 - Make personal website
 - Team pay bumps
@@ -68,7 +66,6 @@ Do later but not critical:
 - Review Rippling
 - new laptop
 - Allow mcp to be installed mid-flight
-- Why is my memory getting slammed
 - Clean up substack
 - Move my fund management to Codex
 - move off ARC
