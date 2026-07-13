@@ -1,38 +1,39 @@
 Main To-dos:
 
 60% Main
-- Team taxes
-20% Parallel Workstream
 - Karpathy's neural networks zero to hero series
+20% Parallel Workstream
+- Team taxes
 - Start up quick blog post linking compute dynamics and their relationship to model distribution
 20% Automation
 - Set up linux machine on my computer
 
 Critical and Do Now:
-- Waiting
-    - Semi Analysis call, prep notes - Sat / Sun
+- Waiting 
 	- Alex to recieve semianalysis post updates - Monday
 	- Bump Alex re: Space Interconnect - Monday
-	- Update allocation to be Outside of $225k -> on the longer dated investment horizon - Monday
     - Call NY State re: Trustin again - Monday
     - NJ Pin / withholding stuff - Next Tuesday
         - Phone call to NJ
+	  	- Update allocation to be Outside of $225k -> on the longer dated investment horizon - Wednesday
     - Bump Daniel re: Israeli drone stuff - Wednesday
     - Bloomberg Registration - Partial dispute (sep 20th)
-- Work on filing company taxes
-- California Form 100
-- obsidian cloud sync issue
+- File company taxes
+	- Set up quickbooks MCP on laptop
+	- California Form 100
+- Rip through Karpathy's Neural Networks zero to hero series
+	- Fix jupyterlab integration
 
 Do Now but not critical:
 
-- Rip through Karpathy's Neural Networks zero to hero series
 - Work on blog post tying compute dynamics to per person models
 
 Do later but critical:
 
 - corc docusign w/ Dylan, Niyant, Alex for FFII
 - Set up linux machine as my desktop
-- Waiting - Figure out T bill ladder strategy
+- obsidian cloud sync issue
+- Figure out T bill ladder strategy
 - Discuss selling team tokens
 - California EDD credit refund
 - Fix MSFT excel

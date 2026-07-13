@@ -1,0 +1,13 @@
+- Dylan's questions:
+	- https://dylanduyvu.github.io/50-sources/semianalysis-call-prep-2026-07-13
+	- Questions about the TCO model, Pricing index and API
+- Main items:
+	- Get pricing for Core Research, AI Cloud TCO, and GPU Pricing API
+	- The main questions we're trying to answer and get a read on. 
+		- Will compute become more distributed that it is today? How many teams will be training and serving inference on custom models?
+			- Are teams like Prime Intellect, Thinking Machines, Applied Compute the beginning of a larger trend or not.
+		- Part of that requires us to have a perspective on the economies of scale around large models, particularly around how future hardware designs deal with batching.
+		- The other part involves us having a perspective on algorithmic improvements in training costs.
+	- For their perspective: two things we're exploring right now:
+		- GPU financialization and commoditization
+		- and we're training our own models + looking to serve inference on long-tail open source models
