@@ -25,7 +25,7 @@ Last triaged: 2026-07-13
 - [ ] Bump Alex re: Space Interconnect. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
 - [ ] Call NY State re: Trustin again. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-13
-- [ ] Call NJ about PIN / withholding stuff. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-14
+- [ ] Call NJ about PIN / withholding stuff. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-21
 - [ ] Bump Daniel re: Israeli drone stuff. #area/outreach #status/waiting due:: 2026-07-15
 - [ ] Follow up on Bloomberg Registration partial dispute. #area/admin #status/waiting due:: 2026-09-20
 
