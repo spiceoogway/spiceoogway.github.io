@@ -7,10 +7,11 @@ Last refreshed: 2026-07-13
 ## Due Soon
 
 - [ ] Work on team taxes. #area/tax #status/today
+- [ ] File company taxes. #area/tax #status/today
 - [ ] Set up QuickBooks MCP on laptop. #area/tax #area/admin #area/codex #context/desktop #status/today
 - [ ] Call NY State re: Trustin again. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-13
 - [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-15
-- [ ] Call NJ about PIN / withholding stuff. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-21
+- [ ] Call NJ about PIN / withholding stuff. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-14
 
 ## Waiting On
 
@@ -21,7 +22,7 @@ Last refreshed: 2026-07-13
 ## Calls To Make
 
 - [ ] Call NY State re: Trustin again. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-13
-- [ ] Call NJ about PIN / withholding stuff. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-21
+- [ ] Call NJ about PIN / withholding stuff. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-14
 
 ## Documents / Forms
 

@@ -14,6 +14,7 @@ Last triaged: 2026-07-13
 
 - [ ] Rip through Karpathy's Neural Networks: Zero to Hero series. #area/reading #status/today
 - [ ] Work on team taxes. #area/tax #status/today
+- [ ] File company taxes. #area/tax #status/today
 - [ ] Set up QuickBooks MCP on laptop. #area/tax #area/admin #area/codex #context/desktop #status/today
 - [ ] Start setting up Linux machine on my computer. #area/ops #area/automation #context/desktop #status/today
 - [ ] Work on startup quick blog post tying compute dynamics to model distribution. #area/writing #status/next
@@ -23,7 +24,7 @@ Last triaged: 2026-07-13
 - [ ] Send Alex SemiAnalysis post updates. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Bump Alex re: Space Interconnect. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Call NY State re: Trustin again. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-13
-- [ ] Call NJ about PIN / withholding stuff. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-21
+- [ ] Call NJ about PIN / withholding stuff. #area/tax #area/admin #context/call #status/waiting due:: 2026-07-14
 - [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-15
 - [ ] Bump Daniel re: Israeli drone stuff. #area/outreach #status/waiting due:: 2026-07-15
 - [ ] Follow up on Bloomberg Registration partial dispute. #area/admin #status/waiting due:: 2026-09-20
