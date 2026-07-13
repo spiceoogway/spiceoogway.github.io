@@ -2,7 +2,7 @@
 
 Source: [[Live To-do]]
 Rules: [[Task Triage Rules]]
-Last triaged: 2026-07-12
+Last triaged: 2026-07-13
 
 ## Operating Allocation
 
@@ -20,7 +20,7 @@ Last triaged: 2026-07-12
 
 ## Waiting / Date-Bound
 
-- [ ] Prep notes for SemiAnalysis call in the Sat/Sun window. #area/reading #status/waiting due:: 2026-07-12
+- [ ] Prep notes for SemiAnalysis call in the Sat/Sun window. #area/reading #status/waiting due:: 2026-07-18
 - [ ] Send Alex SemiAnalysis post updates. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Bump Alex re: Space Interconnect. #area/outreach #status/waiting due:: 2026-07-13
 - [ ] Update allocation to be outside of $225k on the longer-dated investment horizon. #area/finance #status/waiting due:: 2026-07-13
