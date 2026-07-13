@@ -19,10 +19,11 @@ Critical and Do Now:
     - Bump Daniel re: Israeli drone stuff - Wednesday
     - Bloomberg Registration - Partial dispute (sep 20th)
 - File company taxes
-	- Set up quickbooks MCP on laptop
+	- Clean up the books so that they can be filed into turbotax
+	  Plug figure into turbotax
 	- California Form 100
-- Rip through Karpathy's Neural Networks zero to hero series
-	- Fix jupyterlab integration
+- Rip through Karpathy's Neural Networks zero to hero series (0/10)
+- corc docusign w/ Dylan, Niyant, Alex for FFII
 
 Do Now but not critical:
 
@@ -30,7 +31,7 @@ Do Now but not critical:
 
 Do later but critical:
 
-- corc docusign w/ Dylan, Niyant, Alex for FFII
+- 
 - Set up linux machine as my desktop
 - obsidian cloud sync issue
 - Figure out T bill ladder strategy
