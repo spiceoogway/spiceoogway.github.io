@@ -22,7 +22,7 @@ Critical and Do Now:
 		  - Schedule M1 unrealized gains + nondeuctible transport
 		  - Tie out books and submit
 	- California Form 100
-- Rip through Karpathy's Neural Networks zero to hero series (4/10)
+- Rip through Karpathy's Neural Networks zero to hero series (5/10)
 
 Do Now but not critical:
 
