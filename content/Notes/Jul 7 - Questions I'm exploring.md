@@ -36,3 +36,5 @@ People / teams aligned to my vision:
 - outside of marketplaces and lenders, 
 
 https://www.youtube.com/watch?v=xBpGn3BDcOY
+
+https://foresight.org/resource/mark-s-miller-misdiagnosing-agi-risk/
