@@ -19,11 +19,10 @@ Critical and Do Now:
     - Bloomberg Registration - Partial dispute (sep 20th)
 - File company taxes
 	  Taxes
-		  - Compare against federal income tax filings
-		  - Schedule M1 unrealized gains
+		  - Schedule M1 unrealized gains + nondeuctible transport
 		  - Tie out books and submit
 	- California Form 100
-- Rip through Karpathy's Neural Networks zero to hero series (2/10)
+- Rip through Karpathy's Neural Networks zero to hero series (3/10)
 - Schedule a call with Phil re: compute finance
 
 Do Now but not critical:
