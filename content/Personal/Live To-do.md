@@ -18,12 +18,9 @@ Critical and Do Now:
         - Phone call to NJ
     - Bloomberg Registration - Partial dispute (sep 20th)
 - File company taxes
-	- Clean up the books so that they can be filed into turbotax
-		- 718.81 and 3.48 liability
-		- 
-	  Plug figure into turbotax
+	  Plug figures into turbotax
 	- California Form 100
-- Rip through Karpathy's Neural Networks zero to hero series (0/10)
+- Rip through Karpathy's Neural Networks zero to hero series (2/10)
 - Schedule a call with Phil re: compute finance
 
 Do Now but not critical:
