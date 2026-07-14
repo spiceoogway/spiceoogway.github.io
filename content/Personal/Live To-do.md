@@ -10,9 +10,9 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting 
-    - Call NY State re: Trustin again - Tuesday
     - docusign w/ Dylan, Niyant, Alex for FFII - Tuesday
 	- Update allocation to be Outside of $225k -> on the longer dated investment horizon - Wednesday
+    - Call NY State re: Trustin again - Wednesday
     - Bump Daniel re: Israeli drone stuff - Wednesday
     - NJ Pin / withholding stuff - Next Thursday
         - Phone call to NJ
@@ -22,7 +22,7 @@ Critical and Do Now:
 		  - Schedule M1 unrealized gains + nondeuctible transport
 		  - Tie out books and submit
 	- California Form 100
-- Rip through Karpathy's Neural Networks zero to hero series (5/10)
+- Rip through Karpathy's Neural Networks zero to hero series (6/10)
 
 Do Now but not critical:
 

@@ -11,6 +11,7 @@
 	- Turns out this was dumb. I think that continual learning on personalized data is effectively the highest problem scale one can be at. I have not seen this performed.
 - What is the state of continual training?
 	- https://arxiv.org/pdf/2512.23675
+	- Has anyone applied continual learning to multi-agent environments?
 - 
 
 People / teams aligned to my vision:
