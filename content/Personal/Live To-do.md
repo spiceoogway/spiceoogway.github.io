@@ -18,7 +18,10 @@ Critical and Do Now:
         - Phone call to NJ
     - Bloomberg Registration - Partial dispute (sep 20th)
 - File company taxes
-	  Plug figures into turbotax
+	  Taxes
+		  - Compare against federal income tax filings
+		  - Schedule M1 unrealized gains
+		  - Tie out books and submit
 	- California Form 100
 - Rip through Karpathy's Neural Networks zero to hero series (2/10)
 - Schedule a call with Phil re: compute finance
