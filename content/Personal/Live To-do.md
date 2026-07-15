@@ -17,11 +17,7 @@ Critical and Do Now:
     - NJ Pin / withholding stuff - Next Fr
         - Phone call to NJ
     - Bloomberg Registration - Partial dispute (sep 20th)
-- File company taxes
-	  Taxes
-		  - Schedule M1 unrealized gains + nondeuctible transport
-		  - Tie out books and submit
-	- California Form 100
+- File company taxes - California Form 100
 - Rip through Karpathy's Neural Networks zero to hero series (6/10)
 
 Do Now but not critical:
