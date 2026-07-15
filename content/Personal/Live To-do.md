@@ -1,6 +1,7 @@
 Main To-dos:
 
 60% Main
+- Finish California TurboTax
 - Karpathy's neural networks zero to hero series
 20% Parallel Workstream
 - Start up quick blog post linking compute dynamics and their relationship to model distribution
@@ -15,8 +16,8 @@ Critical and Do Now:
     - NJ Pin / withholding stuff - Next Fr
         - Phone call to NJ
     - Bloomberg Registration - Partial dispute (sep 20th)
+- California Form 100 - TurboTax
 - Meditate - 1pm
-- California Form 100
 - Rip through Karpathy's Neural Networks zero to hero series (6/10)
 
 Do Now but not critical:
@@ -24,7 +25,11 @@ Do Now but not critical:
 - Work on small blog post tying compute dynamics to per person models
 - Plan / scope out next LBH:
 	- Create a list of existing tools
+		- Screenpipe
+		- Generative User Agent tooling
 	- Create a list of existing projects to build
+		- Implement screenpipe
+		- more frequent action captures in obsidian
 	- Create a list of existing questions
 
 Do later but critical:
@@ -48,6 +53,7 @@ Do later but critical:
 
 Do later but not critical:
 
+- conedison bill stuff
 - Set up linux machine as my desktop
 - Fix screen pipe
 - Make personal website
