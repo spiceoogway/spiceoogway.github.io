@@ -10,11 +10,12 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting 
-    - Bump Daniel re: Israeli drone stuff - Wednesday
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon - Thursday
-    -  Call NY State re: Trustin again - Th
+    - Call NY State re: Trustin again - Th
+    - Bump Daniel re: Israeli drone stuff - Friday
     - NJ Pin / withholding stuff - Next Fr
         - Phone call to NJ
+	- Send 2k PSFCU
     - Bloomberg Registration - Partial dispute (sep 20th)
 - California Form 100 - TurboTax
 - Meditate - 1pm
@@ -34,7 +35,6 @@ Do Now but not critical:
 
 Do later but critical:
 
-- send mom 2k back
 - obsidian cloud sync issue
 - Scope out real estate + office situation
 - Ring shopping next steps
