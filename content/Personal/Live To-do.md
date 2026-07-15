@@ -10,11 +10,11 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting 
-    - docusign w/ Dylan, Niyant, Alex for FFII - Tuesday
+    - docusign w/ Dylan, Niyant, Alex for FFII - Wed
 	- Update allocation to be Outside of $225k -> on the longer dated investment horizon - Wednesday
-    - Call NY State re: Trustin again - Wednesday
     - Bump Daniel re: Israeli drone stuff - Wednesday
-    - NJ Pin / withholding stuff - Next Thursday
+    -  Call NY State re: Trustin again - Th
+    - NJ Pin / withholding stuff - Next Fr
         - Phone call to NJ
     - Bloomberg Registration - Partial dispute (sep 20th)
 - File company taxes
