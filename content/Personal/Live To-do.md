@@ -18,7 +18,7 @@ Critical and Do Now:
     - Bloomberg Registration - Partial dispute (sep 20th)
 - California Form 100 - TurboTax
 - Meditate - 1pm
-- Rip through Karpathy's Neural Networks zero to hero series (6/10)
+- Rip through Karpathy's Neural Networks zero to hero series (7/10)
 
 Do Now but not critical:
 
