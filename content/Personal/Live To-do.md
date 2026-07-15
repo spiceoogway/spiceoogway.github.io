@@ -3,35 +3,39 @@ Main To-dos:
 60% Main
 - Karpathy's neural networks zero to hero series
 20% Parallel Workstream
-- Team taxes
 - Start up quick blog post linking compute dynamics and their relationship to model distribution
 20% Automation
-- Set up linux machine on my computer
+- obsidian cloud sync issue
 
 Critical and Do Now:
 - Waiting 
-    - docusign w/ Dylan, Niyant, Alex for FFII - Wed
-	- Update allocation to be Outside of $225k -> on the longer dated investment horizon - Wednesday
     - Bump Daniel re: Israeli drone stuff - Wednesday
+    - Update allocation to be Outside of $225k -> on the longer dated investment horizon - Thursday
     -  Call NY State re: Trustin again - Th
     - NJ Pin / withholding stuff - Next Fr
         - Phone call to NJ
     - Bloomberg Registration - Partial dispute (sep 20th)
-- File company taxes - California Form 100
+- Meditate - 1pm
+- California Form 100
 - Rip through Karpathy's Neural Networks zero to hero series (6/10)
 
 Do Now but not critical:
 
-- Work on blog post tying compute dynamics to per person models
+- Work on small blog post tying compute dynamics to per person models
+- Plan / scope out next LBH:
+	- Create a list of existing tools
+	- Create a list of existing projects to build
+	- Create a list of existing questions
 
 Do later but critical:
 
+- send mom 2k back
 - obsidian cloud sync issue
-- Figure out T bill ladder strategy
 - Scope out real estate + office situation
-- Sell team tokens
-- California EDD credit refund
 - Ring shopping next steps
+- Figure out T bill ladder strategy
+- Discuss selling team tokens
+- California EDD credit refund
 - Fix MSFT excel
 - Deploy funds again
 - Rippling reimbursements
@@ -49,7 +53,6 @@ Do later but not critical:
 - Make personal website
 - Team pay bumps
 - Cross post to precursor labs
-- send mom 2k back
 - Figure our spacex distribution
 - Update linkedin for GEO / SEO purposes
 - Update substack
@@ -58,6 +61,7 @@ Do later but not critical:
 - Combine note taking
 - Bitcoin Node
 - password manager for codex
+- Give codex / claude credit cards
 - Review Linear
 - Review Rippling
 - new laptop
