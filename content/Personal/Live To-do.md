@@ -12,14 +12,16 @@ Critical and Do Now:
 - Waiting 
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon - Thursday
     - Call NY State re: Trustin again - Th
+    - California Taxes - Th
     - Bump Daniel re: Israeli drone stuff - Friday
     - NJ Pin / withholding stuff - Next Fr
         - Phone call to NJ
 	- Send 2k PSFCU
     - Bloomberg Registration - Partial dispute (sep 20th)
-- California Form 100 - TurboTax
 - Meditate - 1pm
 - Rip through Karpathy's Neural Networks zero to hero series (7/10)
+- California EDD credit refund
+- Late August California trip
 
 Do Now but not critical:
 
@@ -39,8 +41,7 @@ Do later but critical:
 - Ring shopping next steps
 - Figure out T bill ladder strategy
 - Discuss selling team tokens
-- California EDD credit refund
-- Fix MSFT excel
+- Clean up personal financials
 - Deploy funds again
 - Rippling reimbursements
 - Codex credit card switch
