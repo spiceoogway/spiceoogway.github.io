@@ -1,7 +1,6 @@
 Main To-dos:
 
 60% Main
-- Finish California TurboTax
 - Karpathy's neural networks zero to hero series
 20% Parallel Workstream
 - Start up quick blog post linking compute dynamics and their relationship to model distribution
@@ -9,19 +8,20 @@ Main To-dos:
 - obsidian cloud sync issue
 
 Critical and Do Now:
-- Waiting 
-    - Update allocation to be Outside of $225k -> on the longer dated investment horizon - Thursday
-    - Call NY State re: Trustin again - Th
+- Waiting
     - California Taxes - Th
+    -     - Update allocation to be Outside of $225k -> on the longer dated investment horizon - Fr
+	    - Figure out T bill ladder strategy
     - Bump Daniel re: Israeli drone stuff - Friday
+    - Ring shopping plans, Response from Anna - Fr
     - NJ Pin / withholding stuff - Next Fr
         - Phone call to NJ
-	- Send 2k PSFCU
+	- Send 2k PSFCU - Mon
     - Bloomberg Registration - Partial dispute (sep 20th)
 - Meditate - 1pm
 - Rip through Karpathy's Neural Networks zero to hero series (7/10)
-- California EDD credit refund
-- Late August California trip
+- Late August California trip planning
+- Call NY State re: Trustin again
 
 Do Now but not critical:
 
@@ -37,16 +37,14 @@ Do Now but not critical:
 
 Do later but critical:
 
-- Scope out real estate + office situation
-- Ring shopping next steps
-- Figure out T bill ladder strategy
-- Discuss selling team tokens
+- Team token allocation update
+- Figure our spacex distribution
 - Clean up personal financials
 - Deploy funds again
-- Rippling reimbursements
-- Codex credit card switch
 - Sell personal ETH
-- Get an entity setup for FF II Growth
+- [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
+- Get an entity setup for FF II Growth / separate introductions for Dylan & Niyant to Aliya
+- California EDD credit refund - requires calling california
 - NYS registration problems (what needs to be opened, what needs to be closed)
     - Waiting on Dylan’s living situation
 - Make sure NJ is on the right address
@@ -59,7 +57,6 @@ Do later but not critical:
 - Make personal website
 - Team pay bumps
 - Cross post to precursor labs
-- Figure our spacex distribution
 - Update linkedin for GEO / SEO purposes
 - Update substack
 - Claude / Codex in slack
