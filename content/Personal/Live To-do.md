@@ -18,12 +18,13 @@ Critical and Do Now:
         - Phone call to NJ
 	- Send 2k PSFCU - Mon
     - Bloomberg Registration - Partial dispute (sep 20th)
-- Eat 3:30, meditate 4:30
-- Work on small blog post tying compute dynamics to per person models
+- meditate 4:30
+- **Work on small blog post tying compute dynamics to per person models**
 - Begin scoping out the next LBH:
 	- Create a list of existing tools
 		- Screenpipe
 		- Generative User Agent tooling
+		- Explore better whispering voice models
 	- Create a list of existing projects to build
 		- Implement screenpipe
 		- more frequent action captures in obsidian
