@@ -13,15 +13,16 @@ Critical and Do Now:
     -     - Update allocation to be Outside of $225k -> on the longer dated investment horizon - Fr
 	    - Figure out T bill ladder strategy
     - Bump Daniel re: Israeli drone stuff - Friday
-    - Ring shopping plans, Response from Anna - Fr
     - NJ Pin / withholding stuff - Next Fr
         - Phone call to NJ
 	- Send 2k PSFCU - Mon
     - Bloomberg Registration - Partial dispute (sep 20th)
-- Meditate - 1pm
+- Meditate
+- Prep All Hands
 - Rip through Karpathy's Neural Networks zero to hero series (7/10)
 - Late August California trip planning
 - Call NY State re: Trustin again
+- Check if person return arrived
 
 Do Now but not critical:
 
@@ -37,6 +38,7 @@ Do Now but not critical:
 
 Do later but critical:
 
+- Budget on ring
 - Team token allocation update
 - Figure our spacex distribution
 - Clean up personal financials
@@ -51,6 +53,7 @@ Do later but critical:
 
 Do later but not critical:
 
+- Vitalik deep funding graph
 - conedison bill stuff
 - Set up linux machine as my desktop
 - Fix screen pipe
