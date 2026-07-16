@@ -11,6 +11,12 @@ I think there's something to be said here about information economics. Basically
 
 The push for compute commoditization and finance will definitely be a function of widespread distributed compute in order to reduce transaction costs. The reality is that all compute is functionally different and particular specific use-cases might be less commodified than others. 
 
+Do complex uninterpretable systems presented as random to us?
+	- How does intelligence trade off with localized information in space and time? Ie. is it better to have something of more narrow yet adapted intelligence but local to a problem or general but operating with noise
+
+https://scispace.com/pdf/specific-and-general-knowledge-and-organizational-structure-28gm35jmxu.pdf
+https://www.nobelprize.org/prizes/economic-sciences/2009/williamson/lecture/
+
 Appendix idea:
 There are two counteracting forces:
 - Cost optimization across every component of the supply chain. Hayekian, Lockean, Hansonian
