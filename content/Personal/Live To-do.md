@@ -35,7 +35,6 @@ Do Now but not critical:
 
 Do later but critical:
 
-- obsidian cloud sync issue
 - Scope out real estate + office situation
 - Ring shopping next steps
 - Figure out T bill ladder strategy
