@@ -18,7 +18,6 @@ Critical and Do Now:
         - Phone call to NJ
 	- Send 2k PSFCU - Mon
     - Bloomberg Registration - Partial dispute (sep 20th)
-- meditate 4:30
 - **Work on small blog post tying compute dynamics to per person models**
 - Begin scoping out the next LBH:
 	- Create a list of existing tools
@@ -30,6 +29,8 @@ Critical and Do Now:
 		- more frequent action captures in obsidian
 	- Create a list of existing questions
 - Late August California trip planning
+- Haircut - Fr
+- Bring contact lens case + solution to office for easier eyes open meditation - Fr
 
 Do Now but not critical:
 
