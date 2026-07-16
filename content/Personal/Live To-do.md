@@ -1,14 +1,15 @@
 Main To-dos:
 
 60% Main
-- Karpathy's neural networks zero to hero series
-20% Parallel Workstream
 - Start up quick blog post linking compute dynamics and their relationship to model distribution
+20% Parallel Workstream
+- GPT 2.0
 20% Automation
 - 
 
 Critical and Do Now:
 - Waiting
+    - Call NY State re: Trustin again - Fr
     - California Taxes - Fr
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon - Fr
 	    - Figure out T bill ladder strategy
@@ -17,8 +18,9 @@ Critical and Do Now:
         - Phone call to NJ
 	- Send 2k PSFCU - Mon
     - Bloomberg Registration - Partial dispute (sep 20th)
-- Call NY State re: Trustin again
-- Plan / scope out next LBH:
+- Eat 3:30, meditate 4:30
+- Work on small blog post tying compute dynamics to per person models
+- Begin scoping out the next LBH:
 	- Create a list of existing tools
 		- Screenpipe
 		- Generative User Agent tooling
@@ -26,13 +28,11 @@ Critical and Do Now:
 		- Implement screenpipe
 		- more frequent action captures in obsidian
 	- Create a list of existing questions
-- Rip through Karpathy's Neural Networks zero to hero series (9/10)
-- Meditate
 - Late August California trip planning
 
 Do Now but not critical:
 
-- Work on small blog post tying compute dynamics to per person models
+- Implement GPT 2.0
 
 Do later but critical:
 
