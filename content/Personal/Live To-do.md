@@ -28,6 +28,7 @@ Critical and Do Now:
 		- Explore better whispering voice models
 		- Thinking Machines audio
 		- Obsidian autocomplete
+		- Add ExaMCP
 	- Create a list of existing projects to build
 		- Implement screenpipe
 		- more frequent action captures in obsidian

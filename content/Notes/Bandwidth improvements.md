@@ -1,4 +1,0 @@
-- parallel agents / routing
-- faster turns (faster inference, relevant model matching)
-- voice ai (wispr, aleph neuro)
-- bcis
