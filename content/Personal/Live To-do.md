@@ -30,7 +30,6 @@ Critical and Do Now:
 		- more frequent action captures in obsidian
 	- Create a list of existing questions
 - Haircut - Fr
-- Setup protable
 
 Do Now but not critical:
 
@@ -38,6 +37,7 @@ Do Now but not critical:
 
 Do later but critical:
 
+- Setup portable contact lens situation
 - Clean up personal financials
 - Figure our spacex distribution
 - Budget on ring
