@@ -10,17 +10,17 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
-    - Update allocation to be Outside of $225k -> on the longer dated investment horizon - Fr
-	    - Figure out T bill ladder strategy
     - Bump Daniel re: Israeli drone stuff - Sat/Sun
     - Move from Notion to Linear - Sat/Sun
-    - NJ Pin / withholding stuff - Next Fr
+    - Update allocation to be Outside of $225k -> on the longer dated investment horizon - M
+	    - Figure out T bill ladder strategy
+    - NJ Pin / withholding stuff - Next Monday
         - Phone call to NJ
 	- Haircut - Monday
+	- Notice of experience + DOL responses - July 30th
     - Bloomberg Registration - Partial dispute (sep 20th)
 - **Work on small blog post tying compute dynamics to per person models**
 - Lunch - 2pm
-- **Call NY State re: Trustin again - 2:30**
 - Begin scoping out the next LBH:
 	- Create a list of existing tools
 		- Screenpipe

@@ -1,6 +1,12 @@
+Better structure:
+
+- 
 
 Creating personal productive use cases for computing results in distributed compute.
-- 
+
+How is that done?
+- Increase sample efficiency deriving intent from human data
+- Reducing the time in between steering
 
 Include links to Hyper Soren's articles 
 
