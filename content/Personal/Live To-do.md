@@ -20,7 +20,6 @@ Critical and Do Now:
 	- Notice of experience + DOL responses - July 30th
     - Bloomberg Registration - Partial dispute (sep 20th)
 - **Work on small blog post tying compute dynamics to per person models**
-- Lunch - 2pm
 - Begin scoping out the next LBH:
 	- Create a list of existing tools
 		- Screenpipe
@@ -33,7 +32,6 @@ Critical and Do Now:
 		- Implement screenpipe
 		- more frequent action captures in obsidian
 	- Create a list of existing questions
-- 
 
 Do Now but not critical:
 
