@@ -25,6 +25,7 @@ Critical and Do Now:
 		- Screenpipe
 		- Generative User Agent tooling
 		- Explore better whispering voice models
+		- Thinking Machines audio
 	- Create a list of existing projects to build
 		- Implement screenpipe
 		- more frequent action captures in obsidian
@@ -37,6 +38,7 @@ Do Now but not critical:
 
 Do later but critical:
 
+- Plan out next sangha visit
 - Setup portable contact lens situation
 - Clean up personal financials
 - Figure our spacex distribution

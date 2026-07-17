@@ -1,4 +1,6 @@
 
+
+
 Include links to Hyper Soren's articles 
 
 The general premise is that needs for local compute or man-on-the-spot compute basically end up dictating compute economics margins and pressure to commoditize.
