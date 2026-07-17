@@ -1,0 +1,2 @@
+- The main AI I use has a poor model of me which severely limits how productive it could be.
+- 
