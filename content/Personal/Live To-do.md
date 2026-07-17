@@ -16,6 +16,7 @@ Critical and Do Now:
     - Bump Daniel re: Israeli drone stuff - Friday
     - NJ Pin / withholding stuff - Next Fr
         - Phone call to NJ
+	- Haircut - Monday
 	- Send 2k PSFCU - Mon
     - Bloomberg Registration - Partial dispute (sep 20th)
 - Move from Coda to Linear
@@ -30,7 +31,7 @@ Critical and Do Now:
 		- Implement screenpipe
 		- more frequent action captures in obsidian
 	- Create a list of existing questions
-- Haircut - Fr
+- Amazon bill
 
 Do Now but not critical:
 

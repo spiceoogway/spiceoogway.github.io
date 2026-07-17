@@ -12,6 +12,7 @@
 - Seeing that Frees and Opening the Hand of Thought are both pointing at something like -> grasping in itself is what you're looking for. and yet you cannot grasp ***it*** , ungrasping, not searching, is what you don't know you want. and yet it is the most natural thing for you. you are already not grasping. It is both hard (work) and easy (simple) at the same time. => emptiness?
 
 - All phenomena are empty of inherent existence
+- True emptiness equals wondrous being.
 
 anti-ea:
 - right action is to wake the sentient beings of the universe. ea is misplaced compassion
