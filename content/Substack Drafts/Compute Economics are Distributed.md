@@ -16,6 +16,22 @@ Do complex uninterpretable systems presented as random to us?
 
 https://scispace.com/pdf/specific-and-general-knowledge-and-organizational-structure-28gm35jmxu.pdf
 https://www.nobelprize.org/prizes/economic-sciences/2009/williamson/lecture/
+- the most interest point between these two is that markets and hierarchy are determined by transaction costs. related to coasean perspectives
+
+The question I am trying to better understand is something like: How does the distribution of information and intelligence, and different model training regimes determine how compute will be distributed?
+
+Things like:
+
+- custom models
+- continual learning
+- ownership of context origination
+- edge inference
+
+All seem to matter.
+
+https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf
+
+The automation rate of verification is what decides the long term dynamic (ie. can you be simulated?)
 
 Appendix idea:
 There are two counteracting forces:
