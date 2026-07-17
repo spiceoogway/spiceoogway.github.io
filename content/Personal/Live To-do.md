@@ -4,34 +4,35 @@ Main To-dos:
 - Start up quick blog post linking compute dynamics and their relationship to model distribution
 20% Parallel Workstream
 - GPT 2.0
+- New LBH
 20% Automation
 - 
 
 Critical and Do Now:
 - Waiting
-    - Call NY State re: Trustin again - Fr
-    - California Taxes - Fr
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon - Fr
 	    - Figure out T bill ladder strategy
-    - Bump Daniel re: Israeli drone stuff - Friday
+    - Bump Daniel re: Israeli drone stuff - Sat/Sun
+    - Move from Notion to Linear - Sat/Sun
     - NJ Pin / withholding stuff - Next Fr
         - Phone call to NJ
 	- Haircut - Monday
-	- Send 2k PSFCU - Mon
     - Bloomberg Registration - Partial dispute (sep 20th)
-- Move from Coda to Linear
 - **Work on small blog post tying compute dynamics to per person models**
+- Lunch - 2pm
+- **Call NY State re: Trustin again - 2:30**
 - Begin scoping out the next LBH:
 	- Create a list of existing tools
 		- Screenpipe
 		- Generative User Agent tooling
 		- Explore better whispering voice models
 		- Thinking Machines audio
+		- Obsidian autocomplete
 	- Create a list of existing projects to build
 		- Implement screenpipe
 		- more frequent action captures in obsidian
 	- Create a list of existing questions
-- Amazon bill
+- 
 
 Do Now but not critical:
 

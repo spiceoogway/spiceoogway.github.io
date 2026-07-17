@@ -1,5 +1,6 @@
 
-
+Creating personal productive use cases for computing results in distributed compute.
+- 
 
 Include links to Hyper Soren's articles 
 
