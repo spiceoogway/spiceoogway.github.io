@@ -28,7 +28,6 @@ Critical and Do Now:
 		- Implement screenpipe
 		- more frequent action captures in obsidian
 	- Create a list of existing questions
-- Late August California trip planning
 - Haircut - Fr
 - Bring contact lens case + solution to office for easier eyes open meditation - Fr
 
