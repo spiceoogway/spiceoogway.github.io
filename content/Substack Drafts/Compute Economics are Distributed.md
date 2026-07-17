@@ -1,12 +1,12 @@
 Better structure:
 
-- 
-
 Creating personal productive use cases for computing results in distributed compute.
 
 How is that done?
 - Increase sample efficiency deriving intent from human data
 - Reducing the time in between steering
+
+personal computing + BCI's as a model for distributing compute. information bound, not model bound. better models make the information supply demand mismatch worse. effectively, we are bound "sensors", NOT compute / AI models etc. What drives use cases for compute is more high signal data.
 
 Include links to Hyper Soren's articles 
 
