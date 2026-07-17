@@ -18,6 +18,7 @@ Critical and Do Now:
         - Phone call to NJ
 	- Send 2k PSFCU - Mon
     - Bloomberg Registration - Partial dispute (sep 20th)
+- Move from Coda to Linear
 - **Work on small blog post tying compute dynamics to per person models**
 - Begin scoping out the next LBH:
 	- Create a list of existing tools
@@ -29,7 +30,7 @@ Critical and Do Now:
 		- more frequent action captures in obsidian
 	- Create a list of existing questions
 - Haircut - Fr
-- Bring contact lens case + solution to office for easier eyes open meditation - Fr
+- Setup protable
 
 Do Now but not critical:
 
