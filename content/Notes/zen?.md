@@ -9,5 +9,7 @@
 - the hungry would give anything for a meal, while the satiated complain about the taste of their food
 - those without a car dream of owning one, while those who have a car are always looking for a better one
 
+- Seeing that Frees and Opening the Hand of Thought are both pointing at something like -> grasping in itself is what you're looking for. and yet you cannot grasp ***it*** , ungrasping, not searching, is what you don't know you wanted. 
+
 anti-ea:
 - right action is to wake the sentient beings of the universe. ea is misplaced compassion
