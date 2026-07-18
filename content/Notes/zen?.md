@@ -13,6 +13,8 @@
 
 - All phenomena are empty of inherent existence
 - True emptiness equals wondrous being.
+- Meaning is an incoherent concept. Mind and awareness is fabricated.
+- The act of sitting is expression of belief.
 
 anti-ea:
 - right action is to wake the sentient beings of the universe. ea is misplaced compassion
