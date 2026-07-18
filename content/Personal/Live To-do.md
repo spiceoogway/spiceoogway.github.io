@@ -11,17 +11,31 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
-    - Bump Daniel re: Israeli drone stuff - Sat/Sun
-    - Move from Notion to Linear - Sat/Sun
+    - Figure out dinner (Susie)
+    - Bump Daniel re: Israeli drone stuff - Sun
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon - M
 	    - Figure out T bill ladder strategy
-    - NJ Pin / withholding stuff - Next Monday
-        - Phone call to NJ
-	- Haircut - Monday
-	- Notice of experience + DOL responses - July 30th
-    - Bloomberg Registration - Partial dispute (sep 20th)
-- **Work on small blog post tying compute dynamics to per person models**
-- Begin scoping out the next LBH:
+    - Bloomberg Registration - Review partial dispute (sep 20th)
+- Bfast
+- Meditate
+- **Finish blog post tying compute dynamics to per person models**
+- Figure out lunch
+- Trader Joes
+- Move from Coda to Notion
+
+Do Now but not critical:
+
+- Implement GPT 2.0
+- Reply to Sharone
+
+Do later but critical:
+
+- NJ Pin / withholding stuff - phone call to NJ
+- Dentist visit @ Weinman - July 31st
+- Notice of experience + DOL responses - By July 30th
+- Plan out next sangha visit
+- Haircut
+- Scope out the next LBH:
 	- Create a list of existing tools
 		- Screenpipe
 		- Generative User Agent tooling
@@ -33,14 +47,6 @@ Critical and Do Now:
 		- Implement screenpipe
 		- more frequent action captures in obsidian
 	- Create a list of existing questions
-
-Do Now but not critical:
-
-- Implement GPT 2.0
-
-Do later but critical:
-
-- Plan out next sangha visit
 - Setup portable contact lens situation
 - Clean up personal financials
 - Figure our spacex distribution
