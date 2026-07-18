@@ -11,16 +11,15 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
-    - Figure out dinner (Susie)
+    - 
     - Bump Daniel re: Israeli drone stuff - Sun
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon - M
 	    - Figure out T bill ladder strategy
     - Bloomberg Registration - Review partial dispute (sep 20th)
-- Bfast
+- Come up with dinner idea & get food
+- ![[Pasted image 20260718121051.png]]
 - Meditate
 - **Finish blog post tying compute dynamics to per person models**
-- Figure out lunch
-- Trader Joes
 - Move from Coda to Notion
 
 Do Now but not critical:
