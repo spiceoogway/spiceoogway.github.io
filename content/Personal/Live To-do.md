@@ -25,12 +25,7 @@ Do Now but not critical:
 
 Do later but critical:
 
-- NJ Pin / withholding stuff - phone call to NJ
-- Dentist visit @ Weinman - July 31st
-- Notice of experience + DOL responses - By July 30th
-- Plan out next sangha visit
-- Haircut
-- Scope out the next LBH:
+- - Scope out the next LBH:
 	- Create a list of existing tools
 		- Screenpipe
 		- Generative User Agent tooling
@@ -42,6 +37,11 @@ Do later but critical:
 		- Implement screenpipe
 		- more frequent action captures in obsidian
 	- Create a list of existing questions
+- NJ Pin / withholding stuff - phone call to NJ
+- Dentist visit @ Weinman - July 31st
+- Notice of experience + DOL responses - By July 30th
+- Plan out next sangha visit
+- Haircut
 - Setup portable contact lens situation
 - Clean up personal financials
 - Figure our spacex distribution
