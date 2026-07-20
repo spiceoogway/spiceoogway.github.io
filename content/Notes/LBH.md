@@ -8,7 +8,6 @@
 	1. Screenpipe
 - **How continual is the post-training?**
 	- Requires talking to people
-- **Has anyone done this for agentic finance?**
 
 4. Tech forward individuals and startups are spending significant resource building custom memory systems and knowledge bases to improve model usability.
 	1. Generative user agent tooling
