@@ -2,9 +2,9 @@ Main To-dos:
 
 60% Main
 - Start up quick blog post linking compute dynamics and their relationship to model distribution
+- New LBH
 20% Parallel Workstream
 - GPT 2.0
-- New LBH
 20% Automation
 - 
 
@@ -15,16 +15,7 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
     - Bloomberg Registration - Review partial dispute (sep 20th)
 - **Finish blog post tying compute dynamics to per person models**
-	- Move from  Coda to Notion
-
-Do Now but not critical:
-
-- Implement GPT 2.0
-- Reply to Sharone
-
-Do later but critical:
-
-- - Scope out the next LBH:
+- Scope out the next LBH:
 	- Create a list of existing tools
 		- Screenpipe
 		- Generative User Agent tooling
@@ -36,12 +27,19 @@ Do later but critical:
 		- Implement screenpipe
 		- more frequent action captures in obsidian
 	- Create a list of existing questions
+
+Do Now but not critical:
+
+- Implement GPT 2.0
+- Reply to Sharone
+
+Do later but critical:
+
 - NJ Pin / withholding stuff - phone call to NJ
 - Dentist visit @ Weinman - July 31st
 - Notice of experience + DOL responses - By July 30th
 - Plan out next sangha visit
 - Haircut
-- Setup portable contact lens situation
 - Clean up personal financials
 - Figure our spacex distribution
 - Budget on ring
