@@ -10,12 +10,9 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
-    - Bump Daniel re: Israeli drone stuff - Sun
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon - M
 	    - Figure out T bill ladder strategy
     - Bloomberg Registration - Review partial dispute (sep 20th)
-- **Finish blog post tying compute dynamics to per person models**
-- Implement GPT 2.0
 - Scope out the next LBH:
 	- Create a list of existing tools
 		- Screenpipe
@@ -28,10 +25,13 @@ Critical and Do Now:
 		- Implement screenpipe
 		- more frequent action captures in obsidian
 	- Create a list of existing questions
+- Message Dylan re: drone stuff
+- Reply to Sharone
+- Implement GPT 2.0
 
 Do Now but not critical:
 
-- Reply to Sharone
+
 
 Do later but critical:
 
