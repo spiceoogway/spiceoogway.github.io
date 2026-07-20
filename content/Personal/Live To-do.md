@@ -15,6 +15,7 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
     - Bloomberg Registration - Review partial dispute (sep 20th)
 - **Finish blog post tying compute dynamics to per person models**
+- Implement GPT 2.0
 - Scope out the next LBH:
 	- Create a list of existing tools
 		- Screenpipe
@@ -30,7 +31,6 @@ Critical and Do Now:
 
 Do Now but not critical:
 
-- Implement GPT 2.0
 - Reply to Sharone
 
 Do later but critical:
