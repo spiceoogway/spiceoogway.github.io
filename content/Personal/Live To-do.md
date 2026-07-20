@@ -3,7 +3,6 @@ Main To-dos:
 60% Main
 - Start up quick blog post linking compute dynamics and their relationship to model distribution
 20% Parallel Workstream
-- Team taxes
 - GPT 2.0
 - New LBH
 20% Automation
@@ -16,7 +15,7 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
     - Bloomberg Registration - Review partial dispute (sep 20th)
 - **Finish blog post tying compute dynamics to per person models**
-- Move from Coda to Notion
+	- Move from  Coda to Notion
 
 Do Now but not critical:
 
