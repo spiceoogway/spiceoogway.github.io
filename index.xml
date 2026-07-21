@@ -10,61 +10,61 @@
     <link>https://spiceoogway.github.io/clippings/</link>
     <guid>https://spiceoogway.github.io/clippings/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 21 Jul 2026 22:54:19 GMT</pubDate>
+    <pubDate>Tue, 21 Jul 2026 23:53:44 GMT</pubDate>
   </item><item>
     <title>Notes</title>
     <link>https://spiceoogway.github.io/notes/</link>
     <guid>https://spiceoogway.github.io/notes/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 21 Jul 2026 22:54:19 GMT</pubDate>
+    <pubDate>Tue, 21 Jul 2026 23:53:44 GMT</pubDate>
   </item><item>
     <title>Personal</title>
     <link>https://spiceoogway.github.io/personal/</link>
     <guid>https://spiceoogway.github.io/personal/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 21 Jul 2026 22:54:19 GMT</pubDate>
+    <pubDate>Tue, 21 Jul 2026 23:53:44 GMT</pubDate>
   </item><item>
     <title>Predictions</title>
     <link>https://spiceoogway.github.io/predictions/</link>
     <guid>https://spiceoogway.github.io/predictions/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 21 Jul 2026 22:54:19 GMT</pubDate>
+    <pubDate>Tue, 21 Jul 2026 23:53:44 GMT</pubDate>
   </item><item>
     <title>clippings</title>
     <link>https://spiceoogway.github.io/tags/clippings</link>
     <guid>https://spiceoogway.github.io/tags/clippings</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 21 Jul 2026 22:54:19 GMT</pubDate>
+    <pubDate>Tue, 21 Jul 2026 23:53:44 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://spiceoogway.github.io/tags/</link>
     <guid>https://spiceoogway.github.io/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 21 Jul 2026 22:54:19 GMT</pubDate>
+    <pubDate>Tue, 21 Jul 2026 23:53:44 GMT</pubDate>
   </item><item>
-    <title>GPT2Notes</title>
-    <link>https://spiceoogway.github.io/notes/gpt2notes</link>
-    <guid>https://spiceoogway.github.io/notes/gpt2notes</guid>
-    <description><![CDATA[ www.youtube.com/watch GPT 3 arxiv.org/abs/2005.14165 Initial GPT 2 code is in tensorflow and we want pytorch github.com/huggingface/transformers/blob/main/src/transformers/models/gpt2/modeling_gpt2.py get jupyter notebook extension inside cursor. ]]></description>
-    <pubDate>Tue, 21 Jul 2026 22:52:48 GMT</pubDate>
+    <title>Compute spend high level user categories</title>
+    <link>https://spiceoogway.github.io/notes/compute-spend-high-level-user-categories</link>
+    <guid>https://spiceoogway.github.io/notes/compute-spend-high-level-user-categories</guid>
+    <description><![CDATA[ Categories: Compute to pay for training Revenue centers where particular performance / $ spend is more valuable to custom train a model Compute to pay for inference Revenue centers Companies that can direct measure token spend to revenue conversion Problem: Optimizing performance and margin on token... ]]></description>
+    <pubDate>Tue, 21 Jul 2026 23:52:41 GMT</pubDate>
   </item><item>
     <title>Load Bearing Hypo</title>
     <link>https://spiceoogway.github.io/notes/load-bearing-hypo</link>
     <guid>https://spiceoogway.github.io/notes/load-bearing-hypo</guid>
     <description><![CDATA[ Questions in bold Frontier tech leaders are spending significant resources aligning AI systems to their preferences. ]]></description>
-    <pubDate>Tue, 21 Jul 2026 22:52:48 GMT</pubDate>
+    <pubDate>Tue, 21 Jul 2026 23:52:41 GMT</pubDate>
+  </item><item>
+    <title>Twitter Poasting</title>
+    <link>https://spiceoogway.github.io/notes/twitter-poasting</link>
+    <guid>https://spiceoogway.github.io/notes/twitter-poasting</guid>
+    <description><![CDATA[  Update bio to something more relevant Update pinned post Post new substack link Pull data so I can feed it to Codex Come up with a target 1,000 followers Create private list of ~50 accounts followed by my intended target audience Determine three content pillars . ]]></description>
+    <pubDate>Tue, 21 Jul 2026 23:52:41 GMT</pubDate>
   </item><item>
     <title>Live To-do</title>
     <link>https://spiceoogway.github.io/personal/live-to-do</link>
     <guid>https://spiceoogway.github.io/personal/live-to-do</guid>
-    <description><![CDATA[ Main To-dos: 60% Main GPT 2.0 Scope catastrophic forgetting work 20% Parallel Workstream Email Mercury 20% Automation [Internal predictive model - WIP](Predictions/July 16 2026 Predictions) Create a twitter posting strategy Critical and Do Now: Waiting Update allocation to be Outside of $225k -&gt; ... ]]></description>
-    <pubDate>Tue, 21 Jul 2026 22:52:48 GMT</pubDate>
-  </item><item>
-    <title>July 16 2026 Predictions</title>
-    <link>https://spiceoogway.github.io/predictions/july-16-2026-predictions</link>
-    <guid>https://spiceoogway.github.io/predictions/july-16-2026-predictions</guid>
-    <description><![CDATA[ From 5.6 Ultra: 93% Dylan shelves financing by July 17 - False 88% Jakub published compute x per person model thesis by July 23 - Correct 86% Niyant completes vision/problem/time-and-money memo by July 20 - False 78% Niyant specifies and starts the personalized read/write pipeline by July 30 72% Ale... ]]></description>
-    <pubDate>Tue, 21 Jul 2026 22:52:48 GMT</pubDate>
+    <description><![CDATA[ Main To-dos: 60% Main GPT 2.0 Scope catastrophic forgetting work 20% Parallel Workstream Create a twitter posting strategy Update bio Update pinned post Share latest substack post Fetch data and feed to Codex 20% Automation [Internal predictive model - WIP](Predictions/July 16 2026 Predictions) Crit... ]]></description>
+    <pubDate>Tue, 21 Jul 2026 23:52:41 GMT</pubDate>
   </item>
     </channel>
   </rss>
