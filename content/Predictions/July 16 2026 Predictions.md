@@ -7,7 +7,7 @@ From 5.6 Ultra:
 
 Main takeaway thus far:
 - The model does not have context into Niyant's personal life
-- The model does not have context into the team meetings
+- The model does not have context into the team meetings -> Give model granola access?
 
 The following is written by 5.6 Ultra on Jul 21st:
 

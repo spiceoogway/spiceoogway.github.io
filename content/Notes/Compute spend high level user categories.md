@@ -24,3 +24,7 @@ Categories:
 					- Imposing model quality limits. Differentiating who gets what.
 			- Prosumers on pro-plans
 
+Compute financing market problems:
+- Frontier compute hard to come by
+- 
+- Debt not aggressive enough

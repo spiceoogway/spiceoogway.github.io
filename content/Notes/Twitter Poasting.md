@@ -1,0 +1,7 @@
+- Update bio to something more relevant
+- Update pinned post
+- Post new substack link
+- Pull data so I can feed it to Codex
+- Come up with a target 1,000 followers
+	- Create private list of ~50 accounts followed by my intended target audience
+- Determine three content pillars

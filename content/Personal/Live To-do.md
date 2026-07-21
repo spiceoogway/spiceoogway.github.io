@@ -4,14 +4,17 @@ Main To-dos:
 - GPT 2.0
 - Scope catastrophic forgetting work
 20% Parallel Workstream
-- Email Mercury
+- [Create a twitter posting strategy](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FTwitter%20Poasting)
+	- Update bio
+	- Update pinned post
+	- Share latest substack post
+	- Fetch data and feed to Codex
 20% Automation
 - [Internal predictive model - WIP](Predictions/July 16 2026 Predictions)
-- Create a twitter posting strategy
 
 Critical and Do Now:
 - Waiting
-    - Update allocation to be Outside of $225k -> on the longer dated investment horizon - M
+    - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
     - Bloomberg Registration - Review partial dispute (sep 20th)
 - Implement GPT 2.0

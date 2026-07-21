@@ -36,10 +36,10 @@ Option 1:
 	- Automate this function while reducing catastrophic forgetting to extend to another prime intellect environment
 
 General ideas:
-- CDEV LBH
-	- Hugging face, tinker, prime intellect, unsloth, nothing
-- PDEV LBH (Technical upskill + put out valuable content)
-	- **Do some continual retraining work**
-	- Help Niyant on his task
-- Internal PDEV LBH
-	- Internal tooling
+- CDEV
+	- Identify core communities
+	- Twitter poasting
+- PDEV (Technical upskill)
+	- **Current LBH - do some continual retraining work**
+- Internal PDEV
+	- Internal prediction
