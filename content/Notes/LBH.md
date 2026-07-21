@@ -21,8 +21,23 @@
 	2. Obsidian autocomplete
 
 - Continual Learning Applications
-	- **What is the difference between SFT and on policy RL?** 
-		- Understand the technicals between SFT and RL
-	- Sequential RL over Prime environments
-	- Add in anti-forgetting mechanism 
-	- 
+	- Understand Niyant's work
+
+
+Option 1:
+- Sequential RL over Prime environments
+- Add in anti-forgetting mechanism 
+- Attempt to end to end automate this function while reducing catastrophic forgetting
+- Note the problems
+- **LBH -> I will run into at least 3 problems that I need to reach out to people to resolve since the information on how to resolve them will be sparse / non existent**
+- LBH -> 
+
+General ideas:
+- CDEV LBH
+	- What platforms is Alex using to build
+	- What platforms is Niyant using to build
+- PDEV LBH (Technical upskill + put out valuable content)
+	- Do some continual retraining work
+	- Help Niyant on his task
+- Internal PDEV LBH
+	- Internal tooling
