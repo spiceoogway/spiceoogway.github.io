@@ -39,7 +39,7 @@ General ideas:
 - CDEV LBH
 	- Hugging face, tinker, prime intellect, unsloth, nothing
 - PDEV LBH (Technical upskill + put out valuable content)
-	- Do some continual retraining work
+	- **Do some continual retraining work**
 	- Help Niyant on his task
 - Internal PDEV LBH
 	- Internal tooling
