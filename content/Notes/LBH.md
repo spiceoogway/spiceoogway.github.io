@@ -20,5 +20,4 @@
 	1. Wispr / better voice model
 	2. Obsidian autocomplete
 
-Current formulation of a load bearing hypothesis:
-- 
+- test CL and run into problems
