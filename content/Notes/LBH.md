@@ -20,4 +20,4 @@
 	1. Wispr / better voice model
 	2. Obsidian autocomplete
 
-- test CL and run into problems
+- Continual Learning Applications

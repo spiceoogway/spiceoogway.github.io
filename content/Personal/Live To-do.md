@@ -1,10 +1,10 @@
 Main To-dos:
 
 60% Main
-- Start up quick blog post linking compute dynamics and their relationship to model distribution
 - New LBH
-20% Parallel Workstream
 - GPT 2.0
+20% Parallel Workstream
+- 
 20% Automation
 - 
 
@@ -12,6 +12,7 @@ Critical and Do Now:
 - Waiting
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon - M
 	    - Figure out T bill ladder strategy
+	- Plan out Sonia
     - Bloomberg Registration - Review partial dispute (sep 20th)
 - Scope out the next LBH:
 	- Create a list of existing tools
@@ -25,9 +26,11 @@ Critical and Do Now:
 		- Implement screenpipe
 		- more frequent action captures in obsidian
 	- Create a list of existing questions
-- Message Dylan re: drone stuff
-- Reply to Sharone
+- Tjoes + lunch idea
+- Meditate 20 min
 - Implement GPT 2.0
+- Read seeing that frees
+- update other tasking
 
 Do Now but not critical:
 
@@ -35,6 +38,8 @@ Do Now but not critical:
 
 Do later but critical:
 
+- Email Mercury
+- Push for more invites for rave day
 - NJ Pin / withholding stuff - phone call to NJ
 - Dentist visit @ Weinman - July 31st
 - Notice of experience + DOL responses - By July 30th
@@ -56,6 +61,7 @@ Do later but critical:
 Do later but not critical:
 
 - Vitalik deep funding graph
+- buy trashcan
 - conedison bill stuff
 - Set up linux machine as my desktop
 - Fix screen pipe
