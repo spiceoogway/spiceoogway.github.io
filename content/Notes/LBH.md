@@ -30,11 +30,13 @@ Option 1:
 - Attempt to end to end automate this function while reducing catastrophic forgetting
 - Note the problems
 - **LBH -> I will run into at least 3 problems that I need to reach out to people to resolve since the information on how to resolve them will be sparse / non existent**
-- LBH -> 
+	- This is upon executing the following post-training regime.
+	- Sequential RL over 3 prime intellect environments
+	- Attempt to handle anti-forgetting
+	- Automate this function while reducing catastrophic forgetting to extend to another prime intellect environment
 
 General ideas:
 - CDEV LBH
-	- Why are people using the long tail of models?
 	- Hugging face, tinker, prime intellect, unsloth, nothing
 - PDEV LBH (Technical upskill + put out valuable content)
 	- Do some continual retraining work
