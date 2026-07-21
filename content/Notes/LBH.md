@@ -34,8 +34,8 @@ Option 1:
 
 General ideas:
 - CDEV LBH
-	- What platforms is Alex using to build
-	- What platforms is Niyant using to build
+	- Why are people using the long tail of models?
+	- Hugging face, tinker, prime intellect, unsloth, nothing
 - PDEV LBH (Technical upskill + put out valuable content)
 	- Do some continual retraining work
 	- Help Niyant on his task
