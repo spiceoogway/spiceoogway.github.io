@@ -1,9 +1,9 @@
 Main To-dos:
 
 60% Main
-- GPT 2.0
 - Scope catastrophic forgetting work
 20% Parallel Workstream
+- GPT 2.0 - Kick off training. Use nanochat.
 - [Create a twitter posting strategy](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FTwitter%20Poasting)
 	- Update bio
 	- Update pinned post
@@ -17,20 +17,22 @@ Critical and Do Now:
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
     - Bloomberg Registration - Review partial dispute (sep 20th)
-- Implement GPT 2.0
+- Kick of training w
+- Compute credit response from prime intellect
 - Improve scoping for catastrophic forgetting work
 - Meditate 20 min
 - Read seeing that frees
-- Haircut
+- Test predictions
 
 Do Now but not critical:
 
-
+- Laundry
 
 Do later but critical:
 
 - Plan out next sangha visit
 - Push for more invites for rave day
+- Set up linux machine as my desktop
 - Dentist visit @ Weinman - July 31st
 - Notice of experience + DOL responses - By July 30th
 - Clean up personal financials
@@ -60,7 +62,6 @@ Do later but not critical:
 - Stick tracking on precursor labs page
 - Improve precursor labs landing page
 - buy trashcan
-- Set up linux machine as my desktop
 - Fix screen pipe
 - Vitalik deep funding graph
 - Make personal website
