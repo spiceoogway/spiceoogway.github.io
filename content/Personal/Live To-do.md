@@ -17,9 +17,9 @@ Critical and Do Now:
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
     - Bloomberg Registration - Review partial dispute (sep 20th)
-- Kick of training w
 - Compute credit response from prime intellect
 - Improve scoping for catastrophic forgetting work
+- Kick of training w/ nanochat
 - Meditate 20 min
 - Read seeing that frees
 - Test predictions
