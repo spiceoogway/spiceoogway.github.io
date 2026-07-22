@@ -14,19 +14,22 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
+    - Daniel response re: Aliya
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
+    - Compute credit response from prime intellect
     - Bloomberg Registration - Review partial dispute (sep 20th)
-- Compute credit response from prime intellect
-- Improve scoping for catastrophic forgetting work
-- Kick of training w/ nanochat
+- **Din**
+- **Internal predictive model**
 - Meditate 20 min
 - Read seeing that frees
-- Test predictions
+- Improve scoping for catastrophic forgetting work
+- Kick of training w/ nanochat
 
 Do Now but not critical:
 
 - Laundry
+- Update twitter bio
 
 Do later but critical:
 
