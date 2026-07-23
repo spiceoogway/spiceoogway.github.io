@@ -11,6 +11,7 @@ Main To-dos:
 	- Fetch data and feed to Codex
 20% Automation
 - [Internal predictive model - WIP](Predictions/July 16 2026 Predictions)
+- Feeding into granola data or meeting transcript data
 
 Critical and Do Now:
 - Waiting
@@ -19,8 +20,6 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
     - Compute credit response from prime intellect
     - Bloomberg Registration - Review partial dispute (sep 20th)
-- **Din**
-- **Internal predictive model**
 - Meditate 20 min
 - Read seeing that frees
 - Improve scoping for catastrophic forgetting work
@@ -39,7 +38,6 @@ Do later but critical:
 - Dentist visit @ Weinman - July 31st
 - Notice of experience + DOL responses - By July 30th
 - Clean up personal financials
-- Sonia Plans - August 6th
 - Susie gift - Aug 7th
 - Alex gift - Aug 8th
 - Figure our spacex distribution
@@ -58,6 +56,7 @@ Do later but critical:
 
 Do later but not critical:
 
+- Solve memory issue with codex
 - Update personal substack
 - Come up with get strategies for precursor labs
 - Update linkedin for GEO / SEO purposes
