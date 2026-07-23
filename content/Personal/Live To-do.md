@@ -25,16 +25,16 @@ Critical and Do Now:
 
 Do Now but not critical:
 
-- - Meditate 20 min
+- Meditate 20 min
 - Read seeing that frees
+- Push for more invites for rave day
 - Kick off training w/ nanochat
 - Update twitter bio
+- Set up linux machine as my desktop
+- Plan out next sangha visit
 
 Do later but critical:
 
-- Plan out next sangha visit
-- Push for more invites for rave day
-- Set up linux machine as my desktop
 - Dentist visit @ Weinman - July 31st
 - Notice of experience + DOL responses - By July 30th
 - Clean up personal financials
