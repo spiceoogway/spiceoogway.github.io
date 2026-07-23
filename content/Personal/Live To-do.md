@@ -21,11 +21,9 @@ Critical and Do Now:
 
 Do Now but not critical:
 
-- Laundry
 - Meditate
 - Kick off training w/ nanochat
 - Update twitter bio, update pinned post, share latest substack post, fetch data and feed to codex
-- Set up linux machine as my desktop
 - Plan out next sangha visit
 
 Do later but critical:
