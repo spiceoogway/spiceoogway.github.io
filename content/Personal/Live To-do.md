@@ -1,9 +1,9 @@
 Main To-dos:
 
 60% Main
-- Scope catastrophic forgetting work
+- Begin execution of catastrophic forgetting work
 20% Parallel Workstream
-- GPT 2.0 - Kick off training. Use nanochat.
+- Read seeing that frees
 - [Create a twitter posting strategy](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FTwitter%20Poasting)
 	- Update bio
 	- Update pinned post
@@ -15,21 +15,16 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
-    - Daniel response re: Aliya
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
     - Compute credit response from prime intellect
-    - Bloomberg Registration - Review partial dispute (sep 20th)
-- Improve scoping for catastrophic forgetting work
-- Laundry
 
 Do Now but not critical:
 
-- Meditate 20 min
-- Read seeing that frees
-- Push for more invites for rave day
+- Laundry
+- Meditate
 - Kick off training w/ nanochat
-- Update twitter bio
+- Update twitter bio, update pinned post, share latest substack post, fetch data and feed to codex
 - Set up linux machine as my desktop
 - Plan out next sangha visit
 
@@ -38,7 +33,7 @@ Do later but critical:
 - Dentist visit @ Weinman - July 31st
 - Notice of experience + DOL responses - By July 30th
 - Clean up personal financials
-- Susie gift - Aug 7th
+- Susie gift + bday plans- Aug 7th
 - Alex gift - Aug 8th
 - Figure our spacex distribution
 - Budget on ring
