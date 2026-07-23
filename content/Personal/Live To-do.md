@@ -20,14 +20,14 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
     - Compute credit response from prime intellect
     - Bloomberg Registration - Review partial dispute (sep 20th)
-- Meditate 20 min
-- Read seeing that frees
 - Improve scoping for catastrophic forgetting work
-- Kick of training w/ nanochat
+- Laundry
 
 Do Now but not critical:
 
-- Laundry
+- - Meditate 20 min
+- Read seeing that frees
+- Kick off training w/ nanochat
 - Update twitter bio
 
 Do later but critical:
