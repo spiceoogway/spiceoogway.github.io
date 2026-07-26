@@ -10,43 +10,49 @@
     <link>https://spiceoogway.github.io/clippings/</link>
     <guid>https://spiceoogway.github.io/clippings/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Jul 2026 17:20:05 GMT</pubDate>
+    <pubDate>Sun, 26 Jul 2026 18:21:34 GMT</pubDate>
   </item><item>
     <title>Notes</title>
     <link>https://spiceoogway.github.io/notes/</link>
     <guid>https://spiceoogway.github.io/notes/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Jul 2026 17:20:05 GMT</pubDate>
+    <pubDate>Sun, 26 Jul 2026 18:21:34 GMT</pubDate>
   </item><item>
     <title>Personal</title>
     <link>https://spiceoogway.github.io/personal/</link>
     <guid>https://spiceoogway.github.io/personal/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Jul 2026 17:20:05 GMT</pubDate>
+    <pubDate>Sun, 26 Jul 2026 18:21:34 GMT</pubDate>
   </item><item>
     <title>Predictions</title>
     <link>https://spiceoogway.github.io/predictions/</link>
     <guid>https://spiceoogway.github.io/predictions/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Jul 2026 17:20:05 GMT</pubDate>
+    <pubDate>Sun, 26 Jul 2026 18:21:34 GMT</pubDate>
   </item><item>
     <title>clippings</title>
     <link>https://spiceoogway.github.io/tags/clippings</link>
     <guid>https://spiceoogway.github.io/tags/clippings</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Jul 2026 17:20:05 GMT</pubDate>
+    <pubDate>Sun, 26 Jul 2026 18:21:34 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://spiceoogway.github.io/tags/</link>
     <guid>https://spiceoogway.github.io/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Jul 2026 17:20:05 GMT</pubDate>
+    <pubDate>Sun, 26 Jul 2026 18:21:34 GMT</pubDate>
   </item><item>
     <title>Catastrophic Forgetting</title>
     <link>https://spiceoogway.github.io/clippings/catastrophic-forgetting</link>
     <guid>https://spiceoogway.github.io/clippings/catastrophic-forgetting</guid>
-    <description><![CDATA[ Notes: epoch, adamw, gradclip, microbatch, grad accum, weight decay, warmup perplexity calculation Luo 2023 paper Sequential fine tuning of Llama 3.1 8B on math (GSM8k) and then code (CodeAlpaca-20k) and then measured how much math was forgotten. ]]></description>
-    <pubDate>Sun, 26 Jul 2026 17:19:33 GMT</pubDate>
+    <description><![CDATA[  Sequential fine tuning of Llama 3.1 8B on math (GSM8k) and then code (CodeAlpaca-20k) and then measured how much math was forgotten. ]]></description>
+    <pubDate>Sun, 26 Jul 2026 18:21:06 GMT</pubDate>
+  </item><item>
+    <title>Live To-do</title>
+    <link>https://spiceoogway.github.io/personal/live-to-do</link>
+    <guid>https://spiceoogway.github.io/personal/live-to-do</guid>
+    <description><![CDATA[ Main To-dos: 60% Main Catastrophic forgetting work 20% Parallel Workstream Clean up our website Create a twitter posting strategy Figure out hotels &amp; flights for SF 20% Automation [Internal predictive model - WIP](Predictions/July 16 2026 Predictions) Critical and Do Now: Waiting Update allocati... ]]></description>
+    <pubDate>Sun, 26 Jul 2026 18:21:06 GMT</pubDate>
   </item><item>
     <title>Catastrophic Forgetting Work</title>
     <link>https://spiceoogway.github.io/notes/catastrophic-forgetting-work</link>
@@ -58,12 +64,6 @@
     <link>https://spiceoogway.github.io/notes/jul-24---questions-i'm-exploring</link>
     <guid>https://spiceoogway.github.io/notes/jul-24---questions-i'm-exploring</guid>
     <description><![CDATA[  How do you prevent your GPU from getting fried as a hoster? What have the most recent advancements in mechanistic interpretaibility? How do multimodal models work? What architectures do they use? What is the best way to capture my reward function? (Observe my behavior) . ]]></description>
-    <pubDate>Sun, 26 Jul 2026 17:19:33 GMT</pubDate>
-  </item><item>
-    <title>Twitter Poasting</title>
-    <link>https://spiceoogway.github.io/notes/twitter-poasting</link>
-    <guid>https://spiceoogway.github.io/notes/twitter-poasting</guid>
-    <description><![CDATA[  Create private list of ~50 accounts followed by my intended target audience Begin posting Feed API in Codex Come up with a rough target 1,000 followers Determine three content pillars . ]]></description>
     <pubDate>Sun, 26 Jul 2026 17:19:33 GMT</pubDate>
   </item>
     </channel>
