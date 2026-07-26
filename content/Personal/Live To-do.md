@@ -13,6 +13,7 @@ Critical and Do Now:
 - Waiting
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
+	- Figure out whether I'm going to SF - Waiting on Niyant
 - Meditate
 
 Do Now but not critical:
@@ -20,14 +21,17 @@ Do Now but not critical:
 - Clean up website
 - mtndao application
 - Plan out next sangha visit
-- Kick off training w/ nanochat
+- Catastrophic forgetting fix
 
 Do later but critical:
 
-- Alex gift - Aug 8th
-- Susie gift + bday plans- Aug 7th
+- Book Dinner res, Book drinks - August 8th
+- Get Susie sizing, go to store
+- Go to Tissot store with Alex
 - Dentist visit @ Weinman - July 31st
 - Notice of experience + DOL responses - By July 30th
+- Plan Central Park / Market
+- Book team Dinner Dylan + Alex
 - Clean up personal financials
 - Apply to paradigm
 - Figure our spacex distribution
@@ -46,6 +50,7 @@ Do later but critical:
 
 Do later but not critical:
 
+- Kick off training w/ nanochat
 - Update personal substack
 - Come up with get strategies for precursor labs
 - Update linkedin for GEO / SEO purposes

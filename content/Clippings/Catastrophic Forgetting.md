@@ -1,7 +1,3 @@
-*Notes:*
-- epoch, adamw, gradclip, microbatch, grad accum, weight decay, warmup
-- perplexity calculation
-- Luo 2023 paper
 
 - Sequential fine tuning of Llama 3.1 8B on math (GSM8k) and then code (CodeAlpaca-20k) and then measured how much math was forgotten.
 - GSM8K 0-shot strict exact match fell from 60.0% to 11.2% after training on CodeAlpaca
