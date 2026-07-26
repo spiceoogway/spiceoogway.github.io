@@ -1,0 +1,29 @@
+- Go through hugging face documentation
+	- What is a padding token and why do decode only models not have them? 
+	- Why do I need a padding token to use Collator?
+	- vLLM vs sglang
+
+- Rented Massed Compute SXM4 8x A100 80GB for $9.84/ hr
+- Ended up using Nous Research meta Llama 3.1 8B because Meta required me to get permission
+- Fable ended up handling pretty much all of this.
+- Stage 0
+	- Obtained based line evals on GSM8K 0 shot - 0.0%
+		- What is flexible extract and why is it 24.1%
+	- MMLU 5 shot 65.3%
+	- HumanEval, PPL
+		- What exactly is PPL
+	- What was the problem for stage 0?
+		- vLLM wanted JIT compiling kernels which required nvcc (cuda) also ran into flassh-attn because of this.  Had to override to using Flash ATTN instead of flashinfer
+		- the pod didn't have the CUDA toolkit, only the gpu driver
+			- why?
+- Stage 1 - Task A Training
+	- Trained on GSM8K split
+	- Final weights ended up corrupting, however I was running checkpoints. Fortunately no training time was lost. Went to 165 steps
+	- Step 125 had the peak
+	- Why did Human Eval Crash
+		- has ~160 python problems and uses bigcode (hugging face) harness for code evaluation
+		- ran bigcode harness executes code by forking multiprocessing workers as a sandbox. This was torchrun and torch forbids spawning children
+	- Why did the final/ weights corrupt?
+		- The parameters were split between GPU due to FSDP (fully sharded data parallel). My periodic saving was going through the 25 step checkpoints which know things are going through FSDP. the regulare save_model() at the end of the training run was performed without taking into account FSDP so the weights were garbage
+- Stage 2 - Task B Training
+	- CodeAlpaca

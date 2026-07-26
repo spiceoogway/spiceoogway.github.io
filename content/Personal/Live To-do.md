@@ -1,39 +1,35 @@
 Main To-dos:
 
 60% Main
-- Begin execution of catastrophic forgetting work
+- Catastrophic forgetting work
 20% Parallel Workstream
-- Read seeing that frees
+- Clean up our website
 - [Create a twitter posting strategy](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FTwitter%20Poasting)
-	- Update bio
-	- Update pinned post
-	- Share latest substack post
-	- Fetch data and feed to Codex
+- Figure out hotels & flights for SF 
 20% Automation
 - [Internal predictive model - WIP](Predictions/July 16 2026 Predictions)
-- Feeding into granola data or meeting transcript data
 
 Critical and Do Now:
 - Waiting
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
-    - Compute credit response from prime intellect
-- Breakfast
+- Meditate
 
 Do Now but not critical:
 
-- Meditate
-- Kick off training w/ nanochat
-- Update twitter bio, update pinned post, share latest substack post, fetch data and feed to codex
+- Clean up website
+- mtndao application
 - Plan out next sangha visit
+- Kick off training w/ nanochat
 
 Do later but critical:
 
+- Alex gift - Aug 8th
+- Susie gift + bday plans- Aug 7th
 - Dentist visit @ Weinman - July 31st
 - Notice of experience + DOL responses - By July 30th
 - Clean up personal financials
-- Susie gift + bday plans- Aug 7th
-- Alex gift - Aug 8th
+- Apply to paradigm
 - Figure our spacex distribution
 - Budget on ring
 - Deploy funds again
@@ -50,7 +46,6 @@ Do later but critical:
 
 Do later but not critical:
 
-- Solve memory issue with codex
 - Update personal substack
 - Come up with get strategies for precursor labs
 - Update linkedin for GEO / SEO purposes
@@ -63,9 +58,8 @@ Do later but not critical:
 - Make personal website
 - Team pay bumps
 - Claude / Codex in slack
-- Ramp MCP debugging
+- Ramp, Mercury MCP debugging
 - Bitcoin Node
-- password manager for codex
 - Give codex / claude credit cards
 - Review Linear
 - Review Rippling
@@ -74,3 +68,4 @@ Do later but not critical:
 - Clean up substack
 - Move my fund management to Codex
 - move off ARC
+- password manager

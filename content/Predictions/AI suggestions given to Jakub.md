@@ -1,7 +1,0 @@
-- 7/16: Codex 5.6 Sol Ultra suggested that I keep a journal of AI suggestions and some information about my reaction to it:
-	- I'm planning on proceeding with it
-	- I don't plan on being as strict as it suggested for what I should track
-	- Because it seems a bit like AI slop
-- 7/16: Codex 5.6 Sol Ultra suggested that I block out 90 minutes to just knock out the substack article
-	- Proceeding with it
-	- Genuinely good advice
