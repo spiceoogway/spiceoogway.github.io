@@ -1,0 +1,17 @@
+- Thinking Machines Labs
+- Engram Labs
+- Humans&
+- Prime Intellect
+- Arcee AI
+- Tinygrad
+- Workshop labs
+	- Luke drago
+	- Rudolf Laine
+- Gwern
+- https://unsloth.ai/
+- AppliedCompute - wedge via applied AI
+- 
+- Venice
+- Answer.AI
+- Softmax
+- Imbue

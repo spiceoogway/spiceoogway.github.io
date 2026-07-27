@@ -22,6 +22,7 @@ Do Now but not critical:
 - mtndao application
 - Plan out next sangha visit
 - Catastrophic forgetting fix
+- Alex equity
 
 Do later but critical:
 
