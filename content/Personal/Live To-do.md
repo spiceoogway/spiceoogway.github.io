@@ -3,9 +3,7 @@ Main To-dos:
 60% Main
 - Catastrophic forgetting work
 20% Parallel Workstream
-- Clean up our website
-	- Add a section thanking our investors
-	- Add a section 
+- Clean up our website content
 - [Create a twitter posting strategy](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FTwitter%20Poasting)
 - Figure out hotels & flights for SF 
 20% Automation
