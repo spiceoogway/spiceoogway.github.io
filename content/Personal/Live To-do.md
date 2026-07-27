@@ -3,7 +3,6 @@ Main To-dos:
 60% Main
 - Catastrophic forgetting work
 20% Parallel Workstream
-- Clean up our website content
 - [Create a twitter posting strategy](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FTwitter%20Poasting)
 - Figure out hotels & flights for SF 
 20% Automation
@@ -13,12 +12,11 @@ Critical and Do Now:
 - Waiting
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
-	- Figure out whether I'm going to SF - Waiting on Niyant
+- Discuss with Alex SF
 - Meditate
 
 Do Now but not critical:
 
-- Clean up website
 - mtndao application
 - Plan out next sangha visit
 - Catastrophic forgetting fix
