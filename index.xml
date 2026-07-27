@@ -10,48 +10,48 @@
     <link>https://spiceoogway.github.io/clippings/</link>
     <guid>https://spiceoogway.github.io/clippings/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Jul 2026 18:21:34 GMT</pubDate>
+    <pubDate>Mon, 27 Jul 2026 03:30:20 GMT</pubDate>
   </item><item>
     <title>Notes</title>
     <link>https://spiceoogway.github.io/notes/</link>
     <guid>https://spiceoogway.github.io/notes/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Jul 2026 18:21:34 GMT</pubDate>
+    <pubDate>Mon, 27 Jul 2026 03:30:20 GMT</pubDate>
   </item><item>
     <title>Personal</title>
     <link>https://spiceoogway.github.io/personal/</link>
     <guid>https://spiceoogway.github.io/personal/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Jul 2026 18:21:34 GMT</pubDate>
+    <pubDate>Mon, 27 Jul 2026 03:30:20 GMT</pubDate>
   </item><item>
     <title>Predictions</title>
     <link>https://spiceoogway.github.io/predictions/</link>
     <guid>https://spiceoogway.github.io/predictions/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Jul 2026 18:21:34 GMT</pubDate>
+    <pubDate>Mon, 27 Jul 2026 03:30:20 GMT</pubDate>
   </item><item>
     <title>clippings</title>
     <link>https://spiceoogway.github.io/tags/clippings</link>
     <guid>https://spiceoogway.github.io/tags/clippings</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Jul 2026 18:21:34 GMT</pubDate>
+    <pubDate>Mon, 27 Jul 2026 03:30:20 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://spiceoogway.github.io/tags/</link>
     <guid>https://spiceoogway.github.io/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 26 Jul 2026 18:21:34 GMT</pubDate>
+    <pubDate>Mon, 27 Jul 2026 03:30:20 GMT</pubDate>
+  </item><item>
+    <title>Live To-do</title>
+    <link>https://spiceoogway.github.io/personal/live-to-do</link>
+    <guid>https://spiceoogway.github.io/personal/live-to-do</guid>
+    <description><![CDATA[ Main To-dos: 60% Main Catastrophic forgetting work 20% Parallel Workstream Clean up our website Add a section thanking our investors Add a section Create a twitter posting strategy Figure out hotels &amp; flights for SF 20% Automation [Internal predictive model - WIP](Predictions/July 16 2026 Predic... ]]></description>
+    <pubDate>Mon, 27 Jul 2026 03:29:43 GMT</pubDate>
   </item><item>
     <title>Catastrophic Forgetting</title>
     <link>https://spiceoogway.github.io/clippings/catastrophic-forgetting</link>
     <guid>https://spiceoogway.github.io/clippings/catastrophic-forgetting</guid>
     <description><![CDATA[  Sequential fine tuning of Llama 3.1 8B on math (GSM8k) and then code (CodeAlpaca-20k) and then measured how much math was forgotten. ]]></description>
-    <pubDate>Sun, 26 Jul 2026 18:21:06 GMT</pubDate>
-  </item><item>
-    <title>Live To-do</title>
-    <link>https://spiceoogway.github.io/personal/live-to-do</link>
-    <guid>https://spiceoogway.github.io/personal/live-to-do</guid>
-    <description><![CDATA[ Main To-dos: 60% Main Catastrophic forgetting work 20% Parallel Workstream Clean up our website Create a twitter posting strategy Figure out hotels &amp; flights for SF 20% Automation [Internal predictive model - WIP](Predictions/July 16 2026 Predictions) Critical and Do Now: Waiting Update allocati... ]]></description>
     <pubDate>Sun, 26 Jul 2026 18:21:06 GMT</pubDate>
   </item><item>
     <title>Catastrophic Forgetting Work</title>
