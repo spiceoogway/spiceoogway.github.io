@@ -14,6 +14,7 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
 - Discuss with Alex SF
 - Meditate
+- Figure out stanford / BCAP
 
 Do Now but not critical:
 
@@ -23,10 +24,10 @@ Do Now but not critical:
 
 Do later but critical:
 
+- Dentist visit @ Weinman - July 31st
 - Book Dinner res, Book drinks - August 8th
 - Get Susie sizing, go to store
 - Go to Tissot store with Alex
-- Dentist visit @ Weinman - July 31st
 - Notice of experience + DOL responses - By July 30th
 - Plan Central Park / Market
 - Book team Dinner Dylan + Alex
