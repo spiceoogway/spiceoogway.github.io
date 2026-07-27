@@ -12,9 +12,10 @@ Critical and Do Now:
 - Waiting
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
-- Discuss with Alex SF
 - Meditate
 - Figure out stanford / BCAP
+- Resolve catastrophic forgetting work
+- Book flights / hotels
 
 Do Now but not critical:
 
@@ -24,6 +25,7 @@ Do Now but not critical:
 
 Do later but critical:
 
+- Figure out Ornn dinner
 - Dentist visit @ Weinman - July 31st
 - Book Dinner res, Book drinks - August 8th
 - Get Susie sizing, go to store
