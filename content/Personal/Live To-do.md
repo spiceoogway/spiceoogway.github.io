@@ -12,13 +12,14 @@ Critical and Do Now:
 - Waiting
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
+	- Go to dentist Friday
 - Meditate
-- Figure out stanford / BCAP
 - Resolve catastrophic forgetting work
 - Book flights / hotels
 
 Do Now but not critical:
 
+- prep BCAP
 - mtndao application
 - Plan out next sangha visit
 - Catastrophic forgetting fix
