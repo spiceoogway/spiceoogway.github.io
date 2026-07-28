@@ -1,7 +1,8 @@
 - Thinking Machines Labs
 - Engram Labs
-- Humans&
 - Prime Intellect
+- Unsloth
+
 - Arcee AI
 - Tinygrad
 - Workshop labs
@@ -10,7 +11,7 @@
 - Gwern
 - https://unsloth.ai/
 - AppliedCompute - wedge via applied AI
-- 
+- - Humans&
 - Venice
 - Answer.AI
 - Softmax
