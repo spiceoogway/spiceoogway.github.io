@@ -14,7 +14,8 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
 	- Go to dentist Friday
 - Meditate
-- Resolve catastrophic forgetting work
+- Outreach on behalf of Alex
+- Communicate new load bearing hypo
 - Book flights / hotels
 
 Do Now but not critical:

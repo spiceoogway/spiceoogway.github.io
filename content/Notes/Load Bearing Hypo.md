@@ -43,3 +43,5 @@ General ideas:
 	- **Current LBH - do some continual retraining work**
 - Internal PDEV
 	- Internal prediction
+
+https://benjaminfspector.com/writing/esi
