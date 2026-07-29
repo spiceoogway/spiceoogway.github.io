@@ -4,7 +4,6 @@ Main To-dos:
 - Catastrophic forgetting work
 20% Parallel Workstream
 - [Create a twitter posting strategy](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FTwitter%20Poasting)
-- Figure out hotels & flights for SF 
 20% Automation
 - [Internal predictive model - WIP](Predictions/July 16 2026 Predictions)
 
@@ -13,8 +12,8 @@ Critical and Do Now:
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
 	- Go to dentist Friday
-- Work on new load bearing hypo
-	- LBH: 
+- **Work on new load bearing hypo. Ideas:
+	- 
 
 Do Now but not critical:
 
