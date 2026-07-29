@@ -14,12 +14,12 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
 	- Go to dentist Friday
 - Outreach on behalf of Alex
+	- Main hypothesis, people care but don't know.
+	- Experiment -> Identify people who are paying for bad cost per task options and try to understand why
 	- given the results from my blog, essentially a premium on quantized GLM 5.2 via OpenRouter over the advertised discount relative to the model creator’s endpoint, do people “care” aka will they change their behavior.
 		- The implication is that they're using
 	- OpenRouter GLM 5.2 Discord channel, Hermes Discord, and then private DM the people within it
-- Communicate new load bearing hypo
-- Figure out Ornn dinner
-- prep BCAP
+- Work on new load bearing hypo
 
 Do Now but not critical:
 
@@ -29,6 +29,8 @@ Do Now but not critical:
 
 Do later but critical:
 
+- prep BCAP
+- Figure out Ornn dinner
 - Alex equity
 - Dentist visit @ Weinman - July 31st
 - Book Dinner res, Book drinks - August 8th
