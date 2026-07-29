@@ -13,23 +13,20 @@ Critical and Do Now:
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
 	- Go to dentist Friday
-- Book flights / hotels
-- Meditate
 - Outreach on behalf of Alex
 - Communicate new load bearing hypo
+- Figure out Ornn dinner
+- prep BCAP
 
 Do Now but not critical:
 
-- Pipe screenpipe data into computer
-- prep BCAP
-- mtndao application
+- Meditate
 - Plan out next sangha visit
-- Communicate catastrophic forgetting fix to ALex
-- Alex equity
+- mtndao application
 
 Do later but critical:
 
-- Figure out Ornn dinner
+- Alex equity
 - Dentist visit @ Weinman - July 31st
 - Book Dinner res, Book drinks - August 8th
 - Get Susie sizing, go to store
@@ -55,6 +52,8 @@ Do later but critical:
 
 Do later but not critical:
 
+- Pipe screenpipe data into computer
+- Communicate catastrophic forgetting fix to Alex
 - Kick off training w/ nanochat
 - Update personal substack
 - Come up with get strategies for precursor labs
