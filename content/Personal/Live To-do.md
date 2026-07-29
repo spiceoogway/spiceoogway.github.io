@@ -14,6 +14,9 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
 	- Go to dentist Friday
 - Outreach on behalf of Alex
+	- given the results from my blog, essentially a premium on quantized GLM 5.2 via OpenRouter over the advertised discount relative to the model creator’s endpoint, do people “care” aka will they change their behavior.
+		- The implication is that they're using
+	- OpenRouter GLM 5.2 Discord channel, Hermes Discord, and then private DM the people within it
 - Communicate new load bearing hypo
 - Figure out Ornn dinner
 - prep BCAP
