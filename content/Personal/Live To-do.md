@@ -13,14 +13,8 @@ Critical and Do Now:
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
 	- Go to dentist Friday
-- Outreach on behalf of Alex
-	- Main hypothesis, people care but don't know.
-	- Experiment -> Identify people who are paying for bad cost per task options and try to understand why
-		- 1) Does openrouter have a cost per task? Does AA for the popular models?
-	- given the results from my blog, essentially a premium on quantized GLM 5.2 via OpenRouter over the advertised discount relative to the model creator’s endpoint, do people “care” aka will they change their behavior.
-		- The implication is that they're using
-	- OpenRouter GLM 5.2 Discord channel, Hermes Discord, and then private DM the people within it
 - Work on new load bearing hypo
+	- LBH: 
 
 Do Now but not critical:
 
