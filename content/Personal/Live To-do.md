@@ -13,7 +13,6 @@ Critical and Do Now:
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
 	- Go to dentist Friday
-- Update landing page
 - Book flights / hotels
 - Meditate
 - Outreach on behalf of Alex
