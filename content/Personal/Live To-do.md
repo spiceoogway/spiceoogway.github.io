@@ -13,17 +13,19 @@ Critical and Do Now:
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
 	- Go to dentist Friday
+- Update landing page
+- Book flights / hotels
 - Meditate
 - Outreach on behalf of Alex
 - Communicate new load bearing hypo
-- Book flights / hotels
 
 Do Now but not critical:
 
+- Pipe screenpipe data into computer
 - prep BCAP
 - mtndao application
 - Plan out next sangha visit
-- Catastrophic forgetting fix
+- Communicate catastrophic forgetting fix to ALex
 - Alex equity
 
 Do later but critical:
