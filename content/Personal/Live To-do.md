@@ -11,9 +11,8 @@ Critical and Do Now:
 - Waiting
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
-	- Go to dentist Friday
-- **Work on new load bearing hypo. Ideas:
-	- 
+- **Work on new load bearing hypo. 
+	- Primarily get in contact with Omar
 
 Do Now but not critical:
 
@@ -23,13 +22,9 @@ Do Now but not critical:
 
 Do later but critical:
 
-- prep BCAP
-- Figure out Ornn dinner
 - Alex equity
-- Dentist visit @ Weinman - July 31st
 - Book Dinner res, Book drinks - August 8th
 - Get Susie sizing, go to store
-- Go to Tissot store with Alex
 - Notice of experience + DOL responses - By July 30th
 - Plan Central Park / Market
 - Book team Dinner Dylan + Alex
