@@ -11,8 +11,8 @@ Critical and Do Now:
 - Waiting
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
-- **Work on new load bearing hypo. 
-	- Primarily get in contact with Omar
+- Meeting with Mercor
+- All-hands update
 
 Do Now but not critical:
 
