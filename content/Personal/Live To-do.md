@@ -11,8 +11,7 @@ Critical and Do Now:
 - Waiting
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
-- Meeting with Mercor
-- All-hands update
+	- Notice of experience + DOL responses - By July 30th
 
 Do Now but not critical:
 
@@ -25,7 +24,7 @@ Do later but critical:
 - Alex equity
 - Book Dinner res, Book drinks - August 8th
 - Get Susie sizing, go to store
-- Notice of experience + DOL responses - By July 30th
+- 
 - Plan Central Park / Market
 - Book team Dinner Dylan + Alex
 - Clean up personal financials
