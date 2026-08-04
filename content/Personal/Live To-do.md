@@ -24,7 +24,6 @@ Do later but critical:
 - Alex equity
 - Book Dinner res, Book drinks - August 8th
 - Get Susie sizing, go to store
-- 
 - Plan Central Park / Market
 - Book team Dinner Dylan + Alex
 - Clean up personal financials
