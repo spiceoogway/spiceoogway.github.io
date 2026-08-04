@@ -11,21 +11,22 @@ Critical and Do Now:
 - Waiting
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
-	- Notice of experience + DOL responses - By July 30th
+- Notice of experience + DOL responses - By July 30th
+- Bandwidth futures work
 
 Do Now but not critical:
 
 - Meditate
 - Plan out next sangha visit
-- mtndao application
+- Get Susie sizing
+- Lululemon store
 
 Do later but critical:
 
+- mtndao application
 - Alex equity
-- Book Dinner res, Book drinks - August 8th
-- Get Susie sizing, go to store
-- Plan Central Park / Market
-- Book team Dinner Dylan + Alex
+- buy cake
+- Book team Dinner Dylan + Alex birthdays
 - Clean up personal financials
 - Apply to paradigm
 - Figure our spacex distribution
