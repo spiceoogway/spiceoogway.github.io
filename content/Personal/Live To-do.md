@@ -12,13 +12,11 @@ Critical and Do Now:
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
 - Notice of experience + DOL responses - By July 30th
-- Bandwidth futures work
 
 Do Now but not critical:
 
 - Meditate
 - Plan out next sangha visit
-- Get Susie sizing
 - Lululemon store
 
 Do later but critical:
