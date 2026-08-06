@@ -13,14 +13,16 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
 	- Mercury fix
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
+- Lululemon store
+- Meditate
 - Finish reaching out to Omar and co.
-- Create new hypothesis
+- 
+- Have screenpipe/coast fire data into my desktop
 
 Do Now but not critical:
 
-- Lululemon store
+- Create new hypothesis
 - Notice of experience + DOL responses - By July 30th
-- Meditate
 - Plan out next sangha visit
 
 Do later but critical:
