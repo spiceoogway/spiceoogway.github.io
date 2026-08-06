@@ -11,13 +11,17 @@ Critical and Do Now:
 - Waiting
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
-- Notice of experience + DOL responses - By July 30th
+	- Mercury fix
+	- SFCompute access
+- Finish reaching out to Omar and co.
+- Create new hypothesis
 
 Do Now but not critical:
 
+- Lululemon store
+- Notice of experience + DOL responses - By July 30th
 - Meditate
 - Plan out next sangha visit
-- Lululemon store
 
 Do later but critical:
 
