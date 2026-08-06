@@ -12,7 +12,7 @@ Critical and Do Now:
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
 	- Mercury fix
-	- Purchase macbook - https://www.ebay.com/itm/287469090192
+- Purchase macbook - https://www.ebay.com/itm/287469090192
 - Lululemon store
 - Meditate
 - Finish reaching out to Omar and co.
