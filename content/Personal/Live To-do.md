@@ -11,12 +11,9 @@ Critical and Do Now:
 - Waiting
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
-	- Mercury fix
-- Purchase macbook - https://www.ebay.com/itm/287469090192
-- Lululemon store
+	- Purchase macbook - https://www.ebay.com/itm/287469090192
 - Meditate
 - Finish reaching out to Omar and co.
-- 
 - Have screenpipe/coast fire data into my desktop
 
 Do Now but not critical:
