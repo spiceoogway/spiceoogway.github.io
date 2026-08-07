@@ -12,6 +12,7 @@ Critical and Do Now:
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
+	- Bump authors of papers ~Tuesday next week on other socials
 - Meditate
 - Create new hypothesis
 
@@ -19,13 +20,11 @@ Do Now but not critical:
 
 - Notice of experience + DOL responses - By July 30th
 - Plan out next sangha visit
-- Reach to Omar and co on other socials.
 
 Do later but critical:
 
-
 - Alex equity
-- buy cake
+- buy susie cake
 - Book team Dinner Dylan + Alex birthdays
 - Clean up personal financials
 - Apply to paradigm
