@@ -13,8 +13,7 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 - Meditate
-- Finish reaching out to Omar and co.
-- Have screenpipe/coast fire data into my desktop
+- Review Drafts to Omar
 
 Do Now but not critical:
 
