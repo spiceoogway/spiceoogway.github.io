@@ -1,7 +1,7 @@
 Main To-dos:
 
 60% Main
-- Catastrophic forgetting work
+- 
 20% Parallel Workstream
 - [Create a twitter posting strategy](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FTwitter%20Poasting)
 20% Automation
@@ -13,17 +13,17 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 - Meditate
-- Review Drafts to Omar
+- Create new hypothesis
 
 Do Now but not critical:
 
-- Create new hypothesis
 - Notice of experience + DOL responses - By July 30th
 - Plan out next sangha visit
+- Reach to Omar and co on other socials.
 
 Do later but critical:
 
-- mtndao application
+
 - Alex equity
 - buy cake
 - Book team Dinner Dylan + Alex birthdays
