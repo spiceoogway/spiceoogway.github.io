@@ -26,14 +26,13 @@ Do Now but not critical:
 Do later but critical:
 
 - Alex equity
-- buy susie cake
-- Book team Dinner Dylan + Alex birthdays
 - Clean up personal financials
-- Apply to paradigm
 - Figure our spacex distribution
 - Budget on ring
 - Deploy funds again
 - Sell personal ETH
+- Book team Dinner Dylan + Alex birthdays
+- Apply to paradigm
 - [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
 - NJ Pin / withholding stuff - phone call to NJ
 - Figure out optimal SOL team allocation
