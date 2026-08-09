@@ -4,7 +4,7 @@ Main To-dos:
 - 
 20% Parallel Workstream
 - [Create a twitter posting strategy](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FTwitter%20Poasting)
-- Network IDBD post
+- Network IDBD post - review and update
 - Personal LoRa
 20% Automation
 - [Internal predictive model - WIP](Predictions/July 16 2026 Predictions)
