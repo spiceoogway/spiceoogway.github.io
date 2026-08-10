@@ -15,9 +15,7 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 	- Bump authors of papers ~Tuesday next week on other socials
-- Run
 - Meditate
-- Create new hypothesis
 - Notice of experience + DOL responses - By July 30th
 
 Do Now but not critical:
