@@ -21,7 +21,7 @@ Critical and Do Now:
 Do Now but not critical:
 
 - Notice of experience + DOL responses - By July 30th
-- Plan out next sangha visit
+- Plan out next sangha visit (Sept 10th Still Mind, Village Zendo)
 
 Do later but critical:
 
