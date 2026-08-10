@@ -15,13 +15,14 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 	- Bump authors of papers ~Tuesday next week on other socials
+- Run
 - Meditate
 - Create new hypothesis
+- Notice of experience + DOL responses - By July 30th
 
 Do Now but not critical:
 
-- Notice of experience + DOL responses - By July 30th
-- Plan out next sangha visit (Sept 10th Still Mind, o)
+- 
 
 Do later but critical:
 
@@ -41,7 +42,8 @@ Do later but critical:
 - NYS registration problems (what needs to be opened, what needs to be closed)
     - Waiting on Dylan’s living situation
 - Make sure NJ is on the right address
-- conedison bill stuff
+- COmbine Jakub + susie bills
+- Plan out next sangha visit (11th or 18th, Tuesday, requires registration)
 
 Do later but not critical:
 
