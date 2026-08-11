@@ -1,11 +1,11 @@
 Main To-dos:
+- 
 
 60% Main
 - 
 20% Parallel Workstream
 - [Create a twitter posting strategy](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FTwitter%20Poasting)
 - Network IDBD post - review and update
-- Personal LoRa
 20% Automation
 - [Internal predictive model - WIP](Predictions/July 16 2026 Predictions)
 
@@ -15,22 +15,25 @@ Critical and Do Now:
 	    - Figure out T bill ladder strategy
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 	- Bump authors of papers ~Tuesday next week on other socials
+	- Reacquire watch
+- Work
+	- Test out Gemma 4 E2B
+	- Network IDBD post
+	- Technical twitter post about either video encoding or fine tuning on personal data
 - Meditate
-- Notice of experience + DOL responses - By July 30th
 
 Do Now but not critical:
 
-- 
+- Notice of experience + DOL responses - By July 30th
+- Clean up personal financials
 
 Do later but critical:
 
 - Alex equity
-- Clean up personal financials
 - Figure our spacex distribution
 - Budget on ring
 - Deploy funds again
 - Sell personal ETH
-- Book team Dinner Dylan + Alex birthdays
 - Apply to paradigm
 - [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
 - NJ Pin / withholding stuff - phone call to NJ
