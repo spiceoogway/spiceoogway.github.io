@@ -17,15 +17,15 @@ Critical and Do Now:
 	- Bump authors of papers ~Tuesday next week on other socials
 	- Reacquire watch
 - Work
-	- Test out Gemma 4 E2B
 	- Network IDBD post
 	- Technical twitter post about either video encoding or fine tuning on personal data
 - Meditate
+- Clean up personal financials (manual update)
 
 Do Now but not critical:
 
 - Notice of experience + DOL responses - By July 30th
-- Clean up personal financials
+- 
 
 Do later but critical:
 
