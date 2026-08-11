@@ -20,6 +20,7 @@ Critical and Do Now:
 	- Network IDBD post
 	- Technical twitter post about either video encoding or fine tuning on personal data
 - Meditate
+- IBKR stuff
 - Clean up personal financials (manual update)
 
 Do Now but not critical:
@@ -31,6 +32,7 @@ Do later but critical:
 
 - Alex equity
 - Figure our spacex distribution
+- Figure out Prometheus distribution
 - Budget on ring
 - Deploy funds again
 - Sell personal ETH
