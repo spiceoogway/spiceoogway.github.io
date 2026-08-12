@@ -2,10 +2,13 @@ Main To-dos:
 - 
 
 60% Main
-- 
+- Network IDBD post - review and update
+- Bump authors of paper
+- Push through inference serving book/C/GPU Programming
 20% Parallel Workstream
 - [Create a twitter posting strategy](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FTwitter%20Poasting)
-- Network IDBD post - review and update
+- B3IQ
+- Long Lake + Coast
 20% Automation
 - [Internal predictive model - WIP](Predictions/July 16 2026 Predictions)
 
@@ -14,19 +17,15 @@ Critical and Do Now:
     - Update allocation to be Outside of $225k -> on the longer dated investment horizon -
 	    - Figure out T bill ladder strategy
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
-	- Bump authors of papers ~Tuesday next week on other socials
 	- Reacquire watch
-- Work
-	- Network IDBD post
-	- Technical twitter post about either video encoding or fine tuning on personal data
-- Meditate
-- IBKR stuff
+- Share calendly w/ 
+- Bump authors of papers
 - Clean up personal financials (manual update)
+- Meditate
 
 Do Now but not critical:
 
 - Notice of experience + DOL responses - By July 30th
-- 
 
 Do later but critical:
 
