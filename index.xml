@@ -10,60 +10,60 @@
     <link>https://spiceoogway.github.io/clippings/</link>
     <guid>https://spiceoogway.github.io/clippings/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 12 Aug 2026 23:12:47 GMT</pubDate>
+    <pubDate>Mon, 17 Aug 2026 22:14:53 GMT</pubDate>
   </item><item>
     <title>Notes</title>
     <link>https://spiceoogway.github.io/notes/</link>
     <guid>https://spiceoogway.github.io/notes/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 12 Aug 2026 23:12:47 GMT</pubDate>
+    <pubDate>Mon, 17 Aug 2026 22:14:53 GMT</pubDate>
   </item><item>
     <title>Personal</title>
     <link>https://spiceoogway.github.io/personal/</link>
     <guid>https://spiceoogway.github.io/personal/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 12 Aug 2026 23:12:47 GMT</pubDate>
+    <pubDate>Mon, 17 Aug 2026 22:14:53 GMT</pubDate>
   </item><item>
     <title>Predictions</title>
     <link>https://spiceoogway.github.io/predictions/</link>
     <guid>https://spiceoogway.github.io/predictions/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 12 Aug 2026 23:12:47 GMT</pubDate>
+    <pubDate>Mon, 17 Aug 2026 22:14:53 GMT</pubDate>
   </item><item>
     <title>clippings</title>
     <link>https://spiceoogway.github.io/tags/clippings</link>
     <guid>https://spiceoogway.github.io/tags/clippings</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 12 Aug 2026 23:12:47 GMT</pubDate>
+    <pubDate>Mon, 17 Aug 2026 22:14:53 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://spiceoogway.github.io/tags/</link>
     <guid>https://spiceoogway.github.io/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 12 Aug 2026 23:12:47 GMT</pubDate>
+    <pubDate>Mon, 17 Aug 2026 22:14:53 GMT</pubDate>
+  </item><item>
+    <title>List of Target Twitter Accounts</title>
+    <link>https://spiceoogway.github.io/notes/list-of-target-twitter-accounts</link>
+    <guid>https://spiceoogway.github.io/notes/list-of-target-twitter-accounts</guid>
+    <description><![CDATA[  @wafer_ai @gpugene @ianye0212 @gpubiz @gpusteve @gpuemi @semianalysis_ @0xjaniak @philipkiely @vibhuuuus @NielsRogge @luminal_ai @joefioti @GenAI_is_real @radixark @A_K_Nain @sgl_project @cerebras @inferact @simon_mo_ @inference_net @not_ellinton @maxxfuu @mohitwt_ @ekzhang1 @dejavucoder @pranjalss... ]]></description>
+    <pubDate>Mon, 17 Aug 2026 22:14:20 GMT</pubDate>
+  </item><item>
+    <title>Serving Inference Book Notes</title>
+    <link>https://spiceoogway.github.io/notes/serving-inference-book-notes</link>
+    <guid>https://spiceoogway.github.io/notes/serving-inference-book-notes</guid>
+    <description><![CDATA[  business implications: latency, throughput, cost optimization techniques: batching, quantization, kernel fusion, continouous batching, prefix caching, speculative decoding What is python’s pickle utility for serializing objects? What exactly is serialization? What are convolutional layers? What are... ]]></description>
+    <pubDate>Mon, 17 Aug 2026 22:14:20 GMT</pubDate>
+  </item><item>
+    <title>Live To-do</title>
+    <link>https://spiceoogway.github.io/personal/live-to-do</link>
+    <guid>https://spiceoogway.github.io/personal/live-to-do</guid>
+    <description><![CDATA[ Main To-dos: 60% Main Create a twitter posting strategy 20% Parallel Workstream Bump authors of papers B3IQ 20% Automation Multi google MCP situation Auth situation for MCP Critical and Do Now: Waiting Purchase macbook - www.ebay.com/itm/287469090192 Brunch in Soho Ebay refund Chapter 2 Inference Bo... ]]></description>
+    <pubDate>Mon, 17 Aug 2026 22:14:20 GMT</pubDate>
   </item><item>
     <title>DeepSeek V2 OCR Encoder</title>
     <link>https://spiceoogway.github.io/notes/deepseek-v2-ocr-encoder</link>
     <guid>https://spiceoogway.github.io/notes/deepseek-v2-ocr-encoder</guid>
     <description><![CDATA[ Human vision uses casual reasoning for processing visual “tokens” vs raster-scan order used in more VLM encoders. ]]></description>
-    <pubDate>Wed, 12 Aug 2026 23:12:21 GMT</pubDate>
-  </item><item>
-    <title>Untitled 1</title>
-    <link>https://spiceoogway.github.io/notes/untitled-1</link>
-    <guid>https://spiceoogway.github.io/notes/untitled-1</guid>
-    <description><![CDATA[ hey Hey! How can IHello! How can I What’s hey ! How can I help you today ? What’s up ? How can I help. ]]></description>
-    <pubDate>Wed, 12 Aug 2026 23:12:21 GMT</pubDate>
-  </item><item>
-    <title>Untitled</title>
-    <link>https://spiceoogway.github.io/notes/untitled</link>
-    <guid>https://spiceoogway.github.io/notes/untitled</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 12 Aug 2026 23:12:21 GMT</pubDate>
-  </item><item>
-    <title>Live To-do</title>
-    <link>https://spiceoogway.github.io/personal/live-to-do</link>
-    <guid>https://spiceoogway.github.io/personal/live-to-do</guid>
-    <description><![CDATA[ Main To-dos: 60% Main Network IDBD post - review and update Bump authors of paper Push through inference serving book/C/GPU Programming 20% Parallel Workstream Create a twitter posting strategy B3IQ Long Lake + Coast 20% Automation [Internal predictive model - WIP](Predictions/July 16 2026 Predictio... ]]></description>
     <pubDate>Wed, 12 Aug 2026 23:12:21 GMT</pubDate>
   </item>
     </channel>
