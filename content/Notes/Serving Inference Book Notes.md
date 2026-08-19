@@ -14,3 +14,4 @@
 - How exactly does stream async work?
 - Ops / bytes and arithmetic intensity of a model
 - Explain paged attention
+- continous batching
