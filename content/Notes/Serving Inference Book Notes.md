@@ -13,5 +13,8 @@
 - Prefill, decode, kv cache boost?
 - How exactly does stream async work?
 - Ops / bytes and arithmetic intensity of a model
-- Explain paged attention
+
 - continous batching
+- staged / cascade speculative decoding
+
+- What doe speculative decoding use for speculation on the draft tokens?
