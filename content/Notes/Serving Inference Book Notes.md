@@ -23,24 +23,35 @@ Today, I build a custom implementation of continuous batching.
 
 I broke this post down into two parts:
 - The basics of naive and continuous batching
-- 
+- Performance testing
+- The math
 
 First, what is the problem that continuous batching solves?
 
 Let's say you have n users and a GPU can only process 4 user prompts at a time. The first four users send their respective prompts to my API endpoint. 
 
-A naive batching implementation would generate each new token for each user auto-regressively and wait until all tokens for both users are generated before accepting any new prompts from the users.
+In his chart, T1-T8 are tokens in a generative sequence. Prompt squares are green tokens, generated (output) squares are yellow, and the red squares are end-of-sequence tokens.
 
-This can result in scenarios where Users A decode sequence is finished before User B's. While User A's sequence is finished, naive batching cannot accept User C's prompt and parts of the GPU are idle while you wait from User B's sequence to finish.
+![[continuous-batching-naive-handdrawn.png]]
 
-How does continuous batching solve this problem?
+A naive batching implementation waits until all 4 users’ sequences are finished before accepting the next user prompts. As you can see by the white squares in the right hand side of the chart, the GPU is idle while you wait for user 2's sequence to finish.
 
-Let's go to the prior example, but this time, we "re-batch" the prompts the moment User C's prompt comes in. 
+![[continuous-batching-dynamic-handdrawn.png]]
 
-Instead of waiting for User B's sequence to finish before accepting User C's prompt, User C's sequences is simply batched with the other two users and placed in the decoder queue. We also can take User A's sequence, send it to User A's client and remove prompt A from the batch during the re-batch. 
+Continuous batching on the other hand implements iteration level sequencing such that you you begin to accept the next user's sequence as soon as the previous user's sequence is finished.
 
+Continuous batching does introduce a scheduling conflict when a new request arrives while other requests are decoding. 
 
-Post 2: Staged / Cascade Speculative Decoding vs MEDUSA/Eagle
+A long prefill (shown as the green prefill block for a new prompt sequence) can stall the other decoding requests. Although this reduces the TTFT for the new user, the other users that are in the middle of the streaming process will see their output pause while another user's prompt is being processed. 
 
+This is called decode-maximal batching (https://arxiv.org/abs/2308.16369). It results in lower Inter Token Latency (ITL) however the tradeoff includes additional shceulding and attention overhead.
 
-- 
+![[whole-prefill-stall-handdrawn.png]]
+
+![[chunked-prefill-handdrawn.png]]
+
+You can resolve this issue by chunking the prefill and scheduling them in multiple iterations. 
+
+Post 2:
+
+Turns out you can chain speculative decoding drafters.
