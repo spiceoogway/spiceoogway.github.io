@@ -76,3 +76,5 @@ Scoring stays fully parallel. Every adjacent pair at every position is scored in
 An agent writes in an afternoon what a chatbot writes in a month, and decoding sits under every one of those tokens. DFlash 2 decodes at **close to 3× the speed of autoregressive decoding, about a third of the compute per token**, with the same output.
 
 In seven months, DFlash went from our paper to an industry standard, with more than 3.5 million downloads. Inside the same design, DFlash 2 decodes one more full token per pass, for free. That is only one component of the serving stack. Inference is nowhere near its floor.
+
+Useful things per joule
