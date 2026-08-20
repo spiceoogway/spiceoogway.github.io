@@ -46,9 +46,9 @@ A long prefill (shown as the green prefill block for a new prompt sequence) can 
 
 This is called decode-maximal batching (https://arxiv.org/abs/2308.16369). It results in lower Inter Token Latency (ITL) however the tradeoff includes additional shceulding and attention overhead.
 
-![[whole-prefill-stall-handdrawn.png]]
+![[Pasted image 20260819195953.png]]
 
-![[chunked-prefill-handdrawn.png]]
+![[Pasted image 20260819200032.png]]
 
 You can resolve this issue by chunking the prefill and scheduling them in multiple iterations. 
 
