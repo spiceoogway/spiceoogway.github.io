@@ -53,9 +53,9 @@ You can resolve this issue by chunking the prefill and scheduling them in multip
 
 For testing, I rebuilt vLLM's continuous batching engine for Qwen2.5-7B-Instruct. The following are using a rented A100 80GB.
 
-![[continuous-batching-throughput-benchmark.png]]
+![[continuous-batching-throughput-benchmark-v2.png]]
 
-![[continuous-batching-speedup-benchmark.png]]
+![[continuous-batching-speedup-benchmark-v2.png]]
 
 Post 2:
 
