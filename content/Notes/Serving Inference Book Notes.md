@@ -52,6 +52,24 @@ This is called decode-maximal batching (https://arxiv.org/abs/2308.16369). It re
 
 You can resolve this issue by chunking the prefill and scheduling them in multiple iterations. 
 
+Performance testing
+
+Benchmarked static vs continuous batching with the same vLLM engine on a rented A100 80GB (Qwen2.5-7B-Instruct, 256 requests, output lengths varied 32–512 tokens, ignore_eos so every config generates the exact same 70,814 tokens). Static = submit a batch of B prompts, wait for all of them to finish, submit the next batch. Continuous = submit everything at once with max_num_seqs=B so a waiting request takes a slot the moment one frees up. Same engine, same workload — only the scheduling policy differs.
+
+![[continuous-batching-throughput-benchmark.png]]
+
+![[continuous-batching-speedup-benchmark.png]]
+
+The speedup peaks at 1.63x at concurrency 16 and narrows at 64 — with 256 requests, B=64 means only 4 batches, so there are fewer barriers to pay for. At B=1 the two policies are identical within 1% (sanity check that the comparison is fair).
+
+![[continuous-batching-barrier-staircase-benchmark.png]]
+
+The staircase is static batching's completions at concurrency 16: each step is a barrier where the whole batch sat waiting for its longest sequence (the white squares in the hand-drawn chart above). Continuous batching finished the same 256 requests at 51s vs 83s.
+
+Numbers (output tok/s, static → continuous): B=4: 255 → 384 (1.51x) · B=8: 460 → 733 (1.60x) · B=16: 853 → 1,388 (1.63x) · B=32: 1,601 → 2,471 (1.54x) · B=64: 2,879 → 3,870 (1.34x)
+
+Harness + raw per-request timings live in ~/llm-serving (bench/run_bench.py, results/results.json). Note the classic "23x" numbers people post compare vLLM vs naive HF generate, which bundles in PagedAttention + kernel wins — this isolates the scheduling algorithm itself.
+
 Post 2:
 
 Turns out you can chain speculative decoding drafters.
