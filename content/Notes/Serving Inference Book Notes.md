@@ -59,4 +59,20 @@ For testing, I rebuilt vLLM's continuous batching engine for Qwen2.5-7B-Instruct
 
 Post 2:
 
-Turns out you can chain speculative decoding drafters.
+Drafters and speculative decoding
+
+Lately, I've been spending time understanding various speculative decoding architectures.
+
+Coherence is mostly local: a candidate's fit depends mainly on the token just before it, so scoring neighboring pairs should be enough. DFlash 2 keeps the top 16 candidates at each position and scores every adjacent pair: for predecessor aa and current candidate bb,
+
+St(a,b)=Ut(b)+⟨A(a)⊙H(ht),B(b)⟩.St​(a,b)=Ut​(b)+⟨A(a)⊙H(ht​),B(b)⟩.
+
+The score has two parts. The first, Ut(b)Ut​(b), is DFlash's own logit: how much the drafter already liked bb on its own. The second asks how well bb follows aa: AA and BB give each token a compact 256-dimensional embedding, and the two embeddings are matched under a context gate H(ht)H(ht​) that decides which parts of the match count. In essence, this is a low-rank bilinear attention over adjacent candidates.
+
+Scoring stays fully parallel. Every adjacent pair at every position is scored in one shot, with no extra backbone or LM-head pass. The only sequential work is the final walk over precomputed scores: starting from the last verified token, greedy follows the best successor at each step, sampling draws from the same scores, and rejection sampling restores the exact target distribution.
+
+![[Pasted image 20260820113043.png]]
+
+An agent writes in an afternoon what a chatbot writes in a month, and decoding sits under every one of those tokens. DFlash 2 decodes at **close to 3× the speed of autoregressive decoding, about a third of the compute per token**, with the same output.
+
+In seven months, DFlash went from our paper to an industry standard, with more than 3.5 million downloads. Inside the same design, DFlash 2 decodes one more full token per pass, for free. That is only one component of the serving stack. Inference is nowhere near its floor.
