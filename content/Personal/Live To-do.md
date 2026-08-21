@@ -3,37 +3,33 @@ Main To-dos:
 
 60% Main
 - [Create a twitter posting strategy](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FTwitter%20Poasting)
+- Steve Blank Hypotheses
 20% Parallel Workstream
-- Bump authors of papers
 - B3IQ
 20% Automation
-- **Multi google MCP situation**
-- Auth situation for MCP
+- 
 
 Critical and Do Now:
 - Waiting
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 	- Brunch in Soho
-	- Ebay refund
-- Chapter 2 Inference Book
-- 3:30 Call
-- Food 2
-- Generate Post Idea
-- Reply Guy
-- Update Live Todo
-- Chapter 1 Linux Book
-- Food 3
-- Sleep early - 11pm no phone
+	- B3IQ
+	- Niyant's application download
 - Alex equity
+- Sleep early - 11pm no phone
 
 Do Now but not critical:
 
+- Market map of dashboards and routers
+- Steve Blank Hypothesis
 - Figure out flights for vLLM
 - Notice of experience + DOL responses - By July 30th
 
 Do later but critical:
 
+- Investor letter
 - [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
+- Distribute SpaceX shares
 - Plan out next sangha visit (11th or 18th, Tuesday, requires registration)
 - Finances:
 	- Move stablecoins through privacy pools and purchase QQQ
@@ -58,6 +54,7 @@ Do later but critical:
 
 Do later but not critical:
 
+- Chapter 1 Linux Book
 - Bump authors of papers
 - Linux book
 - Notification problem with orca
