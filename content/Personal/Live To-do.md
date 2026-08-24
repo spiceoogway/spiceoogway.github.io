@@ -12,7 +12,6 @@ Main To-dos:
 Critical and Do Now:
 - Waiting
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
-	- Brunch in Soho
 	- B3IQ
 	- Niyant's application download
 - Alex equity
