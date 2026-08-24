@@ -13,9 +13,8 @@ Critical and Do Now:
 - Waiting
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 	- B3IQ
-	- Niyant's application download
-- Alex equity - WIP
-- cod
+	- Mention to Niyant about preferred equity function (downround protection + liquidiation preference)
+- Alex equity
 - Sleep early - 11pm no phone
 
 Do Now but not critical:
