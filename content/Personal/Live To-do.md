@@ -14,7 +14,8 @@ Critical and Do Now:
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 	- B3IQ
 	- Niyant's application download
-- Alex equity
+- Alex equity - WIP
+- cod
 - Sleep early - 11pm no phone
 
 Do Now but not critical:
