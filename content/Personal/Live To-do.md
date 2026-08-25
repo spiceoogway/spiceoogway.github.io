@@ -13,15 +13,13 @@ Critical and Do Now:
 - Waiting
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 	- B3IQ
-	- Mention to Niyant about preferred equity function (downround protection + liquidiation preference)
-- Alex equity
+	- Ring shopping 5:45pm tomorrow
+- **Execute on Alex's equity items**
+- Steve Blank Hypothesis
 - Sleep early - 11pm no phone
 
 Do Now but not critical:
 
-- Market map of dashboards and routers
-- Steve Blank Hypothesis
-- Figure out flights for vLLM
 - Notice of experience + DOL responses - By July 30th
 
 Do later but critical:
