@@ -13,10 +13,11 @@ Critical and Do Now:
 - Waiting
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 	- B3IQ
-	- Ring shopping 5:45pm tomorrow
+	- Daniel <> Aliya <> Dylan connect
+	- Kill BCAP meeting
+- 5pm go home
 - **Execute on Alex's equity items**
 - Steve Blank Hypothesis
-- Sleep early - 11pm no phone
 
 Do Now but not critical:
 
@@ -29,6 +30,7 @@ Do later but critical:
 - Distribute SpaceX shares
 - Plan out next sangha visit (11th or 18th, Tuesday, requires registration)
 - Finances:
+	- Erebor
 	- Move stablecoins through privacy pools and purchase QQQ
 	- Balance sf + x corp charges
 	- Figure our spacex distribution (2886, 460, 50, 10)
