@@ -13,9 +13,6 @@ Critical and Do Now:
 - Waiting
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 	- B3IQ
-	- Daniel <> Aliya <> Dylan connect
-	- Kill BCAP meeting
-- 5pm go home
 - **Execute on Alex's equity items**
 - Steve Blank Hypothesis
 
