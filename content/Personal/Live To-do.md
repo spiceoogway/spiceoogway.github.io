@@ -14,12 +14,11 @@ Critical and Do Now:
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 	- B3IQ
 	- Nyle Garg call
+	- ALL MAIL / Tax stuff
 - HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th
-- Figure out whether I should go home tn
 - Steve Blank Hypothesis - 07 Customer relationships
 
 Do Now but not critical:
-
 
 
 Do later but critical:
@@ -29,7 +28,6 @@ Do later but critical:
 - Distribute SpaceX shares
 - Plan out next sangha visit (11th or 18th, Tuesday, requires registration)
 - Finances:
-	- Erebor
 	- Move stablecoins through privacy pools and purchase QQQ
 	- Balance sf + x corp charges
 	- Figure our spacex distribution (2886, 460, 50, 10)
