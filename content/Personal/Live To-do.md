@@ -13,11 +13,12 @@ Critical and Do Now:
 - Waiting
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 	- B3IQ
-- Discuss optimal equity allocation w/ Alex
-- Steve Blank Hypothesis
+- Steve Blank Hypothesis - 07 Customer relationships
+- Typeform
 
 Do Now but not critical:
 
+- Reply Nyle Garg
 - Notice of experience + DOL responses - By July 30th
 
 Do later but critical:
