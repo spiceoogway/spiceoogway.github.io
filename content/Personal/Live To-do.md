@@ -11,20 +11,22 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
-	- Purchase macbook - https://www.ebay.com/itm/287469090192
+	- Monitor ebay for macbook - https://www.ebay.com/itm/287469090192
 	- B3IQ
 	- Nyle Garg call
-	- ALL MAIL / Tax stuff
+	- ALL MAIL / Tax stuff - Sunday
 - HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th
 - Steve Blank Hypothesis - 07 Customer relationships
 
 Do Now but not critical:
-
+- 
 
 Do later but critical:
 
-- Investor letter
 - [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
+- Pay Manoli for rent
+- Patrick gemstone selection question
+- Investor letter
 - Distribute SpaceX shares
 - Plan out next sangha visit (11th or 18th, Tuesday, requires registration)
 - Finances:
