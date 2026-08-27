@@ -10,43 +10,49 @@
     <link>https://spiceoogway.github.io/clippings/</link>
     <guid>https://spiceoogway.github.io/clippings/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 27 Aug 2026 20:36:39 GMT</pubDate>
+    <pubDate>Thu, 27 Aug 2026 21:37:38 GMT</pubDate>
   </item><item>
     <title>Notes</title>
     <link>https://spiceoogway.github.io/notes/</link>
     <guid>https://spiceoogway.github.io/notes/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 27 Aug 2026 20:36:39 GMT</pubDate>
+    <pubDate>Thu, 27 Aug 2026 21:37:38 GMT</pubDate>
   </item><item>
     <title>Personal</title>
     <link>https://spiceoogway.github.io/personal/</link>
     <guid>https://spiceoogway.github.io/personal/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 27 Aug 2026 20:36:39 GMT</pubDate>
+    <pubDate>Thu, 27 Aug 2026 21:37:38 GMT</pubDate>
   </item><item>
     <title>Predictions</title>
     <link>https://spiceoogway.github.io/predictions/</link>
     <guid>https://spiceoogway.github.io/predictions/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 27 Aug 2026 20:36:39 GMT</pubDate>
+    <pubDate>Thu, 27 Aug 2026 21:37:38 GMT</pubDate>
   </item><item>
     <title>clippings</title>
     <link>https://spiceoogway.github.io/tags/clippings</link>
     <guid>https://spiceoogway.github.io/tags/clippings</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 27 Aug 2026 20:36:39 GMT</pubDate>
+    <pubDate>Thu, 27 Aug 2026 21:37:38 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://spiceoogway.github.io/tags/</link>
     <guid>https://spiceoogway.github.io/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 27 Aug 2026 20:36:39 GMT</pubDate>
+    <pubDate>Thu, 27 Aug 2026 21:37:38 GMT</pubDate>
+  </item><item>
+    <title>Office + Apt hunting</title>
+    <link>https://spiceoogway.github.io/notes/office-+-apt-hunting</link>
+    <guid>https://spiceoogway.github.io/notes/office-+-apt-hunting</guid>
+    <description><![CDATA[  Understand living preferences for 2027 (End of July) Niyant, Alex, Manoli, Dylan Identify broad location alternatives for office (Early August) Primarily figure out rough costs Identify living alternatives for 2027 Call with Daniel re: buy vs rent and multifam (Early August) Potentially begin inter... ]]></description>
+    <pubDate>Thu, 27 Aug 2026 21:37:12 GMT</pubDate>
   </item><item>
     <title>Live To-do</title>
     <link>https://spiceoogway.github.io/personal/live-to-do</link>
     <guid>https://spiceoogway.github.io/personal/live-to-do</guid>
-    <description><![CDATA[ Main To-dos: 60% Main Create a twitter posting strategy Steve Blank Hypotheses 20% Parallel Workstream B3IQ 20% Automation Critical and Do Now: Waiting Purchase macbook - www.ebay.com/itm/287469090192 B3IQ Nyle Garg call ALL MAIL / Tax stuff HIGHLY IMPORTANT!!!! Notice of experience + DOL responses ... ]]></description>
-    <pubDate>Thu, 27 Aug 2026 20:36:10 GMT</pubDate>
+    <description><![CDATA[ Main To-dos: 60% Main Create a twitter posting strategy Steve Blank Hypotheses 20% Parallel Workstream B3IQ 20% Automation Critical and Do Now: Waiting Monitor ebay for macbook - www.ebay.com/itm/287469090192 B3IQ Nyle Garg call ALL MAIL / Tax stuff - Sunday HIGHLY IMPORTANT!!!! Notice of experience... ]]></description>
+    <pubDate>Thu, 27 Aug 2026 21:37:12 GMT</pubDate>
   </item><item>
     <title>Current Work</title>
     <link>https://spiceoogway.github.io/personal/current-work</link>
@@ -59,12 +65,6 @@
     <guid>https://spiceoogway.github.io/notes/crm-names-+-provider-maps</guid>
     <description><![CDATA[  Rory McDermott - BaseTen AJ Kurzman - BaseTen Gajesh - Darkbloom Ethan Vera - Novita David Tao - Anfa VC Sayak Chatterjee - Mirror Physics Sishir Varghese - The Grid Niko Lazaris - Obvious IA Benji Leibowitz - Ageless RX Chris Hedley - Headstart ai Gateways, routers, inference provider aggregators:... ]]></description>
     <pubDate>Mon, 24 Aug 2026 16:47:08 GMT</pubDate>
-  </item><item>
-    <title>Serving Inference Book Notes</title>
-    <link>https://spiceoogway.github.io/notes/serving-inference-book-notes</link>
-    <guid>https://spiceoogway.github.io/notes/serving-inference-book-notes</guid>
-    <description><![CDATA[  business implications: latency, throughput, cost optimization techniques: batching, quantization, kernel fusion, continouous batching, prefix caching, speculative decoding What is python’s pickle utility for serializing objects? What exactly is serialization? What are convolutional layers? What are... ]]></description>
-    <pubDate>Thu, 20 Aug 2026 20:55:51 GMT</pubDate>
   </item>
     </channel>
   </rss>
