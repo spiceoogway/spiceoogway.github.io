@@ -13,7 +13,7 @@ Critical and Do Now:
 - Waiting
 	- Purchase macbook - https://www.ebay.com/itm/287469090192
 	- B3IQ
-- **Execute on Alex's equity items**
+- Discuss optimal equity allocation w/ Alex
 - Steve Blank Hypothesis
 
 Do Now but not critical:
