@@ -11,21 +11,25 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
+	- Patrick gemstone selection question - ask mom
 	- Monitor ebay for macbook - https://www.ebay.com/itm/287469090192
-	- B3IQ
-	- Nyle Garg call
+	- Bump B3IQ
 	- ALL MAIL / Tax stuff - Sunday
-- HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th
-- Steve Blank Hypothesis - 07 Customer relationships
+	- HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Monday
+	- Book Nyle Garg call
+- 
+- Pay Manoli for rent
+	- Figure out when he was last paid
 
 Do Now but not critical:
-- 
+- Work
+	- Reach out to existing users re: GLM 5.3
+	- Get tracking on the landing page
+	- Steve Blank Hypothesis docs
 
 Do later but critical:
 
 - [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
-- Pay Manoli for rent
-- Patrick gemstone selection question
 - Investor letter
 - Distribute SpaceX shares
 - Plan out next sangha visit (11th or 18th, Tuesday, requires registration)
