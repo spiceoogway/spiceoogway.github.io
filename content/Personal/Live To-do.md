@@ -11,19 +11,17 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
-	- Patrick gemstone selection question - ask mom
+	- Patrick gemstone selection question - get susie info
 	- Monitor ebay for macbook - https://www.ebay.com/itm/287469090192
-	- Bump B3IQ
 	- ALL MAIL / Tax stuff - Sunday
 	- HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Monday
+	- Bump B3IQ - Monday
 	- Book Nyle Garg call - Monday
 	- Call w/ lzminsky - Tuesday
 	- Send money to coinbase once it hits checking - Tuesday
 
 Do Now but not critical:
 - Work
-	- **Get tracking on the landing page**
-	- FIgure out n/a but re: GLM 5.3
 	- Reach out to existing users re: GLM 5.3
 	- Steve Blank Hypothesis docs
 
