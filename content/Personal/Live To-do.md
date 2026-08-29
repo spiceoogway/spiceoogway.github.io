@@ -16,15 +16,15 @@ Critical and Do Now:
 	- Bump B3IQ
 	- ALL MAIL / Tax stuff - Sunday
 	- HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Monday
-	- Book Nyle Garg call
-- 
-- Pay Manoli for rent
-	- Figure out when he was last paid
+	- Book Nyle Garg call - Monday
+	- Call w/ lzminsky - Tuesday
+	- Send money to coinbase once it hits checking - Tuesday
 
 Do Now but not critical:
 - Work
+	- **Get tracking on the landing page**
+	- FIgure out n/a but re: GLM 5.3
 	- Reach out to existing users re: GLM 5.3
-	- Get tracking on the landing page
 	- Steve Blank Hypothesis docs
 
 Do later but critical:
