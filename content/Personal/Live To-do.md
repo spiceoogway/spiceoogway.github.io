@@ -15,22 +15,16 @@ Critical and Do Now:
 	- Rebook w/ Lauris
 	- Book Nyle Garg call
 	- Gemstone - Sept 15th
-- Surplus Intelligence fix and resolution
-	- Model limitations and blockades for Surplus Intelligence
-- HTTP error tracking
+- Caddy HTTP error tracking
+- Account management
+	- Convert existing users to be considered users
+	- Introduce a rate limit warning to flagged users
 - Investor letter
 
 Do Now but not critical:
 - Work
-	- Introduce per user daily rate limit. $20/day
-	- Convert self serve to waitlist
-	- 
 	- Update Steve Blank
-	- Bug work
-		- Fix centaur
-		- Mixpanel tracking
-		- Test whether the self serve website works
-	- Steve Blank Hypothesis docs
+	- Fix Centaur
 
 Do later but critical:
 
