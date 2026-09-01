@@ -11,24 +11,34 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
-	- Patrick gemstone selection question - get susie info
-	- Monitor ebay for macbook - https://www.ebay.com/itm/287469090192
-	- ALL MAIL / Tax stuff - Sunday
-	- HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Monday
-	- Bump B3IQ - Monday
+	- b3IQ
+	- Wire Manoli
 	- Book Nyle Garg call - Monday
-	- Call w/ lzminsky - Tuesday
-	- Send money to coinbase once it hits checking - Tuesday
+	- Gemstone - Sept 15th
+- Call w/ lzminsky - Tuesday
+- HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Monday
+- Investor letter
+- Looked into the failed requests and get HTTP tracking
 
 Do Now but not critical:
 - Work
-	- Reach out to existing users re: GLM 5.3
+	- Look into failed requests
+	- Convert self serve to waitlist
+	- HTTP error tracking
+	- Update Steve Blank
+	- Bug work
+		- Fix centaur
+		- Mixpanel tracking
+		- Test whether the self serve website works
 	- Steve Blank Hypothesis docs
 
 Do later but critical:
 
 - [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
-- Investor letter
+- Figure out if all tax information got filed
+	- NJ overdue
+	- Did the letters go through
+- Mandel Dermatology payment
 - Distribute SpaceX shares
 - Plan out next sangha visit (11th or 18th, Tuesday, requires registration)
 - Finances:
@@ -54,7 +64,6 @@ Do later but critical:
 
 Do later but not critical:
 
-- Chapter 1 Linux Book
 - Bump authors of papers
 - Linux book
 - Notification problem with orca
