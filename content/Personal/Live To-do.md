@@ -11,20 +11,20 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
-	- b3IQ
 	- Wire Manoli
-	- Book Nyle Garg call - Monday
+	- Rebook w/ Lauris
+	- Book Nyle Garg call
 	- Gemstone - Sept 15th
-- Call w/ lzminsky - Tuesday
-- HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Monday
+- Surplus Intelligence fix and resolution
+	- Model limitations and blockades for Surplus Intelligence
+- HTTP error tracking
 - Investor letter
-- Looked into the failed requests and get HTTP tracking
 
 Do Now but not critical:
 - Work
-	- Look into failed requests
+	- Introduce per user daily rate limit. $20/day
 	- Convert self serve to waitlist
-	- HTTP error tracking
+	- 
 	- Update Steve Blank
 	- Bug work
 		- Fix centaur
@@ -34,6 +34,9 @@ Do Now but not critical:
 
 Do later but critical:
 
+- Read over B3IQ
+- Alex offer letter
+- HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Monday
 - [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
 - Figure out if all tax information got filed
 	- NJ overdue
@@ -44,6 +47,7 @@ Do later but critical:
 - Finances:
 	- Move stablecoins through privacy pools and purchase QQQ
 	- Balance sf + x corp charges
+	- Get capital call FFIV from Alex
 	- Figure our spacex distribution (2886, 460, 50, 10)
 		- Requires figuring out tax stuff
 	- Figure out Prometheus distribution (65,3,7 * 1125)
