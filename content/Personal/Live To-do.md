@@ -12,24 +12,21 @@ Main To-dos:
 Critical and Do Now:
 - Waiting
 	- Wire Manoli
-	- Niyant's dad - B3IQ
-	- Book Nyle Garg call
-	- Gemstone - Sept 15th
+	- B3IQ Response
+	- Nyle Garg call booking
 	- Lauris - Wednesday
-- Check flight info stuff
+	- Gemstone - Sept 15th
+- **Niyant -> Investor Letter thoughts**
+- **Convert existing users to be considered users**
+- Outreach -> figure out per-request cost
 - Caddy HTTP error tracking
-- Account management
-	- Convert existing users to be considered users - WIP
-- Investor letter
-	- Start scoping out the framework for the update
 
 Do Now but not critical:
 
+- Update Steve Blank
+
 Do later but critical:
 
-- Update Steve Blank
-- Fix Centaur
-- Read over B3IQ
 - Alex offer letter
 - HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Monday
 - [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
@@ -63,6 +60,7 @@ Do later but critical:
 
 Do later but not critical:
 
+- Fix Centaur
 - Bump authors of papers
 - Linux book
 - Notification problem with orca
