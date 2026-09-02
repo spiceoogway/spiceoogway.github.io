@@ -12,22 +12,24 @@ Main To-dos:
 Critical and Do Now:
 - Waiting
 	- Wire Manoli
-	- Rebook w/ Lauris
+	- Niyant's dad - B3IQ
 	- Book Nyle Garg call
 	- Gemstone - Sept 15th
+	- Lauris - Wednesday
 - Caddy HTTP error tracking
 - Account management
-	- Convert existing users to be considered users
+	- Convert existing users to be considered users - WIP
+	- Fix mixpanel missing the clerky user login - WIP
 	- Introduce a rate limit warning to flagged users
 - Investor letter
+	- Start scoping out the framework for the update
 
 Do Now but not critical:
-- Work
-	- Update Steve Blank
-	- Fix Centaur
 
 Do later but critical:
 
+- Update Steve Blank
+- Fix Centaur
 - Read over B3IQ
 - Alex offer letter
 - HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Monday
