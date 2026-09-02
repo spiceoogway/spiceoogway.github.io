@@ -16,14 +16,13 @@ Critical and Do Now:
 	- Nyle Garg call booking
 	- Lauris - Wednesday
 	- Gemstone - Sept 15th
-- **Niyant -> Investor Letter thoughts**
-- **Convert existing users to be considered users**
-- Outreach -> figure out per-request cost
-- Caddy HTTP error tracking
+- Outreach to users
+- **Update investor letter w/ Niyant thoughts**
+- Update Steve Blank
 
 Do Now but not critical:
 
-- Update Steve Blank
+- 
 
 Do later but critical:
 
@@ -60,6 +59,8 @@ Do later but critical:
 
 Do later but not critical:
 
+- Convert existing users to be considered users
+- Caddy HTTP error tracking
 - Fix Centaur
 - Bump authors of papers
 - Linux book
