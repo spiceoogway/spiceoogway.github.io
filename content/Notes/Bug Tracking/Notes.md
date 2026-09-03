@@ -5,3 +5,6 @@
 - Notion is out of date
 - Show users how much money they've saved on the dashboard
 - Lite LLM is extremely slow
+- 0731 flash
+- TTFT is terrible
+- Terrible TPS 

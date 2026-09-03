@@ -11,13 +11,14 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
+	- Move two inference offenders over to paid - Review at 5:15pm tomorrow
 	- Wire Manoli
 	- B3IQ Response
 	- Nyle Garg call booking
 	- Lauris - Wednesday
 	- Gemstone - Sept 15th
-- **Update investor letter**
-- Move that guy over
+- **Update investor letter** - WIP
+- Laundry + packing + sleep
 - Update Steve Blank + Plan w/ Dylan
 - Laundry + packing
 - Alex offer letter
