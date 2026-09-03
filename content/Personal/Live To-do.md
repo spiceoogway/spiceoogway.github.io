@@ -26,7 +26,6 @@ Do Now but not critical:
 
 Do later but critical:
 
-- 
 - HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Monday
 - [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
 - Figure out if all tax information got filed
