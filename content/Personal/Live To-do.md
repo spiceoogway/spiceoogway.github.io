@@ -16,8 +16,10 @@ Critical and Do Now:
 	- Nyle Garg call booking
 	- Lauris - Wednesday
 	- Gemstone - Sept 15th
-- **Update investor letter w/ Niyant thoughts**
-- Update Steve Blank
+- **Update investor letter**
+- Move that guy over
+- Update Steve Blank + Plan w/ Dylan
+- Laundry + packing
 - Alex offer letter
 
 Do Now but not critical:
