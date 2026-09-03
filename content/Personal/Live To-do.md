@@ -16,9 +16,9 @@ Critical and Do Now:
 	- Nyle Garg call booking
 	- Lauris - Wednesday
 	- Gemstone - Sept 15th
-- Outreach to users
 - **Update investor letter w/ Niyant thoughts**
 - Update Steve Blank
+- Alex offer letter
 
 Do Now but not critical:
 
@@ -26,7 +26,7 @@ Do Now but not critical:
 
 Do later but critical:
 
-- Alex offer letter
+- 
 - HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Monday
 - [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
 - Figure out if all tax information got filed
